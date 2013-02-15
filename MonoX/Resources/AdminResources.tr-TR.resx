@@ -2601,4 +2601,10 @@ Facebook mantığına benzeyen bir mantık içerinde mesaj gönderebilecektir.</
   <data name="PortalSettings_PhotoGalleryAdministratorRoles" xml:space="preserve">
     <value>Fotoğraf galerisi yönetici rolleri</value>
   </data>
+  <data name="UserManager_sortFailedPasswordAnswerAttempts" xml:space="preserve">
+    <value>Failed password answer attempt</value>
+  </data>
+  <data name="UserManager_sortFailedPasswordAttempts" xml:space="preserve">
+    <value>Failed password attempt</value>
+  </data>
 </root>
