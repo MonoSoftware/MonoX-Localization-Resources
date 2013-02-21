@@ -121,16 +121,16 @@
     <value>vor</value>
   </data>
   <data name="DateTimeExtension_DaysAgo" xml:space="preserve">
-    <value>{0} Jobs in {1}</value>
+    <value>{0} tag(e)</value>
   </data>
   <data name="DateTimeExtension_HoursAgo" xml:space="preserve">
-    <value>{0} Personen</value>
+    <value>{0} stunde(n)</value>
   </data>
   <data name="DateTimeExtension_MinutesAgo" xml:space="preserve">
-    <value>&lt;br /&gt;Für die gewünschten Kriterien wurden keine Blog-Beiträge gefunden.&lt;br /&gt;</value>
+    <value>{0} minute(n)</value>
   </data>
   <data name="DateTimeExtension_MonthsAgo" xml:space="preserve">
-    <value>{0} Monaten</value>
+    <value>{0} monaten</value>
   </data>
   <data name="DateTimeExtension_WeeksAgo" xml:space="preserve">
     <value>{0} Wochen</value>
