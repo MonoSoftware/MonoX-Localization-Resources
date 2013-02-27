@@ -79,11 +79,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'AddNewEvent'.
+        /// </summary>
+        public static string AddNewEvent_PropertyName {
+            get {
+                return "AddNewEvent";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Add new event'.
         /// </summary>
         public static string AddNewEvent {
             get {
                 return ResourceManager.GetString("AddNewEvent", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'AdvancedScheduler_AllDay'.
+        /// </summary>
+        public static string AdvancedScheduler_AllDay_PropertyName {
+            get {
+                return "AdvancedScheduler_AllDay";
             }
         }
         
@@ -97,11 +115,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'AdvancedScheduler_CalendarFastNext'.
+        /// </summary>
+        public static string AdvancedScheduler_CalendarFastNext_PropertyName {
+            get {
+                return "AdvancedScheduler_CalendarFastNext";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Move four months forward'.
         /// </summary>
         public static string AdvancedScheduler_CalendarFastNext {
             get {
                 return ResourceManager.GetString("AdvancedScheduler_CalendarFastNext", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'AdvancedScheduler_CalendarFastPrev'.
+        /// </summary>
+        public static string AdvancedScheduler_CalendarFastPrev_PropertyName {
+            get {
+                return "AdvancedScheduler_CalendarFastPrev";
             }
         }
         
@@ -115,11 +151,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'AdvancedScheduler_CalendarNext'.
+        /// </summary>
+        public static string AdvancedScheduler_CalendarNext_PropertyName {
+            get {
+                return "AdvancedScheduler_CalendarNext";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Move one month forward'.
         /// </summary>
         public static string AdvancedScheduler_CalendarNext {
             get {
                 return ResourceManager.GetString("AdvancedScheduler_CalendarNext", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'AdvancedScheduler_CalendarPrev'.
+        /// </summary>
+        public static string AdvancedScheduler_CalendarPrev_PropertyName {
+            get {
+                return "AdvancedScheduler_CalendarPrev";
             }
         }
         
@@ -133,11 +187,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'AdvancedScheduler_DateIsOutOfRange'.
+        /// </summary>
+        public static string AdvancedScheduler_DateIsOutOfRange_PropertyName {
+            get {
+                return "AdvancedScheduler_DateIsOutOfRange";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Date is out of range'.
         /// </summary>
         public static string AdvancedScheduler_DateIsOutOfRange {
             get {
                 return ResourceManager.GetString("AdvancedScheduler_DateIsOutOfRange", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'AdvancedScheduler_Day'.
+        /// </summary>
+        public static string AdvancedScheduler_Day_PropertyName {
+            get {
+                return "AdvancedScheduler_Day";
             }
         }
         
@@ -151,11 +223,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'AdvancedScheduler_DeleteText'.
+        /// </summary>
+        public static string AdvancedScheduler_DeleteText_PropertyName {
+            get {
+                return "AdvancedScheduler_DeleteText";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Are you sure you want to delete this event?'.
         /// </summary>
         public static string AdvancedScheduler_DeleteText {
             get {
                 return ResourceManager.GetString("AdvancedScheduler_DeleteText", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'AdvancedScheduler_DeleteTitle'.
+        /// </summary>
+        public static string AdvancedScheduler_DeleteTitle_PropertyName {
+            get {
+                return "AdvancedScheduler_DeleteTitle";
             }
         }
         
@@ -169,11 +259,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'AdvancedScheduler_Month'.
+        /// </summary>
+        public static string AdvancedScheduler_Month_PropertyName {
+            get {
+                return "AdvancedScheduler_Month";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Month'.
         /// </summary>
         public static string AdvancedScheduler_Month {
             get {
                 return ResourceManager.GetString("AdvancedScheduler_Month", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'AdvancedScheduler_NextDay'.
+        /// </summary>
+        public static string AdvancedScheduler_NextDay_PropertyName {
+            get {
+                return "AdvancedScheduler_NextDay";
             }
         }
         
@@ -187,11 +295,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'AdvancedScheduler_PrevDay'.
+        /// </summary>
+        public static string AdvancedScheduler_PrevDay_PropertyName {
+            get {
+                return "AdvancedScheduler_PrevDay";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Previous day'.
         /// </summary>
         public static string AdvancedScheduler_PrevDay {
             get {
                 return ResourceManager.GetString("AdvancedScheduler_PrevDay", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'AdvancedScheduler_Show24Hours'.
+        /// </summary>
+        public static string AdvancedScheduler_Show24Hours_PropertyName {
+            get {
+                return "AdvancedScheduler_Show24Hours";
             }
         }
         
@@ -205,11 +331,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'AdvancedScheduler_ShowBusinessHours'.
+        /// </summary>
+        public static string AdvancedScheduler_ShowBusinessHours_PropertyName {
+            get {
+                return "AdvancedScheduler_ShowBusinessHours";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Show business hours'.
         /// </summary>
         public static string AdvancedScheduler_ShowBusinessHours {
             get {
                 return ResourceManager.GetString("AdvancedScheduler_ShowBusinessHours", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'AdvancedScheduler_ShowMore'.
+        /// </summary>
+        public static string AdvancedScheduler_ShowMore_PropertyName {
+            get {
+                return "AdvancedScheduler_ShowMore";
             }
         }
         
@@ -223,11 +367,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'AdvancedScheduler_Today'.
+        /// </summary>
+        public static string AdvancedScheduler_Today_PropertyName {
+            get {
+                return "AdvancedScheduler_Today";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Today'.
         /// </summary>
         public static string AdvancedScheduler_Today {
             get {
                 return ResourceManager.GetString("AdvancedScheduler_Today", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'AdvancedScheduler_Week'.
+        /// </summary>
+        public static string AdvancedScheduler_Week_PropertyName {
+            get {
+                return "AdvancedScheduler_Week";
             }
         }
         
@@ -241,11 +403,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'AllDay'.
+        /// </summary>
+        public static string AllDay_PropertyName {
+            get {
+                return "AllDay";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'All day'.
         /// </summary>
         public static string AllDay {
             get {
                 return ResourceManager.GetString("AllDay", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Description'.
+        /// </summary>
+        public static string Description_PropertyName {
+            get {
+                return "Description";
             }
         }
         
@@ -259,11 +439,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'EndTime'.
+        /// </summary>
+        public static string EndTime_PropertyName {
+            get {
+                return "EndTime";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'End time'.
         /// </summary>
         public static string EndTime {
             get {
                 return ResourceManager.GetString("EndTime", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Event_Description'.
+        /// </summary>
+        public static string Event_Description_PropertyName {
+            get {
+                return "Event_Description";
             }
         }
         
@@ -277,11 +475,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Event_Description_Place'.
+        /// </summary>
+        public static string Event_Description_Place_PropertyName {
+            get {
+                return "Event_Description_Place";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'at {0} '.
         /// </summary>
         public static string Event_Description_Place {
             get {
                 return ResourceManager.GetString("Event_Description_Place", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'EventEditorTitle'.
+        /// </summary>
+        public static string EventEditorTitle_PropertyName {
+            get {
+                return "EventEditorTitle";
             }
         }
         
@@ -295,11 +511,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'NoCalendarSelected'.
+        /// </summary>
+        public static string NoCalendarSelected_PropertyName {
+            get {
+                return "NoCalendarSelected";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'There is no calendar selected.'.
         /// </summary>
         public static string NoCalendarSelected {
             get {
                 return ResourceManager.GetString("NoCalendarSelected", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Place'.
+        /// </summary>
+        public static string Place_PropertyName {
+            get {
+                return "Place";
             }
         }
         
@@ -313,11 +547,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'SimpleView_ClearFilter'.
+        /// </summary>
+        public static string SimpleView_ClearFilter_PropertyName {
+            get {
+                return "SimpleView_ClearFilter";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Clear filter'.
         /// </summary>
         public static string SimpleView_ClearFilter {
             get {
                 return ResourceManager.GetString("SimpleView_ClearFilter", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'SimpleView_DeleteButtonTooltip'.
+        /// </summary>
+        public static string SimpleView_DeleteButtonTooltip_PropertyName {
+            get {
+                return "SimpleView_DeleteButtonTooltip";
             }
         }
         
@@ -331,11 +583,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'SimpleView_Filter'.
+        /// </summary>
+        public static string SimpleView_Filter_PropertyName {
+            get {
+                return "SimpleView_Filter";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Filter'.
         /// </summary>
         public static string SimpleView_Filter {
             get {
                 return ResourceManager.GetString("SimpleView_Filter", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'SimpleView_UpdateButtonTooltip'.
+        /// </summary>
+        public static string SimpleView_UpdateButtonTooltip_PropertyName {
+            get {
+                return "SimpleView_UpdateButtonTooltip";
             }
         }
         
@@ -349,11 +619,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'StartTime'.
+        /// </summary>
+        public static string StartTime_PropertyName {
+            get {
+                return "StartTime";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Start time'.
         /// </summary>
         public static string StartTime {
             get {
                 return ResourceManager.GetString("StartTime", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Title'.
+        /// </summary>
+        public static string Title_PropertyName {
+            get {
+                return "Title";
             }
         }
         
@@ -367,11 +655,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Validator_DateRange'.
+        /// </summary>
+        public static string Validator_DateRange_PropertyName {
+            get {
+                return "Validator_DateRange";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'End time must be greater then start time'.
         /// </summary>
         public static string Validator_DateRange {
             get {
                 return ResourceManager.GetString("Validator_DateRange", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Validator_EndTimeRequired'.
+        /// </summary>
+        public static string Validator_EndTimeRequired_PropertyName {
+            get {
+                return "Validator_EndTimeRequired";
             }
         }
         
@@ -385,11 +691,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Validator_StartTimeRequired'.
+        /// </summary>
+        public static string Validator_StartTimeRequired_PropertyName {
+            get {
+                return "Validator_StartTimeRequired";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Start time is required'.
         /// </summary>
         public static string Validator_StartTimeRequired {
             get {
                 return ResourceManager.GetString("Validator_StartTimeRequired", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Validator_SubjectRequired'.
+        /// </summary>
+        public static string Validator_SubjectRequired_PropertyName {
+            get {
+                return "Validator_SubjectRequired";
             }
         }
         

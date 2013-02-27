@@ -79,11 +79,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'EditProfile_AboutMySelf'.
+        /// </summary>
+        public static string EditProfile_AboutMySelf_PropertyName {
+            get {
+                return "EditProfile_AboutMySelf";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'About me:'.
         /// </summary>
         public static string EditProfile_AboutMySelf {
             get {
                 return ResourceManager.GetString("EditProfile_AboutMySelf", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'EditProfile_Address'.
+        /// </summary>
+        public static string EditProfile_Address_PropertyName {
+            get {
+                return "EditProfile_Address";
             }
         }
         
@@ -97,11 +115,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'EditProfile_BirthDate'.
+        /// </summary>
+        public static string EditProfile_BirthDate_PropertyName {
+            get {
+                return "EditProfile_BirthDate";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Date of birth:'.
         /// </summary>
         public static string EditProfile_BirthDate {
             get {
                 return ResourceManager.GetString("EditProfile_BirthDate", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'EditProfile_City'.
+        /// </summary>
+        public static string EditProfile_City_PropertyName {
+            get {
+                return "EditProfile_City";
             }
         }
         
@@ -115,11 +151,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'EditProfile_ConfirmPassword'.
+        /// </summary>
+        public static string EditProfile_ConfirmPassword_PropertyName {
+            get {
+                return "EditProfile_ConfirmPassword";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Confirm password:'.
         /// </summary>
         public static string EditProfile_ConfirmPassword {
             get {
                 return ResourceManager.GetString("EditProfile_ConfirmPassword", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'EditProfile_Country'.
+        /// </summary>
+        public static string EditProfile_Country_PropertyName {
+            get {
+                return "EditProfile_Country";
             }
         }
         
@@ -133,11 +187,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'EditProfile_Email'.
+        /// </summary>
+        public static string EditProfile_Email_PropertyName {
+            get {
+                return "EditProfile_Email";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'E-mail:'.
         /// </summary>
         public static string EditProfile_Email {
             get {
                 return ResourceManager.GetString("EditProfile_Email", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'EditProfile_FirstName'.
+        /// </summary>
+        public static string EditProfile_FirstName_PropertyName {
+            get {
+                return "EditProfile_FirstName";
             }
         }
         
@@ -151,11 +223,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'EditProfile_Info'.
+        /// </summary>
+        public static string EditProfile_Info_PropertyName {
+            get {
+                return "EditProfile_Info";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Please use this form to change your profile.'.
         /// </summary>
         public static string EditProfile_Info {
             get {
                 return ResourceManager.GetString("EditProfile_Info", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'EditProfile_LastName'.
+        /// </summary>
+        public static string EditProfile_LastName_PropertyName {
+            get {
+                return "EditProfile_LastName";
             }
         }
         
@@ -169,11 +259,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'EditProfile_NoUser'.
+        /// </summary>
+        public static string EditProfile_NoUser_PropertyName {
+            get {
+                return "EditProfile_NoUser";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'User does not exist.'.
         /// </summary>
         public static string EditProfile_NoUser {
             get {
                 return ResourceManager.GetString("EditProfile_NoUser", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'EditProfile_Password'.
+        /// </summary>
+        public static string EditProfile_Password_PropertyName {
+            get {
+                return "EditProfile_Password";
             }
         }
         
@@ -187,11 +295,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'EditProfile_PasswordCompareErrorMessage'.
+        /// </summary>
+        public static string EditProfile_PasswordCompareErrorMessage_PropertyName {
+            get {
+                return "EditProfile_PasswordCompareErrorMessage";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Passwords don&apos;t match.'.
         /// </summary>
         public static string EditProfile_PasswordCompareErrorMessage {
             get {
                 return ResourceManager.GetString("EditProfile_PasswordCompareErrorMessage", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'EditProfile_PasswordCompareText'.
+        /// </summary>
+        public static string EditProfile_PasswordCompareText_PropertyName {
+            get {
+                return "EditProfile_PasswordCompareText";
             }
         }
         
@@ -205,11 +331,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'EditProfile_RegexEmailErrorMessage'.
+        /// </summary>
+        public static string EditProfile_RegexEmailErrorMessage_PropertyName {
+            get {
+                return "EditProfile_RegexEmailErrorMessage";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'E-Mail is invalid.'.
         /// </summary>
         public static string EditProfile_RegexEmailErrorMessage {
             get {
                 return ResourceManager.GetString("EditProfile_RegexEmailErrorMessage", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'EditProfile_RegexEmailText'.
+        /// </summary>
+        public static string EditProfile_RegexEmailText_PropertyName {
+            get {
+                return "EditProfile_RegexEmailText";
             }
         }
         
@@ -223,11 +367,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'EditProfile_ReqFirstNameErrorMessage'.
+        /// </summary>
+        public static string EditProfile_ReqFirstNameErrorMessage_PropertyName {
+            get {
+                return "EditProfile_ReqFirstNameErrorMessage";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'First name is required.'.
         /// </summary>
         public static string EditProfile_ReqFirstNameErrorMessage {
             get {
                 return ResourceManager.GetString("EditProfile_ReqFirstNameErrorMessage", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'EditProfile_ReqFirstNameText'.
+        /// </summary>
+        public static string EditProfile_ReqFirstNameText_PropertyName {
+            get {
+                return "EditProfile_ReqFirstNameText";
             }
         }
         
@@ -241,11 +403,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'EditProfile_ReqLastNameErrorMessage'.
+        /// </summary>
+        public static string EditProfile_ReqLastNameErrorMessage_PropertyName {
+            get {
+                return "EditProfile_ReqLastNameErrorMessage";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Last name is required.'.
         /// </summary>
         public static string EditProfile_ReqLastNameErrorMessage {
             get {
                 return ResourceManager.GetString("EditProfile_ReqLastNameErrorMessage", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'EditProfile_ReqLastNameText'.
+        /// </summary>
+        public static string EditProfile_ReqLastNameText_PropertyName {
+            get {
+                return "EditProfile_ReqLastNameText";
             }
         }
         
@@ -259,11 +439,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'EditProfile_RowBasicInfo'.
+        /// </summary>
+        public static string EditProfile_RowBasicInfo_PropertyName {
+            get {
+                return "EditProfile_RowBasicInfo";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'BASIC INFORMATION'.
         /// </summary>
         public static string EditProfile_RowBasicInfo {
             get {
                 return ResourceManager.GetString("EditProfile_RowBasicInfo", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'EditProfile_RowOtherInfo'.
+        /// </summary>
+        public static string EditProfile_RowOtherInfo_PropertyName {
+            get {
+                return "EditProfile_RowOtherInfo";
             }
         }
         
@@ -277,11 +475,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'EditProfile_RowPasswordTitle'.
+        /// </summary>
+        public static string EditProfile_RowPasswordTitle_PropertyName {
+            get {
+                return "EditProfile_RowPasswordTitle";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Please enter your password twice due to security reasons. Your password should contain at least 6 characters or numbers.'.
         /// </summary>
         public static string EditProfile_RowPasswordTitle {
             get {
                 return ResourceManager.GetString("EditProfile_RowPasswordTitle", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'EditProfile_Saved'.
+        /// </summary>
+        public static string EditProfile_Saved_PropertyName {
+            get {
+                return "EditProfile_Saved";
             }
         }
         
@@ -295,11 +511,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'EditProfile_TimeZone'.
+        /// </summary>
+        public static string EditProfile_TimeZone_PropertyName {
+            get {
+                return "EditProfile_TimeZone";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Time zone'.
         /// </summary>
         public static string EditProfile_TimeZone {
             get {
                 return ResourceManager.GetString("EditProfile_TimeZone", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'EditProfile_Title'.
+        /// </summary>
+        public static string EditProfile_Title_PropertyName {
+            get {
+                return "EditProfile_Title";
             }
         }
         
@@ -313,11 +547,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'EditProfile_Validation_Url'.
+        /// </summary>
+        public static string EditProfile_Validation_Url_PropertyName {
+            get {
+                return "EditProfile_Validation_Url";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Please enter a correct Web site address, starting with http:// prefix.'.
         /// </summary>
         public static string EditProfile_Validation_Url {
             get {
                 return ResourceManager.GetString("EditProfile_Validation_Url", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'EditProfile_ValSumHeaderText'.
+        /// </summary>
+        public static string EditProfile_ValSumHeaderText_PropertyName {
+            get {
+                return "EditProfile_ValSumHeaderText";
             }
         }
         
@@ -331,11 +583,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'EditProfile_WebSites'.
+        /// </summary>
+        public static string EditProfile_WebSites_PropertyName {
+            get {
+                return "EditProfile_WebSites";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'My web sites:'.
         /// </summary>
         public static string EditProfile_WebSites {
             get {
                 return ResourceManager.GetString("EditProfile_WebSites", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'EditProfile_ZipCode'.
+        /// </summary>
+        public static string EditProfile_ZipCode_PropertyName {
+            get {
+                return "EditProfile_ZipCode";
             }
         }
         
@@ -349,11 +619,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'UserAvatar_Caption'.
+        /// </summary>
+        public static string UserAvatar_Caption_PropertyName {
+            get {
+                return "UserAvatar_Caption";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'User avatar'.
         /// </summary>
         public static string UserAvatar_Caption {
             get {
                 return ResourceManager.GetString("UserAvatar_Caption", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'UserAvatar_InvalidFile'.
+        /// </summary>
+        public static string UserAvatar_InvalidFile_PropertyName {
+            get {
+                return "UserAvatar_InvalidFile";
             }
         }
         
@@ -367,11 +655,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'UserProfile_Browse'.
+        /// </summary>
+        public static string UserProfile_Browse_PropertyName {
+            get {
+                return "UserProfile_Browse";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Browse'.
         /// </summary>
         public static string UserProfile_Browse {
             get {
                 return ResourceManager.GetString("UserProfile_Browse", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'UserProfile_Clear'.
+        /// </summary>
+        public static string UserProfile_Clear_PropertyName {
+            get {
+                return "UserProfile_Clear";
             }
         }
         
@@ -385,11 +691,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'UserProfile_Save'.
+        /// </summary>
+        public static string UserProfile_Save_PropertyName {
+            get {
+                return "UserProfile_Save";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Save'.
         /// </summary>
         public static string UserProfile_Save {
             get {
                 return ResourceManager.GetString("UserProfile_Save", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'UserProfileHeader_About'.
+        /// </summary>
+        public static string UserProfileHeader_About_PropertyName {
+            get {
+                return "UserProfileHeader_About";
             }
         }
         
@@ -403,11 +727,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'UserProfileHeader_Friends'.
+        /// </summary>
+        public static string UserProfileHeader_Friends_PropertyName {
+            get {
+                return "UserProfileHeader_Friends";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Friends'.
         /// </summary>
         public static string UserProfileHeader_Friends {
             get {
                 return ResourceManager.GetString("UserProfileHeader_Friends", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'UserProfileHeader_MyWall'.
+        /// </summary>
+        public static string UserProfileHeader_MyWall_PropertyName {
+            get {
+                return "UserProfileHeader_MyWall";
             }
         }
         
@@ -421,11 +763,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'UserProfileHeader_Photos'.
+        /// </summary>
+        public static string UserProfileHeader_Photos_PropertyName {
+            get {
+                return "UserProfileHeader_Photos";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Photos'.
         /// </summary>
         public static string UserProfileHeader_Photos {
             get {
                 return ResourceManager.GetString("UserProfileHeader_Photos", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'UserProfileModule_CompleteProfile'.
+        /// </summary>
+        public static string UserProfileModule_CompleteProfile_PropertyName {
+            get {
+                return "UserProfileModule_CompleteProfile";
             }
         }
         
@@ -439,11 +799,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'UserProfileModule_DefaultMyStatusText'.
+        /// </summary>
+        public static string UserProfileModule_DefaultMyStatusText_PropertyName {
+            get {
+                return "UserProfileModule_DefaultMyStatusText";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Type your status here ...'.
         /// </summary>
         public static string UserProfileModule_DefaultMyStatusText {
             get {
                 return ResourceManager.GetString("UserProfileModule_DefaultMyStatusText", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'UserProfileModule_EditProfile'.
+        /// </summary>
+        public static string UserProfileModule_EditProfile_PropertyName {
+            get {
+                return "UserProfileModule_EditProfile";
             }
         }
         
@@ -457,11 +835,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'UserProfileModule_MyStatusEmpty'.
+        /// </summary>
+        public static string UserProfileModule_MyStatusEmpty_PropertyName {
+            get {
+                return "UserProfileModule_MyStatusEmpty";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Your status goes here'.
         /// </summary>
         public static string UserProfileModule_MyStatusEmpty {
             get {
                 return ResourceManager.GetString("UserProfileModule_MyStatusEmpty", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'UserProfileModule_RemoveStatus_ToolTip'.
+        /// </summary>
+        public static string UserProfileModule_RemoveStatus_ToolTip_PropertyName {
+            get {
+                return "UserProfileModule_RemoveStatus_ToolTip";
             }
         }
         
@@ -475,11 +871,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'UserProfileModule_SetMyStatus'.
+        /// </summary>
+        public static string UserProfileModule_SetMyStatus_PropertyName {
+            get {
+                return "UserProfileModule_SetMyStatus";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Submit'.
         /// </summary>
         public static string UserProfileModule_SetMyStatus {
             get {
                 return ResourceManager.GetString("UserProfileModule_SetMyStatus", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'UserProfileModule_Title'.
+        /// </summary>
+        public static string UserProfileModule_Title_PropertyName {
+            get {
+                return "UserProfileModule_Title";
             }
         }
         
@@ -493,6 +907,15 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'UserProfileModule_User'.
+        /// </summary>
+        public static string UserProfileModule_User_PropertyName {
+            get {
+                return "UserProfileModule_User";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Choose a user:'.
         /// </summary>
         public static string UserProfileModule_User {
@@ -502,11 +925,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'UserProfileModule_ViewProfile'.
+        /// </summary>
+        public static string UserProfileModule_ViewProfile_PropertyName {
+            get {
+                return "UserProfileModule_ViewProfile";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'View'.
         /// </summary>
         public static string UserProfileModule_ViewProfile {
             get {
                 return ResourceManager.GetString("UserProfileModule_ViewProfile", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'UserScore'.
+        /// </summary>
+        public static string UserScore_PropertyName {
+            get {
+                return "UserScore";
             }
         }
         

@@ -79,11 +79,29 @@ namespace MonoSoftware.MonoX.Resources.WebParts {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'CloseVerb'.
+        /// </summary>
+        public static string CloseVerb_PropertyName {
+            get {
+                return "CloseVerb";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Close'.
         /// </summary>
         public static string CloseVerb {
             get {
                 return ResourceManager.GetString("CloseVerb", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'CloseVerbDescription'.
+        /// </summary>
+        public static string CloseVerbDescription_PropertyName {
+            get {
+                return "CloseVerbDescription";
             }
         }
         
@@ -97,11 +115,29 @@ namespace MonoSoftware.MonoX.Resources.WebParts {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'ConnectVerb'.
+        /// </summary>
+        public static string ConnectVerb_PropertyName {
+            get {
+                return "ConnectVerb";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Connect'.
         /// </summary>
         public static string ConnectVerb {
             get {
                 return ResourceManager.GetString("ConnectVerb", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'ConnectVerbDescription'.
+        /// </summary>
+        public static string ConnectVerbDescription_PropertyName {
+            get {
+                return "ConnectVerbDescription";
             }
         }
         
@@ -115,11 +151,29 @@ namespace MonoSoftware.MonoX.Resources.WebParts {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Copied'.
+        /// </summary>
+        public static string Copied_PropertyName {
+            get {
+                return "Copied";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'copied'.
         /// </summary>
         public static string Copied {
             get {
                 return ResourceManager.GetString("Copied", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'CopyVerb'.
+        /// </summary>
+        public static string CopyVerb_PropertyName {
+            get {
+                return "CopyVerb";
             }
         }
         
@@ -133,11 +187,29 @@ namespace MonoSoftware.MonoX.Resources.WebParts {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'CopyVerbDescription'.
+        /// </summary>
+        public static string CopyVerbDescription_PropertyName {
+            get {
+                return "CopyVerbDescription";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Copies the Web part to the clipboard'.
         /// </summary>
         public static string CopyVerbDescription {
             get {
                 return ResourceManager.GetString("CopyVerbDescription", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'DeleteVerb'.
+        /// </summary>
+        public static string DeleteVerb_PropertyName {
+            get {
+                return "DeleteVerb";
             }
         }
         
@@ -151,11 +223,29 @@ namespace MonoSoftware.MonoX.Resources.WebParts {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'DeleteVerbDescription'.
+        /// </summary>
+        public static string DeleteVerbDescription_PropertyName {
+            get {
+                return "DeleteVerbDescription";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Deletes the Web part from a page'.
         /// </summary>
         public static string DeleteVerbDescription {
             get {
                 return ResourceManager.GetString("DeleteVerbDescription", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'EditSourceVerb'.
+        /// </summary>
+        public static string EditSourceVerb_PropertyName {
+            get {
+                return "EditSourceVerb";
             }
         }
         
@@ -169,11 +259,29 @@ namespace MonoSoftware.MonoX.Resources.WebParts {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'EditSourceVerbDescription'.
+        /// </summary>
+        public static string EditSourceVerbDescription_PropertyName {
+            get {
+                return "EditSourceVerbDescription";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Allows you to edit the Web part source code'.
         /// </summary>
         public static string EditSourceVerbDescription {
             get {
                 return ResourceManager.GetString("EditSourceVerbDescription", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'EditVerbDescription'.
+        /// </summary>
+        public static string EditVerbDescription_PropertyName {
+            get {
+                return "EditVerbDescription";
             }
         }
         
@@ -187,11 +295,29 @@ namespace MonoSoftware.MonoX.Resources.WebParts {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'ExportVerb'.
+        /// </summary>
+        public static string ExportVerb_PropertyName {
+            get {
+                return "ExportVerb";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Export'.
         /// </summary>
         public static string ExportVerb {
             get {
                 return ResourceManager.GetString("ExportVerb", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'ExportVerbDescription'.
+        /// </summary>
+        public static string ExportVerbDescription_PropertyName {
+            get {
+                return "ExportVerbDescription";
             }
         }
         
@@ -205,11 +331,29 @@ namespace MonoSoftware.MonoX.Resources.WebParts {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'MinimizeVerb'.
+        /// </summary>
+        public static string MinimizeVerb_PropertyName {
+            get {
+                return "MinimizeVerb";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Minimize'.
         /// </summary>
         public static string MinimizeVerb {
             get {
                 return ResourceManager.GetString("MinimizeVerb", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'MinimizeVerbDescription'.
+        /// </summary>
+        public static string MinimizeVerbDescription_PropertyName {
+            get {
+                return "MinimizeVerbDescription";
             }
         }
         
@@ -223,11 +367,29 @@ namespace MonoSoftware.MonoX.Resources.WebParts {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'PersonalizationScopeEditVerbShared'.
+        /// </summary>
+        public static string PersonalizationScopeEditVerbShared_PropertyName {
+            get {
+                return "PersonalizationScopeEditVerbShared";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Properties'.
         /// </summary>
         public static string PersonalizationScopeEditVerbShared {
             get {
                 return ResourceManager.GetString("PersonalizationScopeEditVerbShared", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'PersonalizationScopeEditVerbUser'.
+        /// </summary>
+        public static string PersonalizationScopeEditVerbUser_PropertyName {
+            get {
+                return "PersonalizationScopeEditVerbUser";
             }
         }
         
@@ -241,6 +403,15 @@ namespace MonoSoftware.MonoX.Resources.WebParts {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'ResetPersonalization'.
+        /// </summary>
+        public static string ResetPersonalization_PropertyName {
+            get {
+                return "ResetPersonalization";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Reset personalization'.
         /// </summary>
         public static string ResetPersonalization {
@@ -250,11 +421,29 @@ namespace MonoSoftware.MonoX.Resources.WebParts {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'RestoreVerb'.
+        /// </summary>
+        public static string RestoreVerb_PropertyName {
+            get {
+                return "RestoreVerb";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Restore'.
         /// </summary>
         public static string RestoreVerb {
             get {
                 return ResourceManager.GetString("RestoreVerb", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'RestoreVerbDescription'.
+        /// </summary>
+        public static string RestoreVerbDescription_PropertyName {
+            get {
+                return "RestoreVerbDescription";
             }
         }
         

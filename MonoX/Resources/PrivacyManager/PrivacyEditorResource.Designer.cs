@@ -79,11 +79,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'PopupTitle'.
+        /// </summary>
+        public static string PopupTitle_PropertyName {
+            get {
+                return "PopupTitle";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Privacy editor for user &apos;{0}&apos;.'.
         /// </summary>
         public static string PopupTitle {
             get {
                 return ResourceManager.GetString("PopupTitle", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'PrivacyEditorEditTemplate_Title'.
+        /// </summary>
+        public static string PrivacyEditorEditTemplate_Title_PropertyName {
+            get {
+                return "PrivacyEditorEditTemplate_Title";
             }
         }
         

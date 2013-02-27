@@ -79,11 +79,29 @@ namespace MonoSoftware.MonoX.Resources.WebParts {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Copied'.
+        /// </summary>
+        public static string Copied_PropertyName {
+            get {
+                return "Copied";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'copied'.
         /// </summary>
         public static string Copied {
             get {
                 return ResourceManager.GetString("Copied", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Title'.
+        /// </summary>
+        public static string Title_PropertyName {
+            get {
+                return "Title";
             }
         }
         

@@ -79,11 +79,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Confirmation_Title'.
+        /// </summary>
+        public static string Confirmation_Title_PropertyName {
+            get {
+                return "Confirmation_Title";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Confirmation'.
         /// </summary>
         public static string Confirmation_Title {
             get {
                 return ResourceManager.GetString("Confirmation_Title", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Dashboard_Title'.
+        /// </summary>
+        public static string Dashboard_Title_PropertyName {
+            get {
+                return "Dashboard_Title";
             }
         }
         
@@ -97,11 +115,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_Title'.
+        /// </summary>
+        public static string Discussion_Title_PropertyName {
+            get {
+                return "Discussion_Title";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Discussion'.
         /// </summary>
         public static string Discussion_Title {
             get {
                 return ResourceManager.GetString("Discussion_Title", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'FileView_Title'.
+        /// </summary>
+        public static string FileView_Title_PropertyName {
+            get {
+                return "FileView_Title";
             }
         }
         
@@ -115,11 +151,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Groups_GroupContainer'.
+        /// </summary>
+        public static string Groups_GroupContainer_PropertyName {
+            get {
+                return "Groups_GroupContainer";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Groups'.
         /// </summary>
         public static string Groups_GroupContainer {
             get {
                 return ResourceManager.GetString("Groups_GroupContainer", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Groups_GroupInfo'.
+        /// </summary>
+        public static string Groups_GroupInfo_PropertyName {
+            get {
+                return "Groups_GroupInfo";
             }
         }
         
@@ -133,11 +187,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Groups_GroupMembers'.
+        /// </summary>
+        public static string Groups_GroupMembers_PropertyName {
+            get {
+                return "Groups_GroupMembers";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Group members'.
         /// </summary>
         public static string Groups_GroupMembers {
             get {
                 return ResourceManager.GetString("Groups_GroupMembers", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Groups_InvitationsReceived'.
+        /// </summary>
+        public static string Groups_InvitationsReceived_PropertyName {
+            get {
+                return "Groups_InvitationsReceived";
             }
         }
         
@@ -151,11 +223,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Groups_InvitationsSent'.
+        /// </summary>
+        public static string Groups_InvitationsSent_PropertyName {
+            get {
+                return "Groups_InvitationsSent";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Sent invitations'.
         /// </summary>
         public static string Groups_InvitationsSent {
             get {
                 return ResourceManager.GetString("Groups_InvitationsSent", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Groups_SearchGroups'.
+        /// </summary>
+        public static string Groups_SearchGroups_PropertyName {
+            get {
+                return "Groups_SearchGroups";
             }
         }
         
@@ -169,11 +259,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Groups_SearchGroups_DefaultSearchText'.
+        /// </summary>
+        public static string Groups_SearchGroups_DefaultSearchText_PropertyName {
+            get {
+                return "Groups_SearchGroups_DefaultSearchText";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Enter group search keywords'.
         /// </summary>
         public static string Groups_SearchGroups_DefaultSearchText {
             get {
                 return ResourceManager.GetString("Groups_SearchGroups_DefaultSearchText", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Groups_Title'.
+        /// </summary>
+        public static string Groups_Title_PropertyName {
+            get {
+                return "Groups_Title";
             }
         }
         
@@ -187,11 +295,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Label_Blogs'.
+        /// </summary>
+        public static string Label_Blogs_PropertyName {
+            get {
+                return "Label_Blogs";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Blogs'.
         /// </summary>
         public static string Label_Blogs {
             get {
                 return ResourceManager.GetString("Label_Blogs", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Label_BlogSearch'.
+        /// </summary>
+        public static string Label_BlogSearch_PropertyName {
+            get {
+                return "Label_BlogSearch";
             }
         }
         
@@ -205,11 +331,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Label_Groups'.
+        /// </summary>
+        public static string Label_Groups_PropertyName {
+            get {
+                return "Label_Groups";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Groups'.
         /// </summary>
         public static string Label_Groups {
             get {
                 return ResourceManager.GetString("Label_Groups", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Label_GroupSearch'.
+        /// </summary>
+        public static string Label_GroupSearch_PropertyName {
+            get {
+                return "Label_GroupSearch";
             }
         }
         
@@ -223,11 +367,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Label_People'.
+        /// </summary>
+        public static string Label_People_PropertyName {
+            get {
+                return "Label_People";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Users'.
         /// </summary>
         public static string Label_People {
             get {
                 return ResourceManager.GetString("Label_People", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Label_PeopleSearch'.
+        /// </summary>
+        public static string Label_PeopleSearch_PropertyName {
+            get {
+                return "Label_PeopleSearch";
             }
         }
         
@@ -241,11 +403,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Login_Or'.
+        /// </summary>
+        public static string Login_Or_PropertyName {
+            get {
+                return "Login_Or";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Or'.
         /// </summary>
         public static string Login_Or {
             get {
                 return ResourceManager.GetString("Login_Or", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Login_RpxWarning'.
+        /// </summary>
+        public static string Login_RpxWarning_PropertyName {
+            get {
+                return "Login_RpxWarning";
             }
         }
         
@@ -259,11 +439,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Messages_Title'.
+        /// </summary>
+        public static string Messages_Title_PropertyName {
+            get {
+                return "Messages_Title";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Messages'.
         /// </summary>
         public static string Messages_Title {
             get {
                 return ResourceManager.GetString("Messages_Title", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Module_Activities'.
+        /// </summary>
+        public static string Module_Activities_PropertyName {
+            get {
+                return "Module_Activities";
             }
         }
         
@@ -277,11 +475,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Module_BlockedUsersList'.
+        /// </summary>
+        public static string Module_BlockedUsersList_PropertyName {
+            get {
+                return "Module_BlockedUsersList";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'My Blocked Users'.
         /// </summary>
         public static string Module_BlockedUsersList {
             get {
                 return ResourceManager.GetString("Module_BlockedUsersList", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Module_BlockUser'.
+        /// </summary>
+        public static string Module_BlockUser_PropertyName {
+            get {
+                return "Module_BlockUser";
             }
         }
         
@@ -295,11 +511,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Module_Friends'.
+        /// </summary>
+        public static string Module_Friends_PropertyName {
+            get {
+                return "Module_Friends";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'My friends'.
         /// </summary>
         public static string Module_Friends {
             get {
                 return ResourceManager.GetString("Module_Friends", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Module_InvitationsReceived'.
+        /// </summary>
+        public static string Module_InvitationsReceived_PropertyName {
+            get {
+                return "Module_InvitationsReceived";
             }
         }
         
@@ -313,11 +547,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Module_InvitationsSent'.
+        /// </summary>
+        public static string Module_InvitationsSent_PropertyName {
+            get {
+                return "Module_InvitationsSent";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'My sent invitations'.
         /// </summary>
         public static string Module_InvitationsSent {
             get {
                 return ResourceManager.GetString("Module_InvitationsSent", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Module_Messages'.
+        /// </summary>
+        public static string Module_Messages_PropertyName {
+            get {
+                return "Module_Messages";
             }
         }
         
@@ -331,11 +583,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Module_PeopleSearch'.
+        /// </summary>
+        public static string Module_PeopleSearch_PropertyName {
+            get {
+                return "Module_PeopleSearch";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Search people'.
         /// </summary>
         public static string Module_PeopleSearch {
             get {
                 return ResourceManager.GetString("Module_PeopleSearch", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Module_PhotoGallery'.
+        /// </summary>
+        public static string Module_PhotoGallery_PropertyName {
+            get {
+                return "Module_PhotoGallery";
             }
         }
         
@@ -349,11 +619,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Module_UserProfileAlbums'.
+        /// </summary>
+        public static string Module_UserProfileAlbums_PropertyName {
+            get {
+                return "Module_UserProfileAlbums";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to '{0}&apos;s Albums'.
         /// </summary>
         public static string Module_UserProfileAlbums {
             get {
                 return ResourceManager.GetString("Module_UserProfileAlbums", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Module_UserProfileFriends'.
+        /// </summary>
+        public static string Module_UserProfileFriends_PropertyName {
+            get {
+                return "Module_UserProfileFriends";
             }
         }
         
@@ -367,11 +655,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Module_UserProfilePhotos'.
+        /// </summary>
+        public static string Module_UserProfilePhotos_PropertyName {
+            get {
+                return "Module_UserProfilePhotos";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to '{0}&apos;s Photos'.
         /// </summary>
         public static string Module_UserProfilePhotos {
             get {
                 return ResourceManager.GetString("Module_UserProfilePhotos", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Module_WallNotes'.
+        /// </summary>
+        public static string Module_WallNotes_PropertyName {
+            get {
+                return "Module_WallNotes";
             }
         }
         
@@ -385,11 +691,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'MyWall_Title'.
+        /// </summary>
+        public static string MyWall_Title_PropertyName {
+            get {
+                return "MyWall_Title";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'My Wall'.
         /// </summary>
         public static string MyWall_Title {
             get {
                 return ResourceManager.GetString("MyWall_Title", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'News_ReadMore_Title'.
+        /// </summary>
+        public static string News_ReadMore_Title_PropertyName {
+            get {
+                return "News_ReadMore_Title";
             }
         }
         
@@ -403,11 +727,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'PageFooter_About'.
+        /// </summary>
+        public static string PageFooter_About_PropertyName {
+            get {
+                return "PageFooter_About";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'About'.
         /// </summary>
         public static string PageFooter_About {
             get {
                 return ResourceManager.GetString("PageFooter_About", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'PageFooter_AdditionalResources'.
+        /// </summary>
+        public static string PageFooter_AdditionalResources_PropertyName {
+            get {
+                return "PageFooter_AdditionalResources";
             }
         }
         
@@ -421,11 +763,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'PageFooter_ConnectWithUs'.
+        /// </summary>
+        public static string PageFooter_ConnectWithUs_PropertyName {
+            get {
+                return "PageFooter_ConnectWithUs";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Connect with us'.
         /// </summary>
         public static string PageFooter_ConnectWithUs {
             get {
                 return ResourceManager.GetString("PageFooter_ConnectWithUs", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'PageFooter_Copyright'.
+        /// </summary>
+        public static string PageFooter_Copyright_PropertyName {
+            get {
+                return "PageFooter_Copyright";
             }
         }
         
@@ -439,11 +799,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'PageFooter_FacebookFan'.
+        /// </summary>
+        public static string PageFooter_FacebookFan_PropertyName {
+            get {
+                return "PageFooter_FacebookFan";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Become a fan on Facebook'.
         /// </summary>
         public static string PageFooter_FacebookFan {
             get {
                 return ResourceManager.GetString("PageFooter_FacebookFan", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'PageFooter_GeneralInfo'.
+        /// </summary>
+        public static string PageFooter_GeneralInfo_PropertyName {
+            get {
+                return "PageFooter_GeneralInfo";
             }
         }
         
@@ -457,11 +835,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'PageFooter_Home'.
+        /// </summary>
+        public static string PageFooter_Home_PropertyName {
+            get {
+                return "PageFooter_Home";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Home'.
         /// </summary>
         public static string PageFooter_Home {
             get {
                 return ResourceManager.GetString("PageFooter_Home", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'PageFooter_Licensing'.
+        /// </summary>
+        public static string PageFooter_Licensing_PropertyName {
+            get {
+                return "PageFooter_Licensing";
             }
         }
         
@@ -475,11 +871,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'PageFooter_LinkedInConnect'.
+        /// </summary>
+        public static string PageFooter_LinkedInConnect_PropertyName {
+            get {
+                return "PageFooter_LinkedInConnect";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Connect on LinkedIn'.
         /// </summary>
         public static string PageFooter_LinkedInConnect {
             get {
                 return ResourceManager.GetString("PageFooter_LinkedInConnect", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'PageFooter_PrivacyPolicy'.
+        /// </summary>
+        public static string PageFooter_PrivacyPolicy_PropertyName {
+            get {
+                return "PageFooter_PrivacyPolicy";
             }
         }
         
@@ -493,11 +907,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'PageFooter_SiteMembership'.
+        /// </summary>
+        public static string PageFooter_SiteMembership_PropertyName {
+            get {
+                return "PageFooter_SiteMembership";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Site Membership'.
         /// </summary>
         public static string PageFooter_SiteMembership {
             get {
                 return ResourceManager.GetString("PageFooter_SiteMembership", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'PageFooter_SocialNetworking'.
+        /// </summary>
+        public static string PageFooter_SocialNetworking_PropertyName {
+            get {
+                return "PageFooter_SocialNetworking";
             }
         }
         
@@ -511,11 +943,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'PageFooter_SocialNetworkingBlog'.
+        /// </summary>
+        public static string PageFooter_SocialNetworkingBlog_PropertyName {
+            get {
+                return "PageFooter_SocialNetworkingBlog";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Blog'.
         /// </summary>
         public static string PageFooter_SocialNetworkingBlog {
             get {
                 return ResourceManager.GetString("PageFooter_SocialNetworkingBlog", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'PageFooter_SocialNetworkingGroups'.
+        /// </summary>
+        public static string PageFooter_SocialNetworkingGroups_PropertyName {
+            get {
+                return "PageFooter_SocialNetworkingGroups";
             }
         }
         
@@ -529,11 +979,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'PageFooter_SocialNetworkingHome'.
+        /// </summary>
+        public static string PageFooter_SocialNetworkingHome_PropertyName {
+            get {
+                return "PageFooter_SocialNetworkingHome";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Home'.
         /// </summary>
         public static string PageFooter_SocialNetworkingHome {
             get {
                 return ResourceManager.GetString("PageFooter_SocialNetworkingHome", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'PageFooter_SocialNetworkingPhotos'.
+        /// </summary>
+        public static string PageFooter_SocialNetworkingPhotos_PropertyName {
+            get {
+                return "PageFooter_SocialNetworkingPhotos";
             }
         }
         
@@ -547,11 +1015,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'PageFooter_TermsOfUse'.
+        /// </summary>
+        public static string PageFooter_TermsOfUse_PropertyName {
+            get {
+                return "PageFooter_TermsOfUse";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Terms of use'.
         /// </summary>
         public static string PageFooter_TermsOfUse {
             get {
                 return ResourceManager.GetString("PageFooter_TermsOfUse", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'PageFooter_TwitterFollow'.
+        /// </summary>
+        public static string PageFooter_TwitterFollow_PropertyName {
+            get {
+                return "PageFooter_TwitterFollow";
             }
         }
         
@@ -565,11 +1051,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'PhotoGallery_Title'.
+        /// </summary>
+        public static string PhotoGallery_Title_PropertyName {
+            get {
+                return "PhotoGallery_Title";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Photo gallery'.
         /// </summary>
         public static string PhotoGallery_Title {
             get {
                 return ResourceManager.GetString("PhotoGallery_Title", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Title_AdditionalResources'.
+        /// </summary>
+        public static string Title_AdditionalResources_PropertyName {
+            get {
+                return "Title_AdditionalResources";
             }
         }
         
@@ -583,11 +1087,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Title_BottomSection'.
+        /// </summary>
+        public static string Title_BottomSection_PropertyName {
+            get {
+                return "Title_BottomSection";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Bottom section'.
         /// </summary>
         public static string Title_BottomSection {
             get {
                 return ResourceManager.GetString("Title_BottomSection", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Title_DescriptionOfFeatures'.
+        /// </summary>
+        public static string Title_DescriptionOfFeatures_PropertyName {
+            get {
+                return "Title_DescriptionOfFeatures";
             }
         }
         
@@ -601,11 +1123,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Title_FeaturedProjects'.
+        /// </summary>
+        public static string Title_FeaturedProjects_PropertyName {
+            get {
+                return "Title_FeaturedProjects";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Featured projects'.
         /// </summary>
         public static string Title_FeaturedProjects {
             get {
                 return ResourceManager.GetString("Title_FeaturedProjects", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Title_LeftSection'.
+        /// </summary>
+        public static string Title_LeftSection_PropertyName {
+            get {
+                return "Title_LeftSection";
             }
         }
         
@@ -619,11 +1159,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Title_MiddleSection'.
+        /// </summary>
+        public static string Title_MiddleSection_PropertyName {
+            get {
+                return "Title_MiddleSection";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Middle section'.
         /// </summary>
         public static string Title_MiddleSection {
             get {
                 return ResourceManager.GetString("Title_MiddleSection", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Title_Resources'.
+        /// </summary>
+        public static string Title_Resources_PropertyName {
+            get {
+                return "Title_Resources";
             }
         }
         
@@ -637,11 +1195,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Title_RightSection'.
+        /// </summary>
+        public static string Title_RightSection_PropertyName {
+            get {
+                return "Title_RightSection";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Right section'.
         /// </summary>
         public static string Title_RightSection {
             get {
                 return ResourceManager.GetString("Title_RightSection", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Title_ScreenGallery'.
+        /// </summary>
+        public static string Title_ScreenGallery_PropertyName {
+            get {
+                return "Title_ScreenGallery";
             }
         }
         
@@ -655,11 +1231,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Title_SearchResults'.
+        /// </summary>
+        public static string Title_SearchResults_PropertyName {
+            get {
+                return "Title_SearchResults";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Search results'.
         /// </summary>
         public static string Title_SearchResults {
             get {
                 return ResourceManager.GetString("Title_SearchResults", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Title_TopSection'.
+        /// </summary>
+        public static string Title_TopSection_PropertyName {
+            get {
+                return "Title_TopSection";
             }
         }
         
@@ -673,11 +1267,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'UserProfile_DiscussionMessages_Title'.
+        /// </summary>
+        public static string UserProfile_DiscussionMessages_Title_PropertyName {
+            get {
+                return "UserProfile_DiscussionMessages_Title";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Forum Posts'.
         /// </summary>
         public static string UserProfile_DiscussionMessages_Title {
             get {
                 return ResourceManager.GetString("UserProfile_DiscussionMessages_Title", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'UserProfile_FriendSuggestion_Title'.
+        /// </summary>
+        public static string UserProfile_FriendSuggestion_Title_PropertyName {
+            get {
+                return "UserProfile_FriendSuggestion_Title";
             }
         }
         
@@ -691,11 +1303,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'UserProfile_Map_Title'.
+        /// </summary>
+        public static string UserProfile_Map_Title_PropertyName {
+            get {
+                return "UserProfile_Map_Title";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to '{0}&apos;s Location'.
         /// </summary>
         public static string UserProfile_Map_Title {
             get {
                 return ResourceManager.GetString("UserProfile_Map_Title", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'UserProfile_NoSuchUser'.
+        /// </summary>
+        public static string UserProfile_NoSuchUser_PropertyName {
+            get {
+                return "UserProfile_NoSuchUser";
             }
         }
         
@@ -709,11 +1339,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'UserProfile_PeopleSearch_InfoText'.
+        /// </summary>
+        public static string UserProfile_PeopleSearch_InfoText_PropertyName {
+            get {
+                return "UserProfile_PeopleSearch_InfoText";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Add this user to your list of friends.'.
         /// </summary>
         public static string UserProfile_PeopleSearch_InfoText {
             get {
                 return ResourceManager.GetString("UserProfile_PeopleSearch_InfoText", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'UserProfile_PeopleSearch_Title'.
+        /// </summary>
+        public static string UserProfile_PeopleSearch_Title_PropertyName {
+            get {
+                return "UserProfile_PeopleSearch_Title";
             }
         }
         
@@ -727,11 +1375,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'UserProfile_Title'.
+        /// </summary>
+        public static string UserProfile_Title_PropertyName {
+            get {
+                return "UserProfile_Title";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'User profile for {0}'.
         /// </summary>
         public static string UserProfile_Title {
             get {
                 return ResourceManager.GetString("UserProfile_Title", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'UserProfile_UserProfile_Title'.
+        /// </summary>
+        public static string UserProfile_UserProfile_Title_PropertyName {
+            get {
+                return "UserProfile_UserProfile_Title";
             }
         }
         
@@ -745,11 +1411,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Wall_Title'.
+        /// </summary>
+        public static string Wall_Title_PropertyName {
+            get {
+                return "Wall_Title";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Site Wall'.
         /// </summary>
         public static string Wall_Title {
             get {
                 return ResourceManager.GetString("Wall_Title", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Wall_WallNotes_Title'.
+        /// </summary>
+        public static string Wall_WallNotes_Title_PropertyName {
+            get {
+                return "Wall_WallNotes_Title";
             }
         }
         
@@ -763,11 +1447,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Zone_BottomPartZone'.
+        /// </summary>
+        public static string Zone_BottomPartZone_PropertyName {
+            get {
+                return "Zone_BottomPartZone";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Bottom part zone'.
         /// </summary>
         public static string Zone_BottomPartZone {
             get {
                 return ResourceManager.GetString("Zone_BottomPartZone", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Zone_ContentZone'.
+        /// </summary>
+        public static string Zone_ContentZone_PropertyName {
+            get {
+                return "Zone_ContentZone";
             }
         }
         
@@ -781,11 +1483,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Zone_FeaturedProjectsZone'.
+        /// </summary>
+        public static string Zone_FeaturedProjectsZone_PropertyName {
+            get {
+                return "Zone_FeaturedProjectsZone";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Featured projects zone'.
         /// </summary>
         public static string Zone_FeaturedProjectsZone {
             get {
                 return ResourceManager.GetString("Zone_FeaturedProjectsZone", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Zone_LeftPartZone'.
+        /// </summary>
+        public static string Zone_LeftPartZone_PropertyName {
+            get {
+                return "Zone_LeftPartZone";
             }
         }
         
@@ -799,11 +1519,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Zone_MiddlePartZone'.
+        /// </summary>
+        public static string Zone_MiddlePartZone_PropertyName {
+            get {
+                return "Zone_MiddlePartZone";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Middle part zone'.
         /// </summary>
         public static string Zone_MiddlePartZone {
             get {
                 return ResourceManager.GetString("Zone_MiddlePartZone", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Zone_RightPartZone'.
+        /// </summary>
+        public static string Zone_RightPartZone_PropertyName {
+            get {
+                return "Zone_RightPartZone";
             }
         }
         
@@ -817,11 +1555,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Zone_SocialZone'.
+        /// </summary>
+        public static string Zone_SocialZone_PropertyName {
+            get {
+                return "Zone_SocialZone";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Social zone'.
         /// </summary>
         public static string Zone_SocialZone {
             get {
                 return ResourceManager.GetString("Zone_SocialZone", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Zone_TopPartZone'.
+        /// </summary>
+        public static string Zone_TopPartZone_PropertyName {
+            get {
+                return "Zone_TopPartZone";
             }
         }
         

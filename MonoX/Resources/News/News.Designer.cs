@@ -79,11 +79,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'ArchiveNewsModulePartDescription'.
+        /// </summary>
+        public static string ArchiveNewsModulePartDescription_PropertyName {
+            get {
+                return "ArchiveNewsModulePartDescription";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Archive News module'.
         /// </summary>
         public static string ArchiveNewsModulePartDescription {
             get {
                 return ResourceManager.GetString("ArchiveNewsModulePartDescription", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'ArchiveNewsModulePartTitle'.
+        /// </summary>
+        public static string ArchiveNewsModulePartTitle_PropertyName {
+            get {
+                return "ArchiveNewsModulePartTitle";
             }
         }
         
@@ -97,11 +115,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'CustomizableNewsModulePartDescription'.
+        /// </summary>
+        public static string CustomizableNewsModulePartDescription_PropertyName {
+            get {
+                return "CustomizableNewsModulePartDescription";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Customizable News module'.
         /// </summary>
         public static string CustomizableNewsModulePartDescription {
             get {
                 return ResourceManager.GetString("CustomizableNewsModulePartDescription", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'CustomizableNewsModulePartTitle'.
+        /// </summary>
+        public static string CustomizableNewsModulePartTitle_PropertyName {
+            get {
+                return "CustomizableNewsModulePartTitle";
             }
         }
         
@@ -115,11 +151,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'EditCategoryVerbDescription'.
+        /// </summary>
+        public static string EditCategoryVerbDescription_PropertyName {
+            get {
+                return "EditCategoryVerbDescription";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Edit categories (Back end)'.
         /// </summary>
         public static string EditCategoryVerbDescription {
             get {
                 return ResourceManager.GetString("EditCategoryVerbDescription", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'EditCategoryVerbText'.
+        /// </summary>
+        public static string EditCategoryVerbText_PropertyName {
+            get {
+                return "EditCategoryVerbText";
             }
         }
         
@@ -133,11 +187,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'EditVerbDescription'.
+        /// </summary>
+        public static string EditVerbDescription_PropertyName {
+            get {
+                return "EditVerbDescription";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Edit items (Back end)'.
         /// </summary>
         public static string EditVerbDescription {
             get {
                 return ResourceManager.GetString("EditVerbDescription", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'EditVerbText'.
+        /// </summary>
+        public static string EditVerbText_PropertyName {
+            get {
+                return "EditVerbText";
             }
         }
         
@@ -151,11 +223,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'HomePageNewsModulePartDescription'.
+        /// </summary>
+        public static string HomePageNewsModulePartDescription_PropertyName {
+            get {
+                return "HomePageNewsModulePartDescription";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Home page News module'.
         /// </summary>
         public static string HomePageNewsModulePartDescription {
             get {
                 return ResourceManager.GetString("HomePageNewsModulePartDescription", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'HomePageNewsModulePartTitle'.
+        /// </summary>
+        public static string HomePageNewsModulePartTitle_PropertyName {
+            get {
+                return "HomePageNewsModulePartTitle";
             }
         }
         
@@ -169,11 +259,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'NewsCategoryTitle'.
+        /// </summary>
+        public static string NewsCategoryTitle_PropertyName {
+            get {
+                return "NewsCategoryTitle";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Category:'.
         /// </summary>
         public static string NewsCategoryTitle {
             get {
                 return ResourceManager.GetString("NewsCategoryTitle", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'NewsCreateDateTitle'.
+        /// </summary>
+        public static string NewsCreateDateTitle_PropertyName {
+            get {
+                return "NewsCreateDateTitle";
             }
         }
         
@@ -187,11 +295,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'NewsMenuNoCats'.
+        /// </summary>
+        public static string NewsMenuNoCats_PropertyName {
+            get {
+                return "NewsMenuNoCats";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'There are no news categories, please contact news administrator.'.
         /// </summary>
         public static string NewsMenuNoCats {
             get {
                 return ResourceManager.GetString("NewsMenuNoCats", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'NewsMenuPartDescription'.
+        /// </summary>
+        public static string NewsMenuPartDescription_PropertyName {
+            get {
+                return "NewsMenuPartDescription";
             }
         }
         
@@ -205,11 +331,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'NewsMenuPartTitle'.
+        /// </summary>
+        public static string NewsMenuPartTitle_PropertyName {
+            get {
+                return "NewsMenuPartTitle";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'News menu'.
         /// </summary>
         public static string NewsMenuPartTitle {
             get {
                 return ResourceManager.GetString("NewsMenuPartTitle", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'NewsModificationDateTitle'.
+        /// </summary>
+        public static string NewsModificationDateTitle_PropertyName {
+            get {
+                return "NewsModificationDateTitle";
             }
         }
         
@@ -223,11 +367,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'NewsModulePartDescription'.
+        /// </summary>
+        public static string NewsModulePartDescription_PropertyName {
+            get {
+                return "NewsModulePartDescription";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'News module'.
         /// </summary>
         public static string NewsModulePartDescription {
             get {
                 return ResourceManager.GetString("NewsModulePartDescription", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'NewsModulePartTitle'.
+        /// </summary>
+        public static string NewsModulePartTitle_PropertyName {
+            get {
+                return "NewsModulePartTitle";
             }
         }
         
@@ -241,11 +403,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'NewsPublishEndDateTitle'.
+        /// </summary>
+        public static string NewsPublishEndDateTitle_PropertyName {
+            get {
+                return "NewsPublishEndDateTitle";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Publishing ends on:'.
         /// </summary>
         public static string NewsPublishEndDateTitle {
             get {
                 return ResourceManager.GetString("NewsPublishEndDateTitle", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'NewsPublishStartDateTitle'.
+        /// </summary>
+        public static string NewsPublishStartDateTitle_PropertyName {
+            get {
+                return "NewsPublishStartDateTitle";
             }
         }
         
@@ -259,11 +439,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'NewsReadMoreTitle'.
+        /// </summary>
+        public static string NewsReadMoreTitle_PropertyName {
+            get {
+                return "NewsReadMoreTitle";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'more ...'.
         /// </summary>
         public static string NewsReadMoreTitle {
             get {
                 return ResourceManager.GetString("NewsReadMoreTitle", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'NewsRevisionTitle'.
+        /// </summary>
+        public static string NewsRevisionTitle_PropertyName {
+            get {
+                return "NewsRevisionTitle";
             }
         }
         
@@ -277,11 +475,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'NewsUsernameTitle'.
+        /// </summary>
+        public static string NewsUsernameTitle_PropertyName {
+            get {
+                return "NewsUsernameTitle";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Written by: '.
         /// </summary>
         public static string NewsUsernameTitle {
             get {
                 return ResourceManager.GetString("NewsUsernameTitle", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'NewsViewCountTitle'.
+        /// </summary>
+        public static string NewsViewCountTitle_PropertyName {
+            get {
+                return "NewsViewCountTitle";
             }
         }
         
@@ -295,11 +511,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'NewsViewCountTooltip'.
+        /// </summary>
+        public static string NewsViewCountTooltip_PropertyName {
+            get {
+                return "NewsViewCountTooltip";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Article is viewed {0} time(s).'.
         /// </summary>
         public static string NewsViewCountTooltip {
             get {
                 return ResourceManager.GetString("NewsViewCountTooltip", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'RandomNewsModulePartDescription'.
+        /// </summary>
+        public static string RandomNewsModulePartDescription_PropertyName {
+            get {
+                return "RandomNewsModulePartDescription";
             }
         }
         
@@ -313,11 +547,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'RandomNewsModulePartTitle'.
+        /// </summary>
+        public static string RandomNewsModulePartTitle_PropertyName {
+            get {
+                return "RandomNewsModulePartTitle";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Random News module'.
         /// </summary>
         public static string RandomNewsModulePartTitle {
             get {
                 return ResourceManager.GetString("RandomNewsModulePartTitle", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'ReadMorePagesThisPage'.
+        /// </summary>
+        public static string ReadMorePagesThisPage_PropertyName {
+            get {
+                return "ReadMorePagesThisPage";
             }
         }
         
@@ -331,6 +583,15 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'RelatedArticles'.
+        /// </summary>
+        public static string RelatedArticles_PropertyName {
+            get {
+                return "RelatedArticles";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Related articles'.
         /// </summary>
         public static string RelatedArticles {
@@ -340,11 +601,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'SingleNewsModulePartDescription'.
+        /// </summary>
+        public static string SingleNewsModulePartDescription_PropertyName {
+            get {
+                return "SingleNewsModulePartDescription";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Single News module'.
         /// </summary>
         public static string SingleNewsModulePartDescription {
             get {
                 return ResourceManager.GetString("SingleNewsModulePartDescription", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'SingleNewsModulePartTitle'.
+        /// </summary>
+        public static string SingleNewsModulePartTitle_PropertyName {
+            get {
+                return "SingleNewsModulePartTitle";
             }
         }
         

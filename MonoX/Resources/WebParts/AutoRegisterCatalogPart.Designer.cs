@@ -79,6 +79,15 @@ namespace MonoSoftware.MonoX.Resources.WebParts {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Title'.
+        /// </summary>
+        public static string Title_PropertyName {
+            get {
+                return "Title";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Main part catalog'.
         /// </summary>
         public static string Title {

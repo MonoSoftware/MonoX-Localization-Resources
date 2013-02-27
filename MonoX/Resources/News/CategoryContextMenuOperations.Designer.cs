@@ -79,11 +79,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Copy'.
+        /// </summary>
+        public static string Copy_PropertyName {
+            get {
+                return "Copy";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Copy'.
         /// </summary>
         public static string Copy {
             get {
                 return ResourceManager.GetString("Copy", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Cut'.
+        /// </summary>
+        public static string Cut_PropertyName {
+            get {
+                return "Cut";
             }
         }
         
@@ -97,11 +115,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Delete'.
+        /// </summary>
+        public static string Delete_PropertyName {
+            get {
+                return "Delete";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Delete'.
         /// </summary>
         public static string Delete {
             get {
                 return ResourceManager.GetString("Delete", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'DeleteConfirmation'.
+        /// </summary>
+        public static string DeleteConfirmation_PropertyName {
+            get {
+                return "DeleteConfirmation";
             }
         }
         
@@ -115,11 +151,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'MoveDown'.
+        /// </summary>
+        public static string MoveDown_PropertyName {
+            get {
+                return "MoveDown";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Move down'.
         /// </summary>
         public static string MoveDown {
             get {
                 return ResourceManager.GetString("MoveDown", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'MoveUp'.
+        /// </summary>
+        public static string MoveUp_PropertyName {
+            get {
+                return "MoveUp";
             }
         }
         
@@ -133,6 +187,15 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Paste'.
+        /// </summary>
+        public static string Paste_PropertyName {
+            get {
+                return "Paste";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Paste'.
         /// </summary>
         public static string Paste {
@@ -142,11 +205,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'PasteAfter'.
+        /// </summary>
+        public static string PasteAfter_PropertyName {
+            get {
+                return "PasteAfter";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Paste after'.
         /// </summary>
         public static string PasteAfter {
             get {
                 return ResourceManager.GetString("PasteAfter", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'PasteBefore'.
+        /// </summary>
+        public static string PasteBefore_PropertyName {
+            get {
+                return "PasteBefore";
             }
         }
         

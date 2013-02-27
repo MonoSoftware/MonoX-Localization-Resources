@@ -79,11 +79,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Authorization_Description'.
+        /// </summary>
+        public static string Authorization_Description_PropertyName {
+            get {
+                return "Authorization_Description";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'You are not authorized to view this page.'.
         /// </summary>
         public static string Authorization_Description {
             get {
                 return ResourceManager.GetString("Authorization_Description", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Authorization_Login'.
+        /// </summary>
+        public static string Authorization_Login_PropertyName {
+            get {
+                return "Authorization_Login";
             }
         }
         
@@ -97,11 +115,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Authorization_Title'.
+        /// </summary>
+        public static string Authorization_Title_PropertyName {
+            get {
+                return "Authorization_Title";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Access Denied'.
         /// </summary>
         public static string Authorization_Title {
             get {
                 return ResourceManager.GetString("Authorization_Title", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'CannotFindLicenseFile'.
+        /// </summary>
+        public static string CannotFindLicenseFile_PropertyName {
+            get {
+                return "CannotFindLicenseFile";
             }
         }
         
@@ -115,11 +151,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'DomainNotLicensed'.
+        /// </summary>
+        public static string DomainNotLicensed_PropertyName {
+            get {
+                return "DomainNotLicensed";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Domain {0} is not in the list of licensed domains. Please register this domain.'.
         /// </summary>
         public static string DomainNotLicensed {
             get {
                 return ResourceManager.GetString("DomainNotLicensed", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'EmailSendingFailed'.
+        /// </summary>
+        public static string EmailSendingFailed_PropertyName {
+            get {
+                return "EmailSendingFailed";
             }
         }
         
@@ -133,11 +187,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'EntityIdRequired'.
+        /// </summary>
+        public static string EntityIdRequired_PropertyName {
+            get {
+                return "EntityIdRequired";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Entity id required!'.
         /// </summary>
         public static string EntityIdRequired {
             get {
                 return ResourceManager.GetString("EntityIdRequired", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'ImageTypeRequired'.
+        /// </summary>
+        public static string ImageTypeRequired_PropertyName {
+            get {
+                return "ImageTypeRequired";
             }
         }
         
@@ -151,11 +223,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'LicenseExpired'.
+        /// </summary>
+        public static string LicenseExpired_PropertyName {
+            get {
+                return "LicenseExpired";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'This license has expired. Please obtain a valid license and place it to the bin folder of this portal.'.
         /// </summary>
         public static string LicenseExpired {
             get {
                 return ResourceManager.GetString("LicenseExpired", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Membership_Create_UnknownError'.
+        /// </summary>
+        public static string Membership_Create_UnknownError_PropertyName {
+            get {
+                return "Membership_Create_UnknownError";
             }
         }
         
@@ -169,11 +259,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Membership_DuplicateEmail'.
+        /// </summary>
+        public static string Membership_DuplicateEmail_PropertyName {
+            get {
+                return "Membership_DuplicateEmail";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'An user with this e-mail address already exists.'.
         /// </summary>
         public static string Membership_DuplicateEmail {
             get {
                 return ResourceManager.GetString("Membership_DuplicateEmail", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Membership_DuplicateUserName'.
+        /// </summary>
+        public static string Membership_DuplicateUserName_PropertyName {
+            get {
+                return "Membership_DuplicateUserName";
             }
         }
         
@@ -187,11 +295,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Membership_InvalidPassword'.
+        /// </summary>
+        public static string Membership_InvalidPassword_PropertyName {
+            get {
+                return "Membership_InvalidPassword";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'The password you provided is invalid. It must be at least {0} character(s) long{1}.'.
         /// </summary>
         public static string Membership_InvalidPassword {
             get {
                 return ResourceManager.GetString("Membership_InvalidPassword", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Membership_InvalidPassword_Suffix'.
+        /// </summary>
+        public static string Membership_InvalidPassword_Suffix_PropertyName {
+            get {
+                return "Membership_InvalidPassword_Suffix";
             }
         }
         
@@ -205,11 +331,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Membership_Update_UnknownError'.
+        /// </summary>
+        public static string Membership_Update_UnknownError_PropertyName {
+            get {
+                return "Membership_Update_UnknownError";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'An unknown error occured. The account could not be updated, please try again later. If the problem persists, please contact us.'.
         /// </summary>
         public static string Membership_Update_UnknownError {
             get {
                 return ResourceManager.GetString("Membership_Update_UnknownError", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'PageNotFound'.
+        /// </summary>
+        public static string PageNotFound_PropertyName {
+            get {
+                return "PageNotFound";
             }
         }
         
@@ -223,11 +367,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'PageNotFoundDescription'.
+        /// </summary>
+        public static string PageNotFoundDescription_PropertyName {
+            get {
+                return "PageNotFoundDescription";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'We couldn&apos;t find the page you requested.'.
         /// </summary>
         public static string PageNotFoundDescription {
             get {
                 return ResourceManager.GetString("PageNotFoundDescription", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'PageNotFoundPersonalizationFound'.
+        /// </summary>
+        public static string PageNotFoundPersonalizationFound_PropertyName {
+            get {
+                return "PageNotFoundPersonalizationFound";
             }
         }
         
@@ -241,11 +403,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'PageNotFoundRemovePersonalization'.
+        /// </summary>
+        public static string PageNotFoundRemovePersonalization_PropertyName {
+            get {
+                return "PageNotFoundRemovePersonalization";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Do you want to remove personalization data for the page?'.
         /// </summary>
         public static string PageNotFoundRemovePersonalization {
             get {
                 return ResourceManager.GetString("PageNotFoundRemovePersonalization", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'SessionExpired_Description'.
+        /// </summary>
+        public static string SessionExpired_Description_PropertyName {
+            get {
+                return "SessionExpired_Description";
             }
         }
         
@@ -259,11 +439,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'SessionExpired_Title'.
+        /// </summary>
+        public static string SessionExpired_Title_PropertyName {
+            get {
+                return "SessionExpired_Title";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Session Expired'.
         /// </summary>
         public static string SessionExpired_Title {
             get {
                 return ResourceManager.GetString("SessionExpired_Title", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'SignatureNotValid'.
+        /// </summary>
+        public static string SignatureNotValid_PropertyName {
+            get {
+                return "SignatureNotValid";
             }
         }
         
@@ -277,11 +475,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'ToContinueWorkingWithApplication'.
+        /// </summary>
+        public static string ToContinueWorkingWithApplication_PropertyName {
+            get {
+                return "ToContinueWorkingWithApplication";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'To continue working with the application please click'.
         /// </summary>
         public static string ToContinueWorkingWithApplication {
             get {
                 return ResourceManager.GetString("ToContinueWorkingWithApplication", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'ToContinueWorkingWithApplicationClickHere'.
+        /// </summary>
+        public static string ToContinueWorkingWithApplicationClickHere_PropertyName {
+            get {
+                return "ToContinueWorkingWithApplicationClickHere";
             }
         }
         
@@ -295,11 +511,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Unexpected_Title'.
+        /// </summary>
+        public static string Unexpected_Title_PropertyName {
+            get {
+                return "Unexpected_Title";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Unexpected Error'.
         /// </summary>
         public static string Unexpected_Title {
             get {
                 return ResourceManager.GetString("Unexpected_Title", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'UnhandledError'.
+        /// </summary>
+        public static string UnhandledError_PropertyName {
+            get {
+                return "UnhandledError";
             }
         }
         
@@ -313,11 +547,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'UnhandledErrorLongMessage'.
+        /// </summary>
+        public static string UnhandledErrorLongMessage_PropertyName {
+            get {
+                return "UnhandledErrorLongMessage";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'This event has been logged and will be addressed by the maintenance department. We appreciate your patience.'.
         /// </summary>
         public static string UnhandledErrorLongMessage {
             get {
                 return ResourceManager.GetString("UnhandledErrorLongMessage", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'VersionError'.
+        /// </summary>
+        public static string VersionError_PropertyName {
+            get {
+                return "VersionError";
             }
         }
         

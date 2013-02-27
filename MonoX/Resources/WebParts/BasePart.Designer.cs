@@ -79,6 +79,15 @@ namespace MonoSoftware.MonoX.Resources.WebParts {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'NoControlSpecificTemplateSubPath'.
+        /// </summary>
+        public static string NoControlSpecificTemplateSubPath_PropertyName {
+            get {
+                return "NoControlSpecificTemplateSubPath";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Please specify ControlSpecificTemplateSubPath property! (Required)'.
         /// </summary>
         public static string NoControlSpecificTemplateSubPath {

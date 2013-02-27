@@ -79,11 +79,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Button_Subscribe'.
+        /// </summary>
+        public static string Button_Subscribe_PropertyName {
+            get {
+                return "Button_Subscribe";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Subscribe'.
         /// </summary>
         public static string Button_Subscribe {
             get {
                 return ResourceManager.GetString("Button_Subscribe", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Button_Unsubscribe'.
+        /// </summary>
+        public static string Button_Unsubscribe_PropertyName {
+            get {
+                return "Button_Unsubscribe";
             }
         }
         
@@ -97,11 +115,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'ErrorMessage_NewsletterUnsubscription'.
+        /// </summary>
+        public static string ErrorMessage_NewsletterUnsubscription_PropertyName {
+            get {
+                return "ErrorMessage_NewsletterUnsubscription";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'There is a problem with your newsletter unsubscription link. Either you have already unsubscribed from the {0} newsletter or perhaps  you&apos;ve copied and pasted it in your browser, then please make sure that it is identical to the link you&apos;ve got in the newsletter unsubscription e-mail. If you clicked on it or you are sure you copied/pasted it correctly and it still doesn&apos;t work, then please contact our support.'.
         /// </summary>
         public static string ErrorMessage_NewsletterUnsubscription {
             get {
                 return ResourceManager.GetString("ErrorMessage_NewsletterUnsubscription", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'NotSent'.
+        /// </summary>
+        public static string NotSent_PropertyName {
+            get {
+                return "NotSent";
             }
         }
         
@@ -115,11 +151,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Sending'.
+        /// </summary>
+        public static string Sending_PropertyName {
+            get {
+                return "Sending";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Sending newsletter...'.
         /// </summary>
         public static string Sending {
             get {
                 return ResourceManager.GetString("Sending", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'SendingTest'.
+        /// </summary>
+        public static string SendingTest_PropertyName {
+            get {
+                return "SendingTest";
             }
         }
         
@@ -133,11 +187,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Sent'.
+        /// </summary>
+        public static string Sent_PropertyName {
+            get {
+                return "Sent";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Newsletter sent'.
         /// </summary>
         public static string Sent {
             get {
                 return ResourceManager.GetString("Sent", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'SentWithErrors'.
+        /// </summary>
+        public static string SentWithErrors_PropertyName {
+            get {
+                return "SentWithErrors";
             }
         }
         
@@ -151,11 +223,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Subscription_Description'.
+        /// </summary>
+        public static string Subscription_Description_PropertyName {
+            get {
+                return "Subscription_Description";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Please check the newsletter you want to subscribe to.'.
         /// </summary>
         public static string Subscription_Description {
             get {
                 return ResourceManager.GetString("Subscription_Description", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Subscription_Success_Message'.
+        /// </summary>
+        public static string Subscription_Success_Message_PropertyName {
+            get {
+                return "Subscription_Success_Message";
             }
         }
         
@@ -169,11 +259,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Subscription_Title'.
+        /// </summary>
+        public static string Subscription_Title_PropertyName {
+            get {
+                return "Subscription_Title";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Newsletter subscription'.
         /// </summary>
         public static string Subscription_Title {
             get {
                 return ResourceManager.GetString("Subscription_Title", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'TestSent'.
+        /// </summary>
+        public static string TestSent_PropertyName {
+            get {
+                return "TestSent";
             }
         }
         
@@ -187,11 +295,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'UndefinedRoles_Message'.
+        /// </summary>
+        public static string UndefinedRoles_Message_PropertyName {
+            get {
+                return "UndefinedRoles_Message";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Please define the list of newsletter roles that user can subscribe to.'.
         /// </summary>
         public static string UndefinedRoles_Message {
             get {
                 return ResourceManager.GetString("UndefinedRoles_Message", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'UnloggedUser_Message'.
+        /// </summary>
+        public static string UnloggedUser_Message_PropertyName {
+            get {
+                return "UnloggedUser_Message";
             }
         }
         
@@ -205,11 +331,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Unsubcription_MailTemplate_Message'.
+        /// </summary>
+        public static string Unsubcription_MailTemplate_Message_PropertyName {
+            get {
+                return "Unsubcription_MailTemplate_Message";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Dear {0}, please click on the following link if you would like to unsubscribe from the newsletter. '.
         /// </summary>
         public static string Unsubcription_MailTemplate_Message {
             get {
                 return ResourceManager.GetString("Unsubcription_MailTemplate_Message", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Unsubscription_Description'.
+        /// </summary>
+        public static string Unsubscription_Description_PropertyName {
+            get {
+                return "Unsubscription_Description";
             }
         }
         
@@ -223,11 +367,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Unsubscription_Mail_Subject'.
+        /// </summary>
+        public static string Unsubscription_Mail_Subject_PropertyName {
+            get {
+                return "Unsubscription_Mail_Subject";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Newsletter unsubscription'.
         /// </summary>
         public static string Unsubscription_Mail_Subject {
             get {
                 return ResourceManager.GetString("Unsubscription_Mail_Subject", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Unsubscription_MailTemplate_Tooltip'.
+        /// </summary>
+        public static string Unsubscription_MailTemplate_Tooltip_PropertyName {
+            get {
+                return "Unsubscription_MailTemplate_Tooltip";
             }
         }
         
@@ -241,11 +403,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Unsubscription_Success_Message'.
+        /// </summary>
+        public static string Unsubscription_Success_Message_PropertyName {
+            get {
+                return "Unsubscription_Success_Message";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'You have successfully unsubscribed from the {0} newsletter.'.
         /// </summary>
         public static string Unsubscription_Success_Message {
             get {
                 return ResourceManager.GetString("Unsubscription_Success_Message", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Unubscription_Title'.
+        /// </summary>
+        public static string Unubscription_Title_PropertyName {
+            get {
+                return "Unubscription_Title";
             }
         }
         

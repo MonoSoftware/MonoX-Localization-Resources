@@ -79,11 +79,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'AdvancedSettings_NextText'.
+        /// </summary>
+        public static string AdvancedSettings_NextText_PropertyName {
+            get {
+                return "AdvancedSettings_NextText";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Finish &gt;'.
         /// </summary>
         public static string AdvancedSettings_NextText {
             get {
                 return ResourceManager.GetString("AdvancedSettings_NextText", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'AdvancedSettings_Title'.
+        /// </summary>
+        public static string AdvancedSettings_Title_PropertyName {
+            get {
+                return "AdvancedSettings_Title";
             }
         }
         
@@ -97,11 +115,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'DatabaseInfo_AdvancedSettings'.
+        /// </summary>
+        public static string DatabaseInfo_AdvancedSettings_PropertyName {
+            get {
+                return "DatabaseInfo_AdvancedSettings";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Advanced MonoX Settings'.
         /// </summary>
         public static string DatabaseInfo_AdvancedSettings {
             get {
                 return ResourceManager.GetString("DatabaseInfo_AdvancedSettings", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'DatabaseInfo_btnCreateNew'.
+        /// </summary>
+        public static string DatabaseInfo_btnCreateNew_PropertyName {
+            get {
+                return "DatabaseInfo_btnCreateNew";
             }
         }
         
@@ -115,11 +151,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'DatabaseInfo_btnExisting'.
+        /// </summary>
+        public static string DatabaseInfo_btnExisting_PropertyName {
+            get {
+                return "DatabaseInfo_btnExisting";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Use an existing database installed by a previous version of MonoX'.
         /// </summary>
         public static string DatabaseInfo_btnExisting {
             get {
                 return ResourceManager.GetString("DatabaseInfo_btnExisting", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'DatabaseInfo_btnMultiApp'.
+        /// </summary>
+        public static string DatabaseInfo_btnMultiApp_PropertyName {
+            get {
+                return "DatabaseInfo_btnMultiApp";
             }
         }
         
@@ -133,11 +187,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'DatabaseInfo_labNote1'.
+        /// </summary>
+        public static string DatabaseInfo_labNote1_PropertyName {
+            get {
+                return "DatabaseInfo_labNote1";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'This option will create all tables that MonoX requires on an empty database. You still need to perform all prerequisite installation steps (create an empty database and configure the appropriate security settings) as described in the installation section of the user manual.'.
         /// </summary>
         public static string DatabaseInfo_labNote1 {
             get {
                 return ResourceManager.GetString("DatabaseInfo_labNote1", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'DatabaseInfo_labNote2'.
+        /// </summary>
+        public static string DatabaseInfo_labNote2_PropertyName {
+            get {
+                return "DatabaseInfo_labNote2";
             }
         }
         
@@ -151,11 +223,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'DatabaseInfo_labNote3'.
+        /// </summary>
+        public static string DatabaseInfo_labNote3_PropertyName {
+            get {
+                return "DatabaseInfo_labNote3";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'This option should be used for the multi portal environment installation purposes. Please consult the documentation for more information.'.
         /// </summary>
         public static string DatabaseInfo_labNote3 {
             get {
                 return ResourceManager.GetString("DatabaseInfo_labNote3", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'DatabaseInfo_labSubTitle'.
+        /// </summary>
+        public static string DatabaseInfo_labSubTitle_PropertyName {
+            get {
+                return "DatabaseInfo_labSubTitle";
             }
         }
         
@@ -169,11 +259,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'DatabaseInfo_NextText'.
+        /// </summary>
+        public static string DatabaseInfo_NextText_PropertyName {
+            get {
+                return "DatabaseInfo_NextText";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Finish &gt;'.
         /// </summary>
         public static string DatabaseInfo_NextText {
             get {
                 return ResourceManager.GetString("DatabaseInfo_NextText", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'DatabaseInfo_PageTitle'.
+        /// </summary>
+        public static string DatabaseInfo_PageTitle_PropertyName {
+            get {
+                return "DatabaseInfo_PageTitle";
             }
         }
         
@@ -187,11 +295,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'DatabaseInfo_Title'.
+        /// </summary>
+        public static string DatabaseInfo_Title_PropertyName {
+            get {
+                return "DatabaseInfo_Title";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Select a Database'.
         /// </summary>
         public static string DatabaseInfo_Title {
             get {
                 return ResourceManager.GetString("DatabaseInfo_Title", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'DatabaseInfo_UnableToFindExistingMonoXDatabase'.
+        /// </summary>
+        public static string DatabaseInfo_UnableToFindExistingMonoXDatabase_PropertyName {
+            get {
+                return "DatabaseInfo_UnableToFindExistingMonoXDatabase";
             }
         }
         
@@ -205,11 +331,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Default_labIIS'.
+        /// </summary>
+        public static string Default_labIIS_PropertyName {
+            get {
+                return "Default_labIIS";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Internet Information Server'.
         /// </summary>
         public static string Default_labIIS {
             get {
                 return ResourceManager.GetString("Default_labIIS", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Default_labIISInfo'.
+        /// </summary>
+        public static string Default_labIISInfo_PropertyName {
+            get {
+                return "Default_labIISInfo";
             }
         }
         
@@ -223,11 +367,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Default_labMSNet'.
+        /// </summary>
+        public static string Default_labMSNet_PropertyName {
+            get {
+                return "Default_labMSNet";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Microsoft .NET Framework'.
         /// </summary>
         public static string Default_labMSNet {
             get {
                 return ResourceManager.GetString("Default_labMSNet", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Default_labMSNetInfo'.
+        /// </summary>
+        public static string Default_labMSNetInfo_PropertyName {
+            get {
+                return "Default_labMSNetInfo";
             }
         }
         
@@ -241,11 +403,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Default_labRequirements'.
+        /// </summary>
+        public static string Default_labRequirements_PropertyName {
+            get {
+                return "Default_labRequirements";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Requirements: '.
         /// </summary>
         public static string Default_labRequirements {
             get {
                 return ResourceManager.GetString("Default_labRequirements", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Default_labSQL'.
+        /// </summary>
+        public static string Default_labSQL_PropertyName {
+            get {
+                return "Default_labSQL";
             }
         }
         
@@ -259,11 +439,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Default_linkIIS'.
+        /// </summary>
+        public static string Default_linkIIS_PropertyName {
+            get {
+                return "Default_linkIIS";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Get help installing IIS'.
         /// </summary>
         public static string Default_linkIIS {
             get {
                 return ResourceManager.GetString("Default_linkIIS", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Default_linkMSNet3'.
+        /// </summary>
+        public static string Default_linkMSNet3_PropertyName {
+            get {
+                return "Default_linkMSNet3";
             }
         }
         
@@ -277,11 +475,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Default_linkMSNet31'.
+        /// </summary>
+        public static string Default_linkMSNet31_PropertyName {
+            get {
+                return "Default_linkMSNet31";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Get help installing .NET framework (3.0 SP1)'.
         /// </summary>
         public static string Default_linkMSNet31 {
             get {
                 return ResourceManager.GetString("Default_linkMSNet31", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Default_linkMSNet35'.
+        /// </summary>
+        public static string Default_linkMSNet35_PropertyName {
+            get {
+                return "Default_linkMSNet35";
             }
         }
         
@@ -295,11 +511,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Default_PageTitle'.
+        /// </summary>
+        public static string Default_PageTitle_PropertyName {
+            get {
+                return "Default_PageTitle";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Welcome'.
         /// </summary>
         public static string Default_PageTitle {
             get {
                 return ResourceManager.GetString("Default_PageTitle", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Default_Title'.
+        /// </summary>
+        public static string Default_Title_PropertyName {
+            get {
+                return "Default_Title";
             }
         }
         
@@ -313,11 +547,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'InstallComplete_ApplicationCreated'.
+        /// </summary>
+        public static string InstallComplete_ApplicationCreated_PropertyName {
+            get {
+                return "InstallComplete_ApplicationCreated";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Application created.'.
         /// </summary>
         public static string InstallComplete_ApplicationCreated {
             get {
                 return ResourceManager.GetString("InstallComplete_ApplicationCreated", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'InstallComplete_CreatingApplication'.
+        /// </summary>
+        public static string InstallComplete_CreatingApplication_PropertyName {
+            get {
+                return "InstallComplete_CreatingApplication";
             }
         }
         
@@ -331,11 +583,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'InstallComplete_CreatingDatabase'.
+        /// </summary>
+        public static string InstallComplete_CreatingDatabase_PropertyName {
+            get {
+                return "InstallComplete_CreatingDatabase";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Creating database ...'.
         /// </summary>
         public static string InstallComplete_CreatingDatabase {
             get {
                 return ResourceManager.GetString("InstallComplete_CreatingDatabase", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'InstallComplete_CustomButtonText'.
+        /// </summary>
+        public static string InstallComplete_CustomButtonText_PropertyName {
+            get {
+                return "InstallComplete_CustomButtonText";
             }
         }
         
@@ -349,11 +619,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'InstallComplete_DatabaseCreated'.
+        /// </summary>
+        public static string InstallComplete_DatabaseCreated_PropertyName {
+            get {
+                return "InstallComplete_DatabaseCreated";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Database created.'.
         /// </summary>
         public static string InstallComplete_DatabaseCreated {
             get {
                 return ResourceManager.GetString("InstallComplete_DatabaseCreated", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'InstallComplete_FolderPermissionsNotSet'.
+        /// </summary>
+        public static string InstallComplete_FolderPermissionsNotSet_PropertyName {
+            get {
+                return "InstallComplete_FolderPermissionsNotSet";
             }
         }
         
@@ -367,11 +655,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'InstallComplete_FolderPermissionsSet'.
+        /// </summary>
+        public static string InstallComplete_FolderPermissionsSet_PropertyName {
+            get {
+                return "InstallComplete_FolderPermissionsSet";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Folder permssions set for &quot;{0}&quot;.'.
         /// </summary>
         public static string InstallComplete_FolderPermissionsSet {
             get {
                 return ResourceManager.GetString("InstallComplete_FolderPermissionsSet", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'InstallComplete_ImportedAspnet_Applications'.
+        /// </summary>
+        public static string InstallComplete_ImportedAspnet_Applications_PropertyName {
+            get {
+                return "InstallComplete_ImportedAspnet_Applications";
             }
         }
         
@@ -385,11 +691,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'InstallComplete_ImportedAspnet_Membership'.
+        /// </summary>
+        public static string InstallComplete_ImportedAspnet_Membership_PropertyName {
+            get {
+                return "InstallComplete_ImportedAspnet_Membership";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Imported &quot;aspnet_Membership&quot;.'.
         /// </summary>
         public static string InstallComplete_ImportedAspnet_Membership {
             get {
                 return ResourceManager.GetString("InstallComplete_ImportedAspnet_Membership", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'InstallComplete_ImportedAspnet_Roles'.
+        /// </summary>
+        public static string InstallComplete_ImportedAspnet_Roles_PropertyName {
+            get {
+                return "InstallComplete_ImportedAspnet_Roles";
             }
         }
         
@@ -403,11 +727,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'InstallComplete_ImportedAspnet_SchemaVersions'.
+        /// </summary>
+        public static string InstallComplete_ImportedAspnet_SchemaVersions_PropertyName {
+            get {
+                return "InstallComplete_ImportedAspnet_SchemaVersions";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Imported &quot;aspnet_SchemaVersions&quot;.'.
         /// </summary>
         public static string InstallComplete_ImportedAspnet_SchemaVersions {
             get {
                 return ResourceManager.GetString("InstallComplete_ImportedAspnet_SchemaVersions", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'InstallComplete_ImportedAspnet_Users'.
+        /// </summary>
+        public static string InstallComplete_ImportedAspnet_Users_PropertyName {
+            get {
+                return "InstallComplete_ImportedAspnet_Users";
             }
         }
         
@@ -421,11 +763,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'InstallComplete_ImportedAspnet_UsersInRoles'.
+        /// </summary>
+        public static string InstallComplete_ImportedAspnet_UsersInRoles_PropertyName {
+            get {
+                return "InstallComplete_ImportedAspnet_UsersInRoles";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Imported &quot;aspnet_UsersInRoles&quot;.'.
         /// </summary>
         public static string InstallComplete_ImportedAspnet_UsersInRoles {
             get {
                 return ResourceManager.GetString("InstallComplete_ImportedAspnet_UsersInRoles", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'InstallComplete_ImportedBlogData'.
+        /// </summary>
+        public static string InstallComplete_ImportedBlogData_PropertyName {
+            get {
+                return "InstallComplete_ImportedBlogData";
             }
         }
         
@@ -439,11 +799,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'InstallComplete_ImportedDocument'.
+        /// </summary>
+        public static string InstallComplete_ImportedDocument_PropertyName {
+            get {
+                return "InstallComplete_ImportedDocument";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Imported &quot;Document&quot;.'.
         /// </summary>
         public static string InstallComplete_ImportedDocument {
             get {
                 return ResourceManager.GetString("InstallComplete_ImportedDocument", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'InstallComplete_ImportedLanguage'.
+        /// </summary>
+        public static string InstallComplete_ImportedLanguage_PropertyName {
+            get {
+                return "InstallComplete_ImportedLanguage";
             }
         }
         
@@ -457,11 +835,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'InstallComplete_ImportedLocalizationBinary'.
+        /// </summary>
+        public static string InstallComplete_ImportedLocalizationBinary_PropertyName {
+            get {
+                return "InstallComplete_ImportedLocalizationBinary";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Imported &quot;LocalizationBinary&quot;.'.
         /// </summary>
         public static string InstallComplete_ImportedLocalizationBinary {
             get {
                 return ResourceManager.GetString("InstallComplete_ImportedLocalizationBinary", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'InstallComplete_ImportedLocalizationSource'.
+        /// </summary>
+        public static string InstallComplete_ImportedLocalizationSource_PropertyName {
+            get {
+                return "InstallComplete_ImportedLocalizationSource";
             }
         }
         
@@ -475,11 +871,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'InstallComplete_ImportedLocalizationString'.
+        /// </summary>
+        public static string InstallComplete_ImportedLocalizationString_PropertyName {
+            get {
+                return "InstallComplete_ImportedLocalizationString";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Imported &quot;LocalizationString&quot;.'.
         /// </summary>
         public static string InstallComplete_ImportedLocalizationString {
             get {
                 return ResourceManager.GetString("InstallComplete_ImportedLocalizationString", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'InstallComplete_ImportedNavigation'.
+        /// </summary>
+        public static string InstallComplete_ImportedNavigation_PropertyName {
+            get {
+                return "InstallComplete_ImportedNavigation";
             }
         }
         
@@ -493,11 +907,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'InstallComplete_ImportedNavigationLocalization'.
+        /// </summary>
+        public static string InstallComplete_ImportedNavigationLocalization_PropertyName {
+            get {
+                return "InstallComplete_ImportedNavigationLocalization";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Imported &quot;NavigationLocalization&quot;.'.
         /// </summary>
         public static string InstallComplete_ImportedNavigationLocalization {
             get {
                 return ResourceManager.GetString("InstallComplete_ImportedNavigationLocalization", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'InstallComplete_ImportedNewsData'.
+        /// </summary>
+        public static string InstallComplete_ImportedNewsData_PropertyName {
+            get {
+                return "InstallComplete_ImportedNewsData";
             }
         }
         
@@ -511,11 +943,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'InstallComplete_ImportedOther'.
+        /// </summary>
+        public static string InstallComplete_ImportedOther_PropertyName {
+            get {
+                return "InstallComplete_ImportedOther";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Imported &quot;MonoX data&quot;.'.
         /// </summary>
         public static string InstallComplete_ImportedOther {
             get {
                 return ResourceManager.GetString("InstallComplete_ImportedOther", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'InstallComplete_ImportedPage'.
+        /// </summary>
+        public static string InstallComplete_ImportedPage_PropertyName {
+            get {
+                return "InstallComplete_ImportedPage";
             }
         }
         
@@ -529,11 +979,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'InstallComplete_ImportedPageLocalization'.
+        /// </summary>
+        public static string InstallComplete_ImportedPageLocalization_PropertyName {
+            get {
+                return "InstallComplete_ImportedPageLocalization";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Imported &quot;PageLocalization&quot;.'.
         /// </summary>
         public static string InstallComplete_ImportedPageLocalization {
             get {
                 return ResourceManager.GetString("InstallComplete_ImportedPageLocalization", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'InstallComplete_ImportedPageRole'.
+        /// </summary>
+        public static string InstallComplete_ImportedPageRole_PropertyName {
+            get {
+                return "InstallComplete_ImportedPageRole";
             }
         }
         
@@ -547,11 +1015,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'InstallComplete_ImportedSNData'.
+        /// </summary>
+        public static string InstallComplete_ImportedSNData_PropertyName {
+            get {
+                return "InstallComplete_ImportedSNData";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Imported &quot;Social network sample data&quot; ...'.
         /// </summary>
         public static string InstallComplete_ImportedSNData {
             get {
                 return ResourceManager.GetString("InstallComplete_ImportedSNData", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'InstallComplete_ImportedTitle'.
+        /// </summary>
+        public static string InstallComplete_ImportedTitle_PropertyName {
+            get {
+                return "InstallComplete_ImportedTitle";
             }
         }
         
@@ -565,11 +1051,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'InstallComplete_ImportingAspnet_Applications'.
+        /// </summary>
+        public static string InstallComplete_ImportingAspnet_Applications_PropertyName {
+            get {
+                return "InstallComplete_ImportingAspnet_Applications";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Importing &quot;aspnet_Applications&quot; ...'.
         /// </summary>
         public static string InstallComplete_ImportingAspnet_Applications {
             get {
                 return ResourceManager.GetString("InstallComplete_ImportingAspnet_Applications", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'InstallComplete_ImportingAspnet_Membership'.
+        /// </summary>
+        public static string InstallComplete_ImportingAspnet_Membership_PropertyName {
+            get {
+                return "InstallComplete_ImportingAspnet_Membership";
             }
         }
         
@@ -583,11 +1087,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'InstallComplete_ImportingAspnet_Roles'.
+        /// </summary>
+        public static string InstallComplete_ImportingAspnet_Roles_PropertyName {
+            get {
+                return "InstallComplete_ImportingAspnet_Roles";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Importing &quot;aspnet_Roles&quot; ...'.
         /// </summary>
         public static string InstallComplete_ImportingAspnet_Roles {
             get {
                 return ResourceManager.GetString("InstallComplete_ImportingAspnet_Roles", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'InstallComplete_ImportingAspnet_SchemaVersions'.
+        /// </summary>
+        public static string InstallComplete_ImportingAspnet_SchemaVersions_PropertyName {
+            get {
+                return "InstallComplete_ImportingAspnet_SchemaVersions";
             }
         }
         
@@ -601,11 +1123,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'InstallComplete_ImportingAspnet_Users'.
+        /// </summary>
+        public static string InstallComplete_ImportingAspnet_Users_PropertyName {
+            get {
+                return "InstallComplete_ImportingAspnet_Users";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Importing &quot;aspnet_Users&quot; ...'.
         /// </summary>
         public static string InstallComplete_ImportingAspnet_Users {
             get {
                 return ResourceManager.GetString("InstallComplete_ImportingAspnet_Users", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'InstallComplete_ImportingAspnet_UsersInRoles'.
+        /// </summary>
+        public static string InstallComplete_ImportingAspnet_UsersInRoles_PropertyName {
+            get {
+                return "InstallComplete_ImportingAspnet_UsersInRoles";
             }
         }
         
@@ -619,11 +1159,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'InstallComplete_ImportingBlogData'.
+        /// </summary>
+        public static string InstallComplete_ImportingBlogData_PropertyName {
+            get {
+                return "InstallComplete_ImportingBlogData";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Importing &quot;Blog sample data&quot; ...'.
         /// </summary>
         public static string InstallComplete_ImportingBlogData {
             get {
                 return ResourceManager.GetString("InstallComplete_ImportingBlogData", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'InstallComplete_ImportingDocument'.
+        /// </summary>
+        public static string InstallComplete_ImportingDocument_PropertyName {
+            get {
+                return "InstallComplete_ImportingDocument";
             }
         }
         
@@ -637,11 +1195,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'InstallComplete_ImportingExistingData'.
+        /// </summary>
+        public static string InstallComplete_ImportingExistingData_PropertyName {
+            get {
+                return "InstallComplete_ImportingExistingData";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Importing data ...'.
         /// </summary>
         public static string InstallComplete_ImportingExistingData {
             get {
                 return ResourceManager.GetString("InstallComplete_ImportingExistingData", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'InstallComplete_ImportingLanguage'.
+        /// </summary>
+        public static string InstallComplete_ImportingLanguage_PropertyName {
+            get {
+                return "InstallComplete_ImportingLanguage";
             }
         }
         
@@ -655,11 +1231,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'InstallComplete_ImportingLocalizationBinary'.
+        /// </summary>
+        public static string InstallComplete_ImportingLocalizationBinary_PropertyName {
+            get {
+                return "InstallComplete_ImportingLocalizationBinary";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Importing &quot;LocalizationBinary&quot; ...'.
         /// </summary>
         public static string InstallComplete_ImportingLocalizationBinary {
             get {
                 return ResourceManager.GetString("InstallComplete_ImportingLocalizationBinary", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'InstallComplete_ImportingLocalizationSource'.
+        /// </summary>
+        public static string InstallComplete_ImportingLocalizationSource_PropertyName {
+            get {
+                return "InstallComplete_ImportingLocalizationSource";
             }
         }
         
@@ -673,11 +1267,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'InstallComplete_ImportingLocalizationString'.
+        /// </summary>
+        public static string InstallComplete_ImportingLocalizationString_PropertyName {
+            get {
+                return "InstallComplete_ImportingLocalizationString";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Importing &quot;LocalizationString&quot; ...'.
         /// </summary>
         public static string InstallComplete_ImportingLocalizationString {
             get {
                 return ResourceManager.GetString("InstallComplete_ImportingLocalizationString", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'InstallComplete_ImportingNavigation'.
+        /// </summary>
+        public static string InstallComplete_ImportingNavigation_PropertyName {
+            get {
+                return "InstallComplete_ImportingNavigation";
             }
         }
         
@@ -691,11 +1303,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'InstallComplete_ImportingNavigationLocalization'.
+        /// </summary>
+        public static string InstallComplete_ImportingNavigationLocalization_PropertyName {
+            get {
+                return "InstallComplete_ImportingNavigationLocalization";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Importing &quot;NavigationLocalization&quot; ...'.
         /// </summary>
         public static string InstallComplete_ImportingNavigationLocalization {
             get {
                 return ResourceManager.GetString("InstallComplete_ImportingNavigationLocalization", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'InstallComplete_ImportingNewsData'.
+        /// </summary>
+        public static string InstallComplete_ImportingNewsData_PropertyName {
+            get {
+                return "InstallComplete_ImportingNewsData";
             }
         }
         
@@ -709,11 +1339,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'InstallComplete_ImportingOther'.
+        /// </summary>
+        public static string InstallComplete_ImportingOther_PropertyName {
+            get {
+                return "InstallComplete_ImportingOther";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Importing &quot;MonoX data&quot; ...'.
         /// </summary>
         public static string InstallComplete_ImportingOther {
             get {
                 return ResourceManager.GetString("InstallComplete_ImportingOther", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'InstallComplete_ImportingPage'.
+        /// </summary>
+        public static string InstallComplete_ImportingPage_PropertyName {
+            get {
+                return "InstallComplete_ImportingPage";
             }
         }
         
@@ -727,11 +1375,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'InstallComplete_ImportingPageLocalization'.
+        /// </summary>
+        public static string InstallComplete_ImportingPageLocalization_PropertyName {
+            get {
+                return "InstallComplete_ImportingPageLocalization";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Importing &quot;PageLocalization&quot; ...'.
         /// </summary>
         public static string InstallComplete_ImportingPageLocalization {
             get {
                 return ResourceManager.GetString("InstallComplete_ImportingPageLocalization", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'InstallComplete_ImportingPageRole'.
+        /// </summary>
+        public static string InstallComplete_ImportingPageRole_PropertyName {
+            get {
+                return "InstallComplete_ImportingPageRole";
             }
         }
         
@@ -745,11 +1411,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'InstallComplete_ImportingSNData'.
+        /// </summary>
+        public static string InstallComplete_ImportingSNData_PropertyName {
+            get {
+                return "InstallComplete_ImportingSNData";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Importing &quot;Social network sample data&quot; ...'.
         /// </summary>
         public static string InstallComplete_ImportingSNData {
             get {
                 return ResourceManager.GetString("InstallComplete_ImportingSNData", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'InstallComplete_ImportingTitle'.
+        /// </summary>
+        public static string InstallComplete_ImportingTitle_PropertyName {
+            get {
+                return "InstallComplete_ImportingTitle";
             }
         }
         
@@ -763,11 +1447,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'InstallComplete_InfoStep_Complete'.
+        /// </summary>
+        public static string InstallComplete_InfoStep_Complete_PropertyName {
+            get {
+                return "InstallComplete_InfoStep_Complete";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Installation complete!'.
         /// </summary>
         public static string InstallComplete_InfoStep_Complete {
             get {
                 return ResourceManager.GetString("InstallComplete_InfoStep_Complete", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'InstallComplete_InfoStep_Start'.
+        /// </summary>
+        public static string InstallComplete_InfoStep_Start_PropertyName {
+            get {
+                return "InstallComplete_InfoStep_Start";
             }
         }
         
@@ -781,11 +1483,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'InstallComplete_InProgress'.
+        /// </summary>
+        public static string InstallComplete_InProgress_PropertyName {
+            get {
+                return "InstallComplete_InProgress";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Installation in progress ...'.
         /// </summary>
         public static string InstallComplete_InProgress {
             get {
                 return ResourceManager.GetString("InstallComplete_InProgress", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'InstallComplete_labSubTitle'.
+        /// </summary>
+        public static string InstallComplete_labSubTitle_PropertyName {
+            get {
+                return "InstallComplete_labSubTitle";
             }
         }
         
@@ -799,11 +1519,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'InstallComplete_lnkHere'.
+        /// </summary>
+        public static string InstallComplete_lnkHere_PropertyName {
+            get {
+                return "InstallComplete_lnkHere";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'here'.
         /// </summary>
         public static string InstallComplete_lnkHere {
             get {
                 return ResourceManager.GetString("InstallComplete_lnkHere", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'InstallComplete_NextText'.
+        /// </summary>
+        public static string InstallComplete_NextText_PropertyName {
+            get {
+                return "InstallComplete_NextText";
             }
         }
         
@@ -817,11 +1555,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'InstallComplete_Note'.
+        /// </summary>
+        public static string InstallComplete_Note_PropertyName {
+            get {
+                return "InstallComplete_Note";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Please note: Worker process (Account: {0}) needs to have write permissions on the web.config file in order to write all settings and complete the installation process.'.
         /// </summary>
         public static string InstallComplete_Note {
             get {
                 return ResourceManager.GetString("InstallComplete_Note", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'InstallComplete_Note2'.
+        /// </summary>
+        public static string InstallComplete_Note2_PropertyName {
+            get {
+                return "InstallComplete_Note2";
             }
         }
         
@@ -835,11 +1591,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'InstallComplete_Note3'.
+        /// </summary>
+        public static string InstallComplete_Note3_PropertyName {
+            get {
+                return "InstallComplete_Note3";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'to navigate to your new web site.'.
         /// </summary>
         public static string InstallComplete_Note3 {
             get {
                 return ResourceManager.GetString("InstallComplete_Note3", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'InstallComplete_PageTitle'.
+        /// </summary>
+        public static string InstallComplete_PageTitle_PropertyName {
+            get {
+                return "InstallComplete_PageTitle";
             }
         }
         
@@ -853,11 +1627,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'InstallComplete_SettingFolderPermissions'.
+        /// </summary>
+        public static string InstallComplete_SettingFolderPermissions_PropertyName {
+            get {
+                return "InstallComplete_SettingFolderPermissions";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Setting folder permssions for &quot;{0}&quot; ...'.
         /// </summary>
         public static string InstallComplete_SettingFolderPermissions {
             get {
                 return ResourceManager.GetString("InstallComplete_SettingFolderPermissions", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'InstallComplete_Title'.
+        /// </summary>
+        public static string InstallComplete_Title_PropertyName {
+            get {
+                return "InstallComplete_Title";
             }
         }
         
@@ -871,11 +1663,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'License_AgreeRequired'.
+        /// </summary>
+        public static string License_AgreeRequired_PropertyName {
+            get {
+                return "License_AgreeRequired";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Please confirm that you agree with the license agreement.'.
         /// </summary>
         public static string License_AgreeRequired {
             get {
                 return ResourceManager.GetString("License_AgreeRequired", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'License_btnPrintable'.
+        /// </summary>
+        public static string License_btnPrintable_PropertyName {
+            get {
+                return "License_btnPrintable";
             }
         }
         
@@ -889,11 +1699,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'License_chkAgree'.
+        /// </summary>
+        public static string License_chkAgree_PropertyName {
+            get {
+                return "License_chkAgree";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'I Agree'.
         /// </summary>
         public static string License_chkAgree {
             get {
                 return ResourceManager.GetString("License_chkAgree", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'License_PageTitle'.
+        /// </summary>
+        public static string License_PageTitle_PropertyName {
+            get {
+                return "License_PageTitle";
             }
         }
         
@@ -907,11 +1735,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'License_Title'.
+        /// </summary>
+        public static string License_Title_PropertyName {
+            get {
+                return "License_Title";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'MonoX License'.
         /// </summary>
         public static string License_Title {
             get {
                 return ResourceManager.GetString("License_Title", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Master_btnCancel'.
+        /// </summary>
+        public static string Master_btnCancel_PropertyName {
+            get {
+                return "Master_btnCancel";
             }
         }
         
@@ -925,11 +1771,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Master_btnCustom'.
+        /// </summary>
+        public static string Master_btnCustom_PropertyName {
+            get {
+                return "Master_btnCustom";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Custom'.
         /// </summary>
         public static string Master_btnCustom {
             get {
                 return ResourceManager.GetString("Master_btnCustom", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Master_btnNext'.
+        /// </summary>
+        public static string Master_btnNext_PropertyName {
+            get {
+                return "Master_btnNext";
             }
         }
         
@@ -943,11 +1807,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Master_btnPrevious'.
+        /// </summary>
+        public static string Master_btnPrevious_PropertyName {
+            get {
+                return "Master_btnPrevious";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to '&lt; Previous'.
         /// </summary>
         public static string Master_btnPrevious {
             get {
                 return ResourceManager.GetString("Master_btnPrevious", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Master_EmptyHeaderTitle'.
+        /// </summary>
+        public static string Master_EmptyHeaderTitle_PropertyName {
+            get {
+                return "Master_EmptyHeaderTitle";
             }
         }
         
@@ -961,11 +1843,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'MonoXVersion'.
+        /// </summary>
+        public static string MonoXVersion_PropertyName {
+            get {
+                return "MonoXVersion";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'MonoX for ASP.NET {0}. Download other MonoX versions &lt;a href=&quot;{1}&quot; title=&quot;MonoX&quot;&gt;here&lt;/a&gt;.'.
         /// </summary>
         public static string MonoXVersion {
             get {
                 return ResourceManager.GetString("MonoXVersion", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'NewApplication_chkExistingMembershipProvider'.
+        /// </summary>
+        public static string NewApplication_chkExistingMembershipProvider_PropertyName {
+            get {
+                return "NewApplication_chkExistingMembershipProvider";
             }
         }
         
@@ -979,11 +1879,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'NewApplication_labCloneAppName'.
+        /// </summary>
+        public static string NewApplication_labCloneAppName_PropertyName {
+            get {
+                return "NewApplication_labCloneAppName";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Application to clone: '.
         /// </summary>
         public static string NewApplication_labCloneAppName {
             get {
                 return ResourceManager.GetString("NewApplication_labCloneAppName", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'NewApplication_labNewAppName'.
+        /// </summary>
+        public static string NewApplication_labNewAppName_PropertyName {
+            get {
+                return "NewApplication_labNewAppName";
             }
         }
         
@@ -997,11 +1915,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'NewApplication_labSubTitle'.
+        /// </summary>
+        public static string NewApplication_labSubTitle_PropertyName {
+            get {
+                return "NewApplication_labSubTitle";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Multi application environment'.
         /// </summary>
         public static string NewApplication_labSubTitle {
             get {
                 return ResourceManager.GetString("NewApplication_labSubTitle", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'NewApplication_NextText'.
+        /// </summary>
+        public static string NewApplication_NextText_PropertyName {
+            get {
+                return "NewApplication_NextText";
             }
         }
         
@@ -1015,11 +1951,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'NewApplication_PageTitle'.
+        /// </summary>
+        public static string NewApplication_PageTitle_PropertyName {
+            get {
+                return "NewApplication_PageTitle";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'New application installation'.
         /// </summary>
         public static string NewApplication_PageTitle {
             get {
                 return ResourceManager.GetString("NewApplication_PageTitle", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'NewApplication_Title'.
+        /// </summary>
+        public static string NewApplication_Title_PropertyName {
+            get {
+                return "NewApplication_Title";
             }
         }
         
@@ -1033,11 +1987,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'PermissionCheckBox_Ok'.
+        /// </summary>
+        public static string PermissionCheckBox_Ok_PropertyName {
+            get {
+                return "PermissionCheckBox_Ok";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'The &apos;{0}&apos; account is granted with permissions &apos;{1}&apos; on the &apos;{2}&apos; folder.'.
         /// </summary>
         public static string PermissionCheckBox_Ok {
             get {
                 return ResourceManager.GetString("PermissionCheckBox_Ok", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'PermissionCheckBox_Skip'.
+        /// </summary>
+        public static string PermissionCheckBox_Skip_PropertyName {
+            get {
+                return "PermissionCheckBox_Skip";
             }
         }
         
@@ -1051,11 +2023,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'PermissionCheckBox_TestAgain'.
+        /// </summary>
+        public static string PermissionCheckBox_TestAgain_PropertyName {
+            get {
+                return "PermissionCheckBox_TestAgain";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Test permissions again'.
         /// </summary>
         public static string PermissionCheckBox_TestAgain {
             get {
                 return ResourceManager.GetString("PermissionCheckBox_TestAgain", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'PermissionCheckBox_Warning'.
+        /// </summary>
+        public static string PermissionCheckBox_Warning_PropertyName {
+            get {
+                return "PermissionCheckBox_Warning";
             }
         }
         
@@ -1069,11 +2059,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'SQLInfo_chkImpersonationEnabled'.
+        /// </summary>
+        public static string SQLInfo_chkImpersonationEnabled_PropertyName {
+            get {
+                return "SQLInfo_chkImpersonationEnabled";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'ASP.NET Impersonation enabled (Note: changing the value will restart the wizard)'.
         /// </summary>
         public static string SQLInfo_chkImpersonationEnabled {
             get {
                 return ResourceManager.GetString("SQLInfo_chkImpersonationEnabled", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'SQLInfo_EnterDatabaseName'.
+        /// </summary>
+        public static string SQLInfo_EnterDatabaseName_PropertyName {
+            get {
+                return "SQLInfo_EnterDatabaseName";
             }
         }
         
@@ -1087,11 +2095,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'SQLInfo_EnterDatabaseServerName'.
+        /// </summary>
+        public static string SQLInfo_EnterDatabaseServerName_PropertyName {
+            get {
+                return "SQLInfo_EnterDatabaseServerName";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Cannot list servers - please enter a server name manually'.
         /// </summary>
         public static string SQLInfo_EnterDatabaseServerName {
             get {
                 return ResourceManager.GetString("SQLInfo_EnterDatabaseServerName", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'SQLInfo_labNote'.
+        /// </summary>
+        public static string SQLInfo_labNote_PropertyName {
+            get {
+                return "SQLInfo_labNote";
             }
         }
         
@@ -1105,11 +2131,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'SQLInfo_labPassword'.
+        /// </summary>
+        public static string SQLInfo_labPassword_PropertyName {
+            get {
+                return "SQLInfo_labPassword";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Password:'.
         /// </summary>
         public static string SQLInfo_labPassword {
             get {
                 return ResourceManager.GetString("SQLInfo_labPassword", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'SQLInfo_labSQLServerName'.
+        /// </summary>
+        public static string SQLInfo_labSQLServerName_PropertyName {
+            get {
+                return "SQLInfo_labSQLServerName";
             }
         }
         
@@ -1123,11 +2167,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'SQLInfo_labSubTitle'.
+        /// </summary>
+        public static string SQLInfo_labSubTitle_PropertyName {
+            get {
+                return "SQLInfo_labSubTitle";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Select a database server name and login information.'.
         /// </summary>
         public static string SQLInfo_labSubTitle {
             get {
                 return ResourceManager.GetString("SQLInfo_labSubTitle", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'SQLInfo_labUsername'.
+        /// </summary>
+        public static string SQLInfo_labUsername_PropertyName {
+            get {
+                return "SQLInfo_labUsername";
             }
         }
         
@@ -1141,11 +2203,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'SQLInfo_PageTitle'.
+        /// </summary>
+        public static string SQLInfo_PageTitle_PropertyName {
+            get {
+                return "SQLInfo_PageTitle";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Database Server Info'.
         /// </summary>
         public static string SQLInfo_PageTitle {
             get {
                 return ResourceManager.GetString("SQLInfo_PageTitle", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'SQLInfo_ServerNoFound'.
+        /// </summary>
+        public static string SQLInfo_ServerNoFound_PropertyName {
+            get {
+                return "SQLInfo_ServerNoFound";
             }
         }
         
@@ -1159,11 +2239,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'SQLInfo_sqlAuthTitle'.
+        /// </summary>
+        public static string SQLInfo_sqlAuthTitle_PropertyName {
+            get {
+                return "SQLInfo_sqlAuthTitle";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'SQL Server Authentication'.
         /// </summary>
         public static string SQLInfo_sqlAuthTitle {
             get {
                 return ResourceManager.GetString("SQLInfo_sqlAuthTitle", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'SQLInfo_Title'.
+        /// </summary>
+        public static string SQLInfo_Title_PropertyName {
+            get {
+                return "SQLInfo_Title";
             }
         }
         
@@ -1177,11 +2275,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'SQLInfo_winAuthTitle'.
+        /// </summary>
+        public static string SQLInfo_winAuthTitle_PropertyName {
+            get {
+                return "SQLInfo_winAuthTitle";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Windows Authentication'.
         /// </summary>
         public static string SQLInfo_winAuthTitle {
             get {
                 return ResourceManager.GetString("SQLInfo_winAuthTitle", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Title'.
+        /// </summary>
+        public static string Title_PropertyName {
+            get {
+                return "Title";
             }
         }
         

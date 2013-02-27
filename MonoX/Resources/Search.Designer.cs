@@ -79,11 +79,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'AllProviders'.
+        /// </summary>
+        public static string AllProviders_PropertyName {
+            get {
+                return "AllProviders";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'All'.
         /// </summary>
         public static string AllProviders {
             get {
                 return ResourceManager.GetString("AllProviders", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'BlogProviderTitle'.
+        /// </summary>
+        public static string BlogProviderTitle_PropertyName {
+            get {
+                return "BlogProviderTitle";
             }
         }
         
@@ -97,11 +115,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'CalendarEventSearchProviderTitle'.
+        /// </summary>
+        public static string CalendarEventSearchProviderTitle_PropertyName {
+            get {
+                return "CalendarEventSearchProviderTitle";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Calendars'.
         /// </summary>
         public static string CalendarEventSearchProviderTitle {
             get {
                 return ResourceManager.GetString("CalendarEventSearchProviderTitle", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'DiscussionProviderTitle'.
+        /// </summary>
+        public static string DiscussionProviderTitle_PropertyName {
+            get {
+                return "DiscussionProviderTitle";
             }
         }
         
@@ -115,11 +151,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'FileProviderTitle'.
+        /// </summary>
+        public static string FileProviderTitle_PropertyName {
+            get {
+                return "FileProviderTitle";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Files'.
         /// </summary>
         public static string FileProviderTitle {
             get {
                 return ResourceManager.GetString("FileProviderTitle", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'GroupProviderTitle'.
+        /// </summary>
+        public static string GroupProviderTitle_PropertyName {
+            get {
+                return "GroupProviderTitle";
             }
         }
         
@@ -133,11 +187,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'IndexingServiceProviderTitle'.
+        /// </summary>
+        public static string IndexingServiceProviderTitle_PropertyName {
+            get {
+                return "IndexingServiceProviderTitle";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'File system (Indexing Service)'.
         /// </summary>
         public static string IndexingServiceProviderTitle {
             get {
                 return ResourceManager.GetString("IndexingServiceProviderTitle", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'LuceneProviderTitle'.
+        /// </summary>
+        public static string LuceneProviderTitle_PropertyName {
+            get {
+                return "LuceneProviderTitle";
             }
         }
         
@@ -151,11 +223,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'NewsProviderTitle'.
+        /// </summary>
+        public static string NewsProviderTitle_PropertyName {
+            get {
+                return "NewsProviderTitle";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'News'.
         /// </summary>
         public static string NewsProviderTitle {
             get {
                 return ResourceManager.GetString("NewsProviderTitle", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'NoSearchCriteria'.
+        /// </summary>
+        public static string NoSearchCriteria_PropertyName {
+            get {
+                return "NoSearchCriteria";
             }
         }
         
@@ -169,11 +259,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'NoSearchResults'.
+        /// </summary>
+        public static string NoSearchResults_PropertyName {
+            get {
+                return "NoSearchResults";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'There are no documents that match your search criteria.'.
         /// </summary>
         public static string NoSearchResults {
             get {
                 return ResourceManager.GetString("NoSearchResults", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'PagesProviderTitle'.
+        /// </summary>
+        public static string PagesProviderTitle_PropertyName {
+            get {
+                return "PagesProviderTitle";
             }
         }
         
@@ -187,6 +295,15 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'PhotoGalleryProviderTitle'.
+        /// </summary>
+        public static string PhotoGalleryProviderTitle_PropertyName {
+            get {
+                return "PhotoGalleryProviderTitle";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Photos'.
         /// </summary>
         public static string PhotoGalleryProviderTitle {
@@ -196,11 +313,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'SearchFilterCaption'.
+        /// </summary>
+        public static string SearchFilterCaption_PropertyName {
+            get {
+                return "SearchFilterCaption";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Search in:'.
         /// </summary>
         public static string SearchFilterCaption {
             get {
                 return ResourceManager.GetString("SearchFilterCaption", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'UserProfileProviderTitle'.
+        /// </summary>
+        public static string UserProfileProviderTitle_PropertyName {
+            get {
+                return "UserProfileProviderTitle";
             }
         }
         

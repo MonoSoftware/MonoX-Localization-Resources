@@ -79,11 +79,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'ApplicationEnd'.
+        /// </summary>
+        public static string ApplicationEnd_PropertyName {
+            get {
+                return "ApplicationEnd";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Application end'.
         /// </summary>
         public static string ApplicationEnd {
             get {
                 return ResourceManager.GetString("ApplicationEnd", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'ApplicationError'.
+        /// </summary>
+        public static string ApplicationError_PropertyName {
+            get {
+                return "ApplicationError";
             }
         }
         
@@ -97,11 +115,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'ApplicationStart'.
+        /// </summary>
+        public static string ApplicationStart_PropertyName {
+            get {
+                return "ApplicationStart";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Application start'.
         /// </summary>
         public static string ApplicationStart {
             get {
                 return ResourceManager.GetString("ApplicationStart", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'PageError'.
+        /// </summary>
+        public static string PageError_PropertyName {
+            get {
+                return "PageError";
             }
         }
         
@@ -115,11 +151,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'UniqueUserIdNoProvided'.
+        /// </summary>
+        public static string UniqueUserIdNoProvided_PropertyName {
+            get {
+                return "UniqueUserIdNoProvided";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Please provide unique user id.'.
         /// </summary>
         public static string UniqueUserIdNoProvided {
             get {
                 return ResourceManager.GetString("UniqueUserIdNoProvided", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'UserControlError'.
+        /// </summary>
+        public static string UserControlError_PropertyName {
+            get {
+                return "UserControlError";
             }
         }
         

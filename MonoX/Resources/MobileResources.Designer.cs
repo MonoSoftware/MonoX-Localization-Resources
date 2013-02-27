@@ -79,11 +79,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Blog'.
+        /// </summary>
+        public static string Blog_PropertyName {
+            get {
+                return "Blog";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Blog'.
         /// </summary>
         public static string Blog {
             get {
                 return ResourceManager.GetString("Blog", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Desktop'.
+        /// </summary>
+        public static string Desktop_PropertyName {
+            get {
+                return "Desktop";
             }
         }
         
@@ -97,11 +115,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'ForgotPassword'.
+        /// </summary>
+        public static string ForgotPassword_PropertyName {
+            get {
+                return "ForgotPassword";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Forgot a password?'.
         /// </summary>
         public static string ForgotPassword {
             get {
                 return ResourceManager.GetString("ForgotPassword", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Friends'.
+        /// </summary>
+        public static string Friends_PropertyName {
+            get {
+                return "Friends";
             }
         }
         
@@ -115,11 +151,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Home'.
+        /// </summary>
+        public static string Home_PropertyName {
+            get {
+                return "Home";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Home'.
         /// </summary>
         public static string Home {
             get {
                 return ResourceManager.GetString("Home", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Login'.
+        /// </summary>
+        public static string Login_PropertyName {
+            get {
+                return "Login";
             }
         }
         
@@ -133,11 +187,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Logout'.
+        /// </summary>
+        public static string Logout_PropertyName {
+            get {
+                return "Logout";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Log out'.
         /// </summary>
         public static string Logout {
             get {
                 return ResourceManager.GetString("Logout", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Profile'.
+        /// </summary>
+        public static string Profile_PropertyName {
+            get {
+                return "Profile";
             }
         }
         
@@ -151,6 +223,15 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Register'.
+        /// </summary>
+        public static string Register_PropertyName {
+            get {
+                return "Register";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Register'.
         /// </summary>
         public static string Register {
@@ -160,11 +241,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Title_Main'.
+        /// </summary>
+        public static string Title_Main_PropertyName {
+            get {
+                return "Title_Main";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'MonoX Mobile'.
         /// </summary>
         public static string Title_Main {
             get {
                 return ResourceManager.GetString("Title_Main", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Wall'.
+        /// </summary>
+        public static string Wall_PropertyName {
+            get {
+                return "Wall";
             }
         }
         

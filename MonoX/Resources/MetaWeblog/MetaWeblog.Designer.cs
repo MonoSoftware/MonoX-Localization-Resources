@@ -79,11 +79,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Blog'.
+        /// </summary>
+        public static string Blog_PropertyName {
+            get {
+                return "Blog";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Blog'.
         /// </summary>
         public static string Blog {
             get {
                 return ResourceManager.GetString("Blog", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'FileError'.
+        /// </summary>
+        public static string FileError_PropertyName {
+            get {
+                return "FileError";
             }
         }
         
@@ -97,11 +115,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'InsertNotAllowed'.
+        /// </summary>
+        public static string InsertNotAllowed_PropertyName {
+            get {
+                return "InsertNotAllowed";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Insert not allowed on non default language!'.
         /// </summary>
         public static string InsertNotAllowed {
             get {
                 return ResourceManager.GetString("InsertNotAllowed", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'News'.
+        /// </summary>
+        public static string News_PropertyName {
+            get {
+                return "News";
             }
         }
         
@@ -115,11 +151,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'NoEditPermissions'.
+        /// </summary>
+        public static string NoEditPermissions_PropertyName {
+            get {
+                return "NoEditPermissions";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'No edit permissions!'.
         /// </summary>
         public static string NoEditPermissions {
             get {
                 return ResourceManager.GetString("NoEditPermissions", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'PortalPages'.
+        /// </summary>
+        public static string PortalPages_PropertyName {
+            get {
+                return "PortalPages";
             }
         }
         
@@ -133,11 +187,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Undefined'.
+        /// </summary>
+        public static string Undefined_PropertyName {
+            get {
+                return "Undefined";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Undefined'.
         /// </summary>
         public static string Undefined {
             get {
                 return ResourceManager.GetString("Undefined", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'UserNotValid'.
+        /// </summary>
+        public static string UserNotValid_PropertyName {
+            get {
+                return "UserNotValid";
             }
         }
         

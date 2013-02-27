@@ -79,11 +79,29 @@ namespace MonoSoftware.MonoX.Resources.WebParts {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'ErrorText'.
+        /// </summary>
+        public static string ErrorText_PropertyName {
+            get {
+                return "ErrorText";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'An error has occurred while trying to upload and import selected Web part. Please make sure that all Web parts have the correct format before uploading.'.
         /// </summary>
         public static string ErrorText {
             get {
                 return ResourceManager.GetString("ErrorText", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Title'.
+        /// </summary>
+        public static string Title_PropertyName {
+            get {
+                return "Title";
             }
         }
         
@@ -97,11 +115,29 @@ namespace MonoSoftware.MonoX.Resources.WebParts {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Upload'.
+        /// </summary>
+        public static string Upload_PropertyName {
+            get {
+                return "Upload";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Upload'.
         /// </summary>
         public static string Upload {
             get {
                 return ResourceManager.GetString("Upload", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Uploaded'.
+        /// </summary>
+        public static string Uploaded_PropertyName {
+            get {
+                return "Uploaded";
             }
         }
         

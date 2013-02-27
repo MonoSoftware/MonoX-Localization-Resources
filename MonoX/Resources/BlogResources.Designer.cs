@@ -79,11 +79,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'AddNewPost'.
+        /// </summary>
+        public static string AddNewPost_PropertyName {
+            get {
+                return "AddNewPost";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Add new blog post'.
         /// </summary>
         public static string AddNewPost {
             get {
                 return ResourceManager.GetString("AddNewPost", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'AllBlogPosts'.
+        /// </summary>
+        public static string AllBlogPosts_PropertyName {
+            get {
+                return "AllBlogPosts";
             }
         }
         
@@ -97,11 +115,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'AllCategories'.
+        /// </summary>
+        public static string AllCategories_PropertyName {
+            get {
+                return "AllCategories";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'All'.
         /// </summary>
         public static string AllCategories {
             get {
                 return ResourceManager.GetString("AllCategories", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Author'.
+        /// </summary>
+        public static string Author_PropertyName {
+            get {
+                return "Author";
             }
         }
         
@@ -115,11 +151,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'AuthorDescriptionFormatString'.
+        /// </summary>
+        public static string AuthorDescriptionFormatString_PropertyName {
+            get {
+                return "AuthorDescriptionFormatString";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Posts authored by {0}'.
         /// </summary>
         public static string AuthorDescriptionFormatString {
             get {
                 return ResourceManager.GetString("AuthorDescriptionFormatString", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'BlogCategories_NoData'.
+        /// </summary>
+        public static string BlogCategories_NoData_PropertyName {
+            get {
+                return "BlogCategories_NoData";
             }
         }
         
@@ -133,11 +187,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'BlogEditors'.
+        /// </summary>
+        public static string BlogEditors_PropertyName {
+            get {
+                return "BlogEditors";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Blog editors'.
         /// </summary>
         public static string BlogEditors {
             get {
                 return ResourceManager.GetString("BlogEditors", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'BlogInfo'.
+        /// </summary>
+        public static string BlogInfo_PropertyName {
+            get {
+                return "BlogInfo";
             }
         }
         
@@ -151,11 +223,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'BlogList'.
+        /// </summary>
+        public static string BlogList_PropertyName {
+            get {
+                return "BlogList";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Blog list'.
         /// </summary>
         public static string BlogList {
             get {
                 return ResourceManager.GetString("BlogList", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'BlogManageCategories_AddNew'.
+        /// </summary>
+        public static string BlogManageCategories_AddNew_PropertyName {
+            get {
+                return "BlogManageCategories_AddNew";
             }
         }
         
@@ -169,11 +259,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'BlogManageCategories_Categories'.
+        /// </summary>
+        public static string BlogManageCategories_Categories_PropertyName {
+            get {
+                return "BlogManageCategories_Categories";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Blog categories'.
         /// </summary>
         public static string BlogManageCategories_Categories {
             get {
                 return ResourceManager.GetString("BlogManageCategories_Categories", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'BlogManageCategories_Update'.
+        /// </summary>
+        public static string BlogManageCategories_Update_PropertyName {
+            get {
+                return "BlogManageCategories_Update";
             }
         }
         
@@ -187,11 +295,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'BlogPost_NewCommentAdded'.
+        /// </summary>
+        public static string BlogPost_NewCommentAdded_PropertyName {
+            get {
+                return "BlogPost_NewCommentAdded";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'A new comment has been added to a blog post that you are subscribed on.'.
         /// </summary>
         public static string BlogPost_NewCommentAdded {
             get {
                 return ResourceManager.GetString("BlogPost_NewCommentAdded", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'BlogPost_NewCommentClickToReply'.
+        /// </summary>
+        public static string BlogPost_NewCommentClickToReply_PropertyName {
+            get {
+                return "BlogPost_NewCommentClickToReply";
             }
         }
         
@@ -205,11 +331,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'BlogPostList_Filter_ShowAll'.
+        /// </summary>
+        public static string BlogPostList_Filter_ShowAll_PropertyName {
+            get {
+                return "BlogPostList_Filter_ShowAll";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'All posts'.
         /// </summary>
         public static string BlogPostList_Filter_ShowAll {
             get {
                 return ResourceManager.GetString("BlogPostList_Filter_ShowAll", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'BlogPostList_Filter_ShowAllToolTip'.
+        /// </summary>
+        public static string BlogPostList_Filter_ShowAllToolTip_PropertyName {
+            get {
+                return "BlogPostList_Filter_ShowAllToolTip";
             }
         }
         
@@ -223,11 +367,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'BlogPostList_Filter_ShowPublished'.
+        /// </summary>
+        public static string BlogPostList_Filter_ShowPublished_PropertyName {
+            get {
+                return "BlogPostList_Filter_ShowPublished";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Published posts'.
         /// </summary>
         public static string BlogPostList_Filter_ShowPublished {
             get {
                 return ResourceManager.GetString("BlogPostList_Filter_ShowPublished", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'BlogPostList_Filter_ShowPublishedToolTip'.
+        /// </summary>
+        public static string BlogPostList_Filter_ShowPublishedToolTip_PropertyName {
+            get {
+                return "BlogPostList_Filter_ShowPublishedToolTip";
             }
         }
         
@@ -241,11 +403,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'BlogPostList_Filter_ShowUnPublished'.
+        /// </summary>
+        public static string BlogPostList_Filter_ShowUnPublished_PropertyName {
+            get {
+                return "BlogPostList_Filter_ShowUnPublished";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Unpublished posts'.
         /// </summary>
         public static string BlogPostList_Filter_ShowUnPublished {
             get {
                 return ResourceManager.GetString("BlogPostList_Filter_ShowUnPublished", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'BlogPostList_Filter_ShowUnPublishedToolTip'.
+        /// </summary>
+        public static string BlogPostList_Filter_ShowUnPublishedToolTip_PropertyName {
+            get {
+                return "BlogPostList_Filter_ShowUnPublishedToolTip";
             }
         }
         
@@ -259,11 +439,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'BlogPostList_Filter_Title'.
+        /// </summary>
+        public static string BlogPostList_Filter_Title_PropertyName {
+            get {
+                return "BlogPostList_Filter_Title";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Current filter'.
         /// </summary>
         public static string BlogPostList_Filter_Title {
             get {
                 return ResourceManager.GetString("BlogPostList_Filter_Title", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'BlogSettings'.
+        /// </summary>
+        public static string BlogSettings_PropertyName {
+            get {
+                return "BlogSettings";
             }
         }
         
@@ -277,11 +475,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'BlogSettings_Description'.
+        /// </summary>
+        public static string BlogSettings_Description_PropertyName {
+            get {
+                return "BlogSettings_Description";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Description:'.
         /// </summary>
         public static string BlogSettings_Description {
             get {
                 return ResourceManager.GetString("BlogSettings_Description", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Categories'.
+        /// </summary>
+        public static string Categories_PropertyName {
+            get {
+                return "Categories";
             }
         }
         
@@ -295,11 +511,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'CategoryDescriptionFormatString'.
+        /// </summary>
+        public static string CategoryDescriptionFormatString_PropertyName {
+            get {
+                return "CategoryDescriptionFormatString";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Posts in category {0}'.
         /// </summary>
         public static string CategoryDescriptionFormatString {
             get {
                 return ResourceManager.GetString("CategoryDescriptionFormatString", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Comments'.
+        /// </summary>
+        public static string Comments_PropertyName {
+            get {
+                return "Comments";
             }
         }
         
@@ -313,11 +547,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Comments_ApprovalAlert'.
+        /// </summary>
+        public static string Comments_ApprovalAlert_PropertyName {
+            get {
+                return "Comments_ApprovalAlert";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Your comment may require administrative approval before it is published. '.
         /// </summary>
         public static string Comments_ApprovalAlert {
             get {
                 return ResourceManager.GetString("Comments_ApprovalAlert", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Comments_Approve'.
+        /// </summary>
+        public static string Comments_Approve_PropertyName {
+            get {
+                return "Comments_Approve";
             }
         }
         
@@ -331,11 +583,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Comments_Comment'.
+        /// </summary>
+        public static string Comments_Comment_PropertyName {
+            get {
+                return "Comments_Comment";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Comment'.
         /// </summary>
         public static string Comments_Comment {
             get {
                 return ResourceManager.GetString("Comments_Comment", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Comments_Comments'.
+        /// </summary>
+        public static string Comments_Comments_PropertyName {
+            get {
+                return "Comments_Comments";
             }
         }
         
@@ -349,11 +619,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Comments_ConfirmDelete'.
+        /// </summary>
+        public static string Comments_ConfirmDelete_PropertyName {
+            get {
+                return "Comments_ConfirmDelete";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'This blog comment will be deleted. Are you sure?'.
         /// </summary>
         public static string Comments_ConfirmDelete {
             get {
                 return ResourceManager.GetString("Comments_ConfirmDelete", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Comments_Email'.
+        /// </summary>
+        public static string Comments_Email_PropertyName {
+            get {
+                return "Comments_Email";
             }
         }
         
@@ -367,11 +655,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Comments_ErrorMessage_Comments'.
+        /// </summary>
+        public static string Comments_ErrorMessage_Comments_PropertyName {
+            get {
+                return "Comments_ErrorMessage_Comments";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Please enter a valid comment.'.
         /// </summary>
         public static string Comments_ErrorMessage_Comments {
             get {
                 return ResourceManager.GetString("Comments_ErrorMessage_Comments", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Comments_ErrorMessage_EmailFormat'.
+        /// </summary>
+        public static string Comments_ErrorMessage_EmailFormat_PropertyName {
+            get {
+                return "Comments_ErrorMessage_EmailFormat";
             }
         }
         
@@ -385,11 +691,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Comments_ErrorMessage_EmailRequired'.
+        /// </summary>
+        public static string Comments_ErrorMessage_EmailRequired_PropertyName {
+            get {
+                return "Comments_ErrorMessage_EmailRequired";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Please enter your e-mail address. It will not be shown publicly.'.
         /// </summary>
         public static string Comments_ErrorMessage_EmailRequired {
             get {
                 return ResourceManager.GetString("Comments_ErrorMessage_EmailRequired", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Comments_ErrorMessage_Name'.
+        /// </summary>
+        public static string Comments_ErrorMessage_Name_PropertyName {
+            get {
+                return "Comments_ErrorMessage_Name";
             }
         }
         
@@ -403,11 +727,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Comments_ErrorMessage_UrlFormat'.
+        /// </summary>
+        public static string Comments_ErrorMessage_UrlFormat_PropertyName {
+            get {
+                return "Comments_ErrorMessage_UrlFormat";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Please enter a correct Web site address, starting with http:// prefix.'.
         /// </summary>
         public static string Comments_ErrorMessage_UrlFormat {
             get {
                 return ResourceManager.GetString("Comments_ErrorMessage_UrlFormat", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Comments_MailSubject'.
+        /// </summary>
+        public static string Comments_MailSubject_PropertyName {
+            get {
+                return "Comments_MailSubject";
             }
         }
         
@@ -421,11 +763,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Comments_Name'.
+        /// </summary>
+        public static string Comments_Name_PropertyName {
+            get {
+                return "Comments_Name";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Name:*'.
         /// </summary>
         public static string Comments_Name {
             get {
                 return ResourceManager.GetString("Comments_Name", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Comments_Notify'.
+        /// </summary>
+        public static string Comments_Notify_PropertyName {
+            get {
+                return "Comments_Notify";
             }
         }
         
@@ -439,11 +799,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Comments_ReportHam'.
+        /// </summary>
+        public static string Comments_ReportHam_PropertyName {
+            get {
+                return "Comments_ReportHam";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Report as ham'.
         /// </summary>
         public static string Comments_ReportHam {
             get {
                 return ResourceManager.GetString("Comments_ReportHam", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Comments_ReportSpam'.
+        /// </summary>
+        public static string Comments_ReportSpam_PropertyName {
+            get {
+                return "Comments_ReportSpam";
             }
         }
         
@@ -457,11 +835,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Comments_Save'.
+        /// </summary>
+        public static string Comments_Save_PropertyName {
+            get {
+                return "Comments_Save";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Save comment'.
         /// </summary>
         public static string Comments_Save {
             get {
                 return ResourceManager.GetString("Comments_Save", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Comments_Sender_Url'.
+        /// </summary>
+        public static string Comments_Sender_Url_PropertyName {
+            get {
+                return "Comments_Sender_Url";
             }
         }
         
@@ -475,11 +871,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Comments_Url'.
+        /// </summary>
+        public static string Comments_Url_PropertyName {
+            get {
+                return "Comments_Url";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Web site:'.
         /// </summary>
         public static string Comments_Url {
             get {
                 return ResourceManager.GetString("Comments_Url", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Comments_ValidationSummary'.
+        /// </summary>
+        public static string Comments_ValidationSummary_PropertyName {
+            get {
+                return "Comments_ValidationSummary";
             }
         }
         
@@ -493,11 +907,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'CommentsAdmin'.
+        /// </summary>
+        public static string CommentsAdmin_PropertyName {
+            get {
+                return "CommentsAdmin";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Comments'.
         /// </summary>
         public static string CommentsAdmin {
             get {
                 return ResourceManager.GetString("CommentsAdmin", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'ConfirmDelete'.
+        /// </summary>
+        public static string ConfirmDelete_PropertyName {
+            get {
+                return "ConfirmDelete";
             }
         }
         
@@ -511,11 +943,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'ConfirmDeleteSpam'.
+        /// </summary>
+        public static string ConfirmDeleteSpam_PropertyName {
+            get {
+                return "ConfirmDeleteSpam";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'All comments marked as spam will be deleted. Are you sure?'.
         /// </summary>
         public static string ConfirmDeleteSpam {
             get {
                 return ResourceManager.GetString("ConfirmDeleteSpam", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'ConfirmDeleteUnapproved'.
+        /// </summary>
+        public static string ConfirmDeleteUnapproved_PropertyName {
+            get {
+                return "ConfirmDeleteUnapproved";
             }
         }
         
@@ -529,11 +979,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Delete'.
+        /// </summary>
+        public static string Delete_PropertyName {
+            get {
+                return "Delete";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Delete'.
         /// </summary>
         public static string Delete {
             get {
                 return ResourceManager.GetString("Delete", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'DeleteSpam'.
+        /// </summary>
+        public static string DeleteSpam_PropertyName {
+            get {
+                return "DeleteSpam";
             }
         }
         
@@ -547,11 +1015,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'DeleteUnapproved'.
+        /// </summary>
+        public static string DeleteUnapproved_PropertyName {
+            get {
+                return "DeleteUnapproved";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Delete unapproved'.
         /// </summary>
         public static string DeleteUnapproved {
             get {
                 return ResourceManager.GetString("DeleteUnapproved", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Edit'.
+        /// </summary>
+        public static string Edit_PropertyName {
+            get {
+                return "Edit";
             }
         }
         
@@ -565,11 +1051,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Edit_Application'.
+        /// </summary>
+        public static string Edit_Application_PropertyName {
+            get {
+                return "Edit_Application";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Application:'.
         /// </summary>
         public static string Edit_Application {
             get {
                 return ResourceManager.GetString("Edit_Application", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Edit_Attachments'.
+        /// </summary>
+        public static string Edit_Attachments_PropertyName {
+            get {
+                return "Edit_Attachments";
             }
         }
         
@@ -583,11 +1087,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Edit_BlogTitle'.
+        /// </summary>
+        public static string Edit_BlogTitle_PropertyName {
+            get {
+                return "Edit_BlogTitle";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Blog title:'.
         /// </summary>
         public static string Edit_BlogTitle {
             get {
                 return ResourceManager.GetString("Edit_BlogTitle", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Edit_Cancel'.
+        /// </summary>
+        public static string Edit_Cancel_PropertyName {
+            get {
+                return "Edit_Cancel";
             }
         }
         
@@ -601,11 +1123,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Edit_Cancel_AccessKey'.
+        /// </summary>
+        public static string Edit_Cancel_AccessKey_PropertyName {
+            get {
+                return "Edit_Cancel_AccessKey";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'C'.
         /// </summary>
         public static string Edit_Cancel_AccessKey {
             get {
                 return ResourceManager.GetString("Edit_Cancel_AccessKey", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Edit_Categories'.
+        /// </summary>
+        public static string Edit_Categories_PropertyName {
+            get {
+                return "Edit_Categories";
             }
         }
         
@@ -619,11 +1159,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Edit_Content'.
+        /// </summary>
+        public static string Edit_Content_PropertyName {
+            get {
+                return "Edit_Content";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Blog post content:'.
         /// </summary>
         public static string Edit_Content {
             get {
                 return ResourceManager.GetString("Edit_Content", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Edit_Description'.
+        /// </summary>
+        public static string Edit_Description_PropertyName {
+            get {
+                return "Edit_Description";
             }
         }
         
@@ -637,11 +1195,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Edit_EditCategories'.
+        /// </summary>
+        public static string Edit_EditCategories_PropertyName {
+            get {
+                return "Edit_EditCategories";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Edit blog categories'.
         /// </summary>
         public static string Edit_EditCategories {
             get {
                 return ResourceManager.GetString("Edit_EditCategories", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Edit_ErrorMessage_TitleRequired'.
+        /// </summary>
+        public static string Edit_ErrorMessage_TitleRequired_PropertyName {
+            get {
+                return "Edit_ErrorMessage_TitleRequired";
             }
         }
         
@@ -655,11 +1231,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Edit_IsCommentingAllowed'.
+        /// </summary>
+        public static string Edit_IsCommentingAllowed_PropertyName {
+            get {
+                return "Edit_IsCommentingAllowed";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Allow comments ?'.
         /// </summary>
         public static string Edit_IsCommentingAllowed {
             get {
                 return ResourceManager.GetString("Edit_IsCommentingAllowed", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Edit_IsPublished'.
+        /// </summary>
+        public static string Edit_IsPublished_PropertyName {
+            get {
+                return "Edit_IsPublished";
             }
         }
         
@@ -673,11 +1267,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Edit_PublishDate'.
+        /// </summary>
+        public static string Edit_PublishDate_PropertyName {
+            get {
+                return "Edit_PublishDate";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Publish on:'.
         /// </summary>
         public static string Edit_PublishDate {
             get {
                 return ResourceManager.GetString("Edit_PublishDate", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Edit_Roles'.
+        /// </summary>
+        public static string Edit_Roles_PropertyName {
+            get {
+                return "Edit_Roles";
             }
         }
         
@@ -691,11 +1303,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Edit_Save'.
+        /// </summary>
+        public static string Edit_Save_PropertyName {
+            get {
+                return "Edit_Save";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to '(P)ublish'.
         /// </summary>
         public static string Edit_Save {
             get {
                 return ResourceManager.GetString("Edit_Save", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Edit_Save_AccessKey'.
+        /// </summary>
+        public static string Edit_Save_AccessKey_PropertyName {
+            get {
+                return "Edit_Save_AccessKey";
             }
         }
         
@@ -709,11 +1339,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Edit_Tags'.
+        /// </summary>
+        public static string Edit_Tags_PropertyName {
+            get {
+                return "Edit_Tags";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Tags:'.
         /// </summary>
         public static string Edit_Tags {
             get {
                 return ResourceManager.GetString("Edit_Tags", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Edit_TagTheNet'.
+        /// </summary>
+        public static string Edit_TagTheNet_PropertyName {
+            get {
+                return "Edit_TagTheNet";
             }
         }
         
@@ -727,11 +1375,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Edit_Title'.
+        /// </summary>
+        public static string Edit_Title_PropertyName {
+            get {
+                return "Edit_Title";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Blog post title:'.
         /// </summary>
         public static string Edit_Title {
             get {
                 return ResourceManager.GetString("Edit_Title", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Edit_ValidationSummary'.
+        /// </summary>
+        public static string Edit_ValidationSummary_PropertyName {
+            get {
+                return "Edit_ValidationSummary";
             }
         }
         
@@ -745,11 +1411,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Edit_Yahoo'.
+        /// </summary>
+        public static string Edit_Yahoo_PropertyName {
+            get {
+                return "Edit_Yahoo";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Yahoo Term Extraction'.
         /// </summary>
         public static string Edit_Yahoo {
             get {
                 return ResourceManager.GetString("Edit_Yahoo", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Email'.
+        /// </summary>
+        public static string Email_PropertyName {
+            get {
+                return "Email";
             }
         }
         
@@ -763,11 +1447,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Home'.
+        /// </summary>
+        public static string Home_PropertyName {
+            get {
+                return "Home";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Blog home'.
         /// </summary>
         public static string Home {
             get {
                 return ResourceManager.GetString("Home", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'InvitationText'.
+        /// </summary>
+        public static string InvitationText_PropertyName {
+            get {
+                return "InvitationText";
             }
         }
         
@@ -781,11 +1483,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'NoBlogPostsWarning'.
+        /// </summary>
+        public static string NoBlogPostsWarning_PropertyName {
+            get {
+                return "NoBlogPostsWarning";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to '&lt;br /&gt;No blog posts were found for the required criteria.&lt;br /&gt;'.
         /// </summary>
         public static string NoBlogPostsWarning {
             get {
                 return ResourceManager.GetString("NoBlogPostsWarning", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'NoRatingText'.
+        /// </summary>
+        public static string NoRatingText_PropertyName {
+            get {
+                return "NoRatingText";
             }
         }
         
@@ -799,11 +1519,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'OtherArticlesByAuthor'.
+        /// </summary>
+        public static string OtherArticlesByAuthor_PropertyName {
+            get {
+                return "OtherArticlesByAuthor";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Other articles by:'.
         /// </summary>
         public static string OtherArticlesByAuthor {
             get {
                 return ResourceManager.GetString("OtherArticlesByAuthor", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'PostCannotBeFound'.
+        /// </summary>
+        public static string PostCannotBeFound_PropertyName {
+            get {
+                return "PostCannotBeFound";
             }
         }
         
@@ -817,11 +1555,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Publish'.
+        /// </summary>
+        public static string Publish_PropertyName {
+            get {
+                return "Publish";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Publish'.
         /// </summary>
         public static string Publish {
             get {
                 return ResourceManager.GetString("Publish", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'RatingText'.
+        /// </summary>
+        public static string RatingText_PropertyName {
+            get {
+                return "RatingText";
             }
         }
         
@@ -835,11 +1591,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'RelatedContent'.
+        /// </summary>
+        public static string RelatedContent_PropertyName {
+            get {
+                return "RelatedContent";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Related blog posts'.
         /// </summary>
         public static string RelatedContent {
             get {
                 return ResourceManager.GetString("RelatedContent", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'SearchDescriptionFormatString'.
+        /// </summary>
+        public static string SearchDescriptionFormatString_PropertyName {
+            get {
+                return "SearchDescriptionFormatString";
             }
         }
         
@@ -853,11 +1627,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Settings_EditorsTooltip'.
+        /// </summary>
+        public static string Settings_EditorsTooltip_PropertyName {
+            get {
+                return "Settings_EditorsTooltip";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Tip: Enter comma-separated list of user names you want to set as editors of this blog.'.
         /// </summary>
         public static string Settings_EditorsTooltip {
             get {
                 return ResourceManager.GetString("Settings_EditorsTooltip", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'TagDescriptionFormatString'.
+        /// </summary>
+        public static string TagDescriptionFormatString_PropertyName {
+            get {
+                return "TagDescriptionFormatString";
             }
         }
         
@@ -871,11 +1663,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Tags'.
+        /// </summary>
+        public static string Tags_PropertyName {
+            get {
+                return "Tags";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Tags'.
         /// </summary>
         public static string Tags {
             get {
                 return ResourceManager.GetString("Tags", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Unpublish'.
+        /// </summary>
+        public static string Unpublish_PropertyName {
+            get {
+                return "Unpublish";
             }
         }
         

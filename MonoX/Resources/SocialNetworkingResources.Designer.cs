@@ -79,11 +79,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'BlockedUserList_ConfirmDelete'.
+        /// </summary>
+        public static string BlockedUserList_ConfirmDelete_PropertyName {
+            get {
+                return "BlockedUserList_ConfirmDelete";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'This person will be removed from your blocked user list. Are you sure?'.
         /// </summary>
         public static string BlockedUserList_ConfirmDelete {
             get {
                 return ResourceManager.GetString("BlockedUserList_ConfirmDelete", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'BlockedUserList_Delete'.
+        /// </summary>
+        public static string BlockedUserList_Delete_PropertyName {
+            get {
+                return "BlockedUserList_Delete";
             }
         }
         
@@ -97,11 +115,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'BlockedUserList_FriendListEmpty'.
+        /// </summary>
+        public static string BlockedUserList_FriendListEmpty_PropertyName {
+            get {
+                return "BlockedUserList_FriendListEmpty";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Your blocked user list is currently empty.'.
         /// </summary>
         public static string BlockedUserList_FriendListEmpty {
             get {
                 return ResourceManager.GetString("BlockedUserList_FriendListEmpty", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'BlockedUserList_ViewProfile'.
+        /// </summary>
+        public static string BlockedUserList_ViewProfile_PropertyName {
+            get {
+                return "BlockedUserList_ViewProfile";
             }
         }
         
@@ -115,11 +151,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'BlockUser_BlockConfirmation'.
+        /// </summary>
+        public static string BlockUser_BlockConfirmation_PropertyName {
+            get {
+                return "BlockUser_BlockConfirmation";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'User {0} has been successfully added to your blocked users list.'.
         /// </summary>
         public static string BlockUser_BlockConfirmation {
             get {
                 return ResourceManager.GetString("BlockUser_BlockConfirmation", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'BlockUser_BlockProblem'.
+        /// </summary>
+        public static string BlockUser_BlockProblem_PropertyName {
+            get {
+                return "BlockUser_BlockProblem";
             }
         }
         
@@ -133,11 +187,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'BlockUser_Button_Block'.
+        /// </summary>
+        public static string BlockUser_Button_Block_PropertyName {
+            get {
+                return "BlockUser_Button_Block";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Block'.
         /// </summary>
         public static string BlockUser_Button_Block {
             get {
                 return ResourceManager.GetString("BlockUser_Button_Block", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'BlockUser_Button_ViewProfile'.
+        /// </summary>
+        public static string BlockUser_Button_ViewProfile_PropertyName {
+            get {
+                return "BlockUser_Button_ViewProfile";
             }
         }
         
@@ -151,11 +223,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'BlockUser_NoUsers'.
+        /// </summary>
+        public static string BlockUser_NoUsers_PropertyName {
+            get {
+                return "BlockUser_NoUsers";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'You must select a valid user from the dropdown box.'.
         /// </summary>
         public static string BlockUser_NoUsers {
             get {
                 return ResourceManager.GetString("BlockUser_NoUsers", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'BlockUser_TipText'.
+        /// </summary>
+        public static string BlockUser_TipText_PropertyName {
+            get {
+                return "BlockUser_TipText";
             }
         }
         
@@ -169,11 +259,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Comments_AuthenticationAlert'.
+        /// </summary>
+        public static string Comments_AuthenticationAlert_PropertyName {
+            get {
+                return "Comments_AuthenticationAlert";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'You must log in before you can post comments on this site.'.
         /// </summary>
         public static string Comments_AuthenticationAlert {
             get {
                 return ResourceManager.GetString("Comments_AuthenticationAlert", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Comments_Button_Save'.
+        /// </summary>
+        public static string Comments_Button_Save_PropertyName {
+            get {
+                return "Comments_Button_Save";
             }
         }
         
@@ -187,11 +295,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Comments_ConfirmDelete'.
+        /// </summary>
+        public static string Comments_ConfirmDelete_PropertyName {
+            get {
+                return "Comments_ConfirmDelete";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'This comment will be deleted. Are you sure?'.
         /// </summary>
         public static string Comments_ConfirmDelete {
             get {
                 return ResourceManager.GetString("Comments_ConfirmDelete", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Comments_Delete'.
+        /// </summary>
+        public static string Comments_Delete_PropertyName {
+            get {
+                return "Comments_Delete";
             }
         }
         
@@ -205,11 +331,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Comments_NotificationSubjectAlbum'.
+        /// </summary>
+        public static string Comments_NotificationSubjectAlbum_PropertyName {
+            get {
+                return "Comments_NotificationSubjectAlbum";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to '{0} posted a comment on your album image'.
         /// </summary>
         public static string Comments_NotificationSubjectAlbum {
             get {
                 return ResourceManager.GetString("Comments_NotificationSubjectAlbum", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Comments_NotificationSubjectFile'.
+        /// </summary>
+        public static string Comments_NotificationSubjectFile_PropertyName {
+            get {
+                return "Comments_NotificationSubjectFile";
             }
         }
         
@@ -223,11 +367,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Comments_NotificationSubjectNote'.
+        /// </summary>
+        public static string Comments_NotificationSubjectNote_PropertyName {
+            get {
+                return "Comments_NotificationSubjectNote";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to '{0} posted a comment on your wall post'.
         /// </summary>
         public static string Comments_NotificationSubjectNote {
             get {
                 return ResourceManager.GetString("Comments_NotificationSubjectNote", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Comments_WatermarkText'.
+        /// </summary>
+        public static string Comments_WatermarkText_PropertyName {
+            get {
+                return "Comments_WatermarkText";
             }
         }
         
@@ -241,11 +403,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_Add_New_Board'.
+        /// </summary>
+        public static string Discussion_Add_New_Board_PropertyName {
+            get {
+                return "Discussion_Add_New_Board";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Add new discussion board '.
         /// </summary>
         public static string Discussion_Add_New_Board {
             get {
                 return ResourceManager.GetString("Discussion_Add_New_Board", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_ApproveReportedPost'.
+        /// </summary>
+        public static string Discussion_ApproveReportedPost_PropertyName {
+            get {
+                return "Discussion_ApproveReportedPost";
             }
         }
         
@@ -259,11 +439,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_ApproveReportedPostToolTip'.
+        /// </summary>
+        public static string Discussion_ApproveReportedPostToolTip_PropertyName {
+            get {
+                return "Discussion_ApproveReportedPostToolTip";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Approve reported post and consider it as non-abusive'.
         /// </summary>
         public static string Discussion_ApproveReportedPostToolTip {
             get {
                 return ResourceManager.GetString("Discussion_ApproveReportedPostToolTip", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_Back_To_Board'.
+        /// </summary>
+        public static string Discussion_Back_To_Board_PropertyName {
+            get {
+                return "Discussion_Back_To_Board";
             }
         }
         
@@ -277,11 +475,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_Back_To_Topics'.
+        /// </summary>
+        public static string Discussion_Back_To_Topics_PropertyName {
+            get {
+                return "Discussion_Back_To_Topics";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Back to all discussion topics'.
         /// </summary>
         public static string Discussion_Back_To_Topics {
             get {
                 return ResourceManager.GetString("Discussion_Back_To_Topics", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_Board_AutoSubscribeModerators'.
+        /// </summary>
+        public static string Discussion_Board_AutoSubscribeModerators_PropertyName {
+            get {
+                return "Discussion_Board_AutoSubscribeModerators";
             }
         }
         
@@ -295,11 +511,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_Board_AutoSubscribeModeratorsToolTip'.
+        /// </summary>
+        public static string Discussion_Board_AutoSubscribeModeratorsToolTip_PropertyName {
+            get {
+                return "Discussion_Board_AutoSubscribeModeratorsToolTip";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'All moderators will be subscribed to this board (Note: If you uncheck automatic subscription all moderators will be unsubscribed from this board).'.
         /// </summary>
         public static string Discussion_Board_AutoSubscribeModeratorsToolTip {
             get {
                 return ResourceManager.GetString("Discussion_Board_AutoSubscribeModeratorsToolTip", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_Board_Description'.
+        /// </summary>
+        public static string Discussion_Board_Description_PropertyName {
+            get {
+                return "Discussion_Board_Description";
             }
         }
         
@@ -313,11 +547,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_Board_Empty'.
+        /// </summary>
+        public static string Discussion_Board_Empty_PropertyName {
+            get {
+                return "Discussion_Board_Empty";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'There are no boards in the system'.
         /// </summary>
         public static string Discussion_Board_Empty {
             get {
                 return ResourceManager.GetString("Discussion_Board_Empty", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_Board_Name'.
+        /// </summary>
+        public static string Discussion_Board_Name_PropertyName {
+            get {
+                return "Discussion_Board_Name";
             }
         }
         
@@ -331,11 +583,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_Board_Roles'.
+        /// </summary>
+        public static string Discussion_Board_Roles_PropertyName {
+            get {
+                return "Discussion_Board_Roles";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Board roles'.
         /// </summary>
         public static string Discussion_Board_Roles {
             get {
                 return ResourceManager.GetString("Discussion_Board_Roles", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_Board_RolesToolTip'.
+        /// </summary>
+        public static string Discussion_Board_RolesToolTip_PropertyName {
+            get {
+                return "Discussion_Board_RolesToolTip";
             }
         }
         
@@ -349,11 +619,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_BoardAuthor'.
+        /// </summary>
+        public static string Discussion_BoardAuthor_PropertyName {
+            get {
+                return "Discussion_BoardAuthor";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'by {0}.'.
         /// </summary>
         public static string Discussion_BoardAuthor {
             get {
                 return ResourceManager.GetString("Discussion_BoardAuthor", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_BoardClosedToolTip'.
+        /// </summary>
+        public static string Discussion_BoardClosedToolTip_PropertyName {
+            get {
+                return "Discussion_BoardClosedToolTip";
             }
         }
         
@@ -367,11 +655,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_BoardCreatedDate'.
+        /// </summary>
+        public static string Discussion_BoardCreatedDate_PropertyName {
+            get {
+                return "Discussion_BoardCreatedDate";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Created'.
         /// </summary>
         public static string Discussion_BoardCreatedDate {
             get {
                 return ResourceManager.GetString("Discussion_BoardCreatedDate", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_BoardDoesntExist'.
+        /// </summary>
+        public static string Discussion_BoardDoesntExist_PropertyName {
+            get {
+                return "Discussion_BoardDoesntExist";
             }
         }
         
@@ -385,11 +691,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_BoardLastTopic'.
+        /// </summary>
+        public static string Discussion_BoardLastTopic_PropertyName {
+            get {
+                return "Discussion_BoardLastTopic";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Last topic'.
         /// </summary>
         public static string Discussion_BoardLastTopic {
             get {
                 return ResourceManager.GetString("Discussion_BoardLastTopic", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_BoardLastTopicAuthor'.
+        /// </summary>
+        public static string Discussion_BoardLastTopicAuthor_PropertyName {
+            get {
+                return "Discussion_BoardLastTopicAuthor";
             }
         }
         
@@ -403,11 +727,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_BoardMembership_AccessNotAllowed'.
+        /// </summary>
+        public static string Discussion_BoardMembership_AccessNotAllowed_PropertyName {
+            get {
+                return "Discussion_BoardMembership_AccessNotAllowed";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'You do not have permission to access this resource.'.
         /// </summary>
         public static string Discussion_BoardMembership_AccessNotAllowed {
             get {
                 return ResourceManager.GetString("Discussion_BoardMembership_AccessNotAllowed", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_BoardModerators'.
+        /// </summary>
+        public static string Discussion_BoardModerators_PropertyName {
+            get {
+                return "Discussion_BoardModerators";
             }
         }
         
@@ -421,11 +763,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_BoardSubscribe'.
+        /// </summary>
+        public static string Discussion_BoardSubscribe_PropertyName {
+            get {
+                return "Discussion_BoardSubscribe";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Subscribe'.
         /// </summary>
         public static string Discussion_BoardSubscribe {
             get {
                 return ResourceManager.GetString("Discussion_BoardSubscribe", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_BoardSubscribeToolTip'.
+        /// </summary>
+        public static string Discussion_BoardSubscribeToolTip_PropertyName {
+            get {
+                return "Discussion_BoardSubscribeToolTip";
             }
         }
         
@@ -439,11 +799,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_BoardUnSubscribe'.
+        /// </summary>
+        public static string Discussion_BoardUnSubscribe_PropertyName {
+            get {
+                return "Discussion_BoardUnSubscribe";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Unsubscribe'.
         /// </summary>
         public static string Discussion_BoardUnSubscribe {
             get {
                 return ResourceManager.GetString("Discussion_BoardUnSubscribe", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_BoardUnSubscribeToolTip'.
+        /// </summary>
+        public static string Discussion_BoardUnSubscribeToolTip_PropertyName {
+            get {
+                return "Discussion_BoardUnSubscribeToolTip";
             }
         }
         
@@ -457,11 +835,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_Button_Post'.
+        /// </summary>
+        public static string Discussion_Button_Post_PropertyName {
+            get {
+                return "Discussion_Button_Post";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Post'.
         /// </summary>
         public static string Discussion_Button_Post {
             get {
                 return ResourceManager.GetString("Discussion_Button_Post", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_CloseBoardToolTip'.
+        /// </summary>
+        public static string Discussion_CloseBoardToolTip_PropertyName {
+            get {
+                return "Discussion_CloseBoardToolTip";
             }
         }
         
@@ -475,11 +871,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_Closed'.
+        /// </summary>
+        public static string Discussion_Closed_PropertyName {
+            get {
+                return "Discussion_Closed";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Closed'.
         /// </summary>
         public static string Discussion_Closed {
             get {
                 return ResourceManager.GetString("Discussion_Closed", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_ClosedToolTip'.
+        /// </summary>
+        public static string Discussion_ClosedToolTip_PropertyName {
+            get {
+                return "Discussion_ClosedToolTip";
             }
         }
         
@@ -493,11 +907,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_CloseTopicToolTip'.
+        /// </summary>
+        public static string Discussion_CloseTopicToolTip_PropertyName {
+            get {
+                return "Discussion_CloseTopicToolTip";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Close the topic'.
         /// </summary>
         public static string Discussion_CloseTopicToolTip {
             get {
                 return ResourceManager.GetString("Discussion_CloseTopicToolTip", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_DailyReport_ApproveTitle'.
+        /// </summary>
+        public static string Discussion_DailyReport_ApproveTitle_PropertyName {
+            get {
+                return "Discussion_DailyReport_ApproveTitle";
             }
         }
         
@@ -511,11 +943,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_DailyReport_ApproveToolTip'.
+        /// </summary>
+        public static string Discussion_DailyReport_ApproveToolTip_PropertyName {
+            get {
+                return "Discussion_DailyReport_ApproveToolTip";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Click here to approve discussion item.'.
         /// </summary>
         public static string Discussion_DailyReport_ApproveToolTip {
             get {
                 return ResourceManager.GetString("Discussion_DailyReport_ApproveToolTip", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_DailyReport_AttentionTitle'.
+        /// </summary>
+        public static string Discussion_DailyReport_AttentionTitle_PropertyName {
+            get {
+                return "Discussion_DailyReport_AttentionTitle";
             }
         }
         
@@ -529,11 +979,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_DailyReport_BoardToolTip'.
+        /// </summary>
+        public static string Discussion_DailyReport_BoardToolTip_PropertyName {
+            get {
+                return "Discussion_DailyReport_BoardToolTip";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Click here to view discussion board.'.
         /// </summary>
         public static string Discussion_DailyReport_BoardToolTip {
             get {
                 return ResourceManager.GetString("Discussion_DailyReport_BoardToolTip", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_DailyReport_DeleteRequestTitle'.
+        /// </summary>
+        public static string Discussion_DailyReport_DeleteRequestTitle_PropertyName {
+            get {
+                return "Discussion_DailyReport_DeleteRequestTitle";
             }
         }
         
@@ -547,11 +1015,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_DailyReport_DeleteToolTip'.
+        /// </summary>
+        public static string Discussion_DailyReport_DeleteToolTip_PropertyName {
+            get {
+                return "Discussion_DailyReport_DeleteToolTip";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Click here to delete discussion item.'.
         /// </summary>
         public static string Discussion_DailyReport_DeleteToolTip {
             get {
                 return ResourceManager.GetString("Discussion_DailyReport_DeleteToolTip", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_DailyReport_FooterNotification'.
+        /// </summary>
+        public static string Discussion_DailyReport_FooterNotification_PropertyName {
+            get {
+                return "Discussion_DailyReport_FooterNotification";
             }
         }
         
@@ -565,11 +1051,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_DailyReport_NoApproveItems'.
+        /// </summary>
+        public static string Discussion_DailyReport_NoApproveItems_PropertyName {
+            get {
+                return "Discussion_DailyReport_NoApproveItems";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'There are no unapproved items'.
         /// </summary>
         public static string Discussion_DailyReport_NoApproveItems {
             get {
                 return ResourceManager.GetString("Discussion_DailyReport_NoApproveItems", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_DailyReport_NoAttentionItems'.
+        /// </summary>
+        public static string Discussion_DailyReport_NoAttentionItems_PropertyName {
+            get {
+                return "Discussion_DailyReport_NoAttentionItems";
             }
         }
         
@@ -583,11 +1087,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_DailyReport_NoDeleteRequestItems'.
+        /// </summary>
+        public static string Discussion_DailyReport_NoDeleteRequestItems_PropertyName {
+            get {
+                return "Discussion_DailyReport_NoDeleteRequestItems";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'There are no delete requests'.
         /// </summary>
         public static string Discussion_DailyReport_NoDeleteRequestItems {
             get {
                 return ResourceManager.GetString("Discussion_DailyReport_NoDeleteRequestItems", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_DailyReport_NoSpamItems'.
+        /// </summary>
+        public static string Discussion_DailyReport_NoSpamItems_PropertyName {
+            get {
+                return "Discussion_DailyReport_NoSpamItems";
             }
         }
         
@@ -601,11 +1123,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_DailyReport_SnMessage_CC'.
+        /// </summary>
+        public static string Discussion_DailyReport_SnMessage_CC_PropertyName {
+            get {
+                return "Discussion_DailyReport_SnMessage_CC";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'This is a copy of the discussion daily report.'.
         /// </summary>
         public static string Discussion_DailyReport_SnMessage_CC {
             get {
                 return ResourceManager.GetString("Discussion_DailyReport_SnMessage_CC", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_DailyReport_SpamTitle'.
+        /// </summary>
+        public static string Discussion_DailyReport_SpamTitle_PropertyName {
+            get {
+                return "Discussion_DailyReport_SpamTitle";
             }
         }
         
@@ -619,11 +1159,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_DailyReport_SpamToolTip'.
+        /// </summary>
+        public static string Discussion_DailyReport_SpamToolTip_PropertyName {
+            get {
+                return "Discussion_DailyReport_SpamToolTip";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Click here to report discussion item as SPAM.'.
         /// </summary>
         public static string Discussion_DailyReport_SpamToolTip {
             get {
                 return ResourceManager.GetString("Discussion_DailyReport_SpamToolTip", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_DailyReport_Title'.
+        /// </summary>
+        public static string Discussion_DailyReport_Title_PropertyName {
+            get {
+                return "Discussion_DailyReport_Title";
             }
         }
         
@@ -637,11 +1195,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_DailyReport_TopicCaption'.
+        /// </summary>
+        public static string Discussion_DailyReport_TopicCaption_PropertyName {
+            get {
+                return "Discussion_DailyReport_TopicCaption";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Topic'.
         /// </summary>
         public static string Discussion_DailyReport_TopicCaption {
             get {
                 return ResourceManager.GetString("Discussion_DailyReport_TopicCaption", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_DailyReport_TopicMessageToolTip'.
+        /// </summary>
+        public static string Discussion_DailyReport_TopicMessageToolTip_PropertyName {
+            get {
+                return "Discussion_DailyReport_TopicMessageToolTip";
             }
         }
         
@@ -655,11 +1231,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_Delete_Board'.
+        /// </summary>
+        public static string Discussion_Delete_Board_PropertyName {
+            get {
+                return "Discussion_Delete_Board";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Are you sure you want to delete board?'.
         /// </summary>
         public static string Discussion_Delete_Board {
             get {
                 return ResourceManager.GetString("Discussion_Delete_Board", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_Delete_DeleteSpam'.
+        /// </summary>
+        public static string Discussion_Delete_DeleteSpam_PropertyName {
+            get {
+                return "Discussion_Delete_DeleteSpam";
             }
         }
         
@@ -673,11 +1267,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_Delete_DeleteUnApproved'.
+        /// </summary>
+        public static string Discussion_Delete_DeleteUnApproved_PropertyName {
+            get {
+                return "Discussion_Delete_DeleteUnApproved";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Are you sure that you want to delete all unapproved messages ?'.
         /// </summary>
         public static string Discussion_Delete_DeleteUnApproved {
             get {
                 return ResourceManager.GetString("Discussion_Delete_DeleteUnApproved", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_Delete_Message'.
+        /// </summary>
+        public static string Discussion_Delete_Message_PropertyName {
+            get {
+                return "Discussion_Delete_Message";
             }
         }
         
@@ -691,11 +1303,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_Delete_Topic'.
+        /// </summary>
+        public static string Discussion_Delete_Topic_PropertyName {
+            get {
+                return "Discussion_Delete_Topic";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Are you sure you want to delete topic?'.
         /// </summary>
         public static string Discussion_Delete_Topic {
             get {
                 return ResourceManager.GetString("Discussion_Delete_Topic", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_Disapprove_Delete'.
+        /// </summary>
+        public static string Discussion_Disapprove_Delete_PropertyName {
+            get {
+                return "Discussion_Disapprove_Delete";
             }
         }
         
@@ -709,11 +1339,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_Disapprove_Delete_ToolTip'.
+        /// </summary>
+        public static string Discussion_Disapprove_Delete_ToolTip_PropertyName {
+            get {
+                return "Discussion_Disapprove_Delete_ToolTip";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Disapprove post delete request'.
         /// </summary>
         public static string Discussion_Disapprove_Delete_ToolTip {
             get {
                 return ResourceManager.GetString("Discussion_Disapprove_Delete_ToolTip", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_DisapproveReportedPost'.
+        /// </summary>
+        public static string Discussion_DisapproveReportedPost_PropertyName {
+            get {
+                return "Discussion_DisapproveReportedPost";
             }
         }
         
@@ -727,11 +1375,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_DisapproveReportedPostToolTip'.
+        /// </summary>
+        public static string Discussion_DisapproveReportedPostToolTip_PropertyName {
+            get {
+                return "Discussion_DisapproveReportedPostToolTip";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Disapprove reported post and consider it as abusive'.
         /// </summary>
         public static string Discussion_DisapproveReportedPostToolTip {
             get {
                 return ResourceManager.GetString("Discussion_DisapproveReportedPostToolTip", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_DiscussionBoardList'.
+        /// </summary>
+        public static string Discussion_DiscussionBoardList_PropertyName {
+            get {
+                return "Discussion_DiscussionBoardList";
             }
         }
         
@@ -745,11 +1411,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_LastActiveTopics'.
+        /// </summary>
+        public static string Discussion_LastActiveTopics_PropertyName {
+            get {
+                return "Discussion_LastActiveTopics";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'New topics'.
         /// </summary>
         public static string Discussion_LastActiveTopics {
             get {
                 return ResourceManager.GetString("Discussion_LastActiveTopics", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_LastActiveTopicsToolTip'.
+        /// </summary>
+        public static string Discussion_LastActiveTopicsToolTip_PropertyName {
+            get {
+                return "Discussion_LastActiveTopicsToolTip";
             }
         }
         
@@ -763,11 +1447,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_MarkAsAnswer'.
+        /// </summary>
+        public static string Discussion_MarkAsAnswer_PropertyName {
+            get {
+                return "Discussion_MarkAsAnswer";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Mark as answer'.
         /// </summary>
         public static string Discussion_MarkAsAnswer {
             get {
                 return ResourceManager.GetString("Discussion_MarkAsAnswer", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_Message_Approve'.
+        /// </summary>
+        public static string Discussion_Message_Approve_PropertyName {
+            get {
+                return "Discussion_Message_Approve";
             }
         }
         
@@ -781,11 +1483,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_Message_Approved'.
+        /// </summary>
+        public static string Discussion_Message_Approved_PropertyName {
+            get {
+                return "Discussion_Message_Approved";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Reply has been approved.'.
         /// </summary>
         public static string Discussion_Message_Approved {
             get {
                 return ResourceManager.GetString("Discussion_Message_Approved", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_Message_AutoSubscribe'.
+        /// </summary>
+        public static string Discussion_Message_AutoSubscribe_PropertyName {
+            get {
+                return "Discussion_Message_AutoSubscribe";
             }
         }
         
@@ -799,11 +1519,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_Message_AutoSubscribeToolTip'.
+        /// </summary>
+        public static string Discussion_Message_AutoSubscribeToolTip_PropertyName {
+            get {
+                return "Discussion_Message_AutoSubscribeToolTip";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'You will be subscribed to this topic (Note: If you uncheck automatic subscription you will not receive posts from other users).'.
         /// </summary>
         public static string Discussion_Message_AutoSubscribeToolTip {
             get {
                 return ResourceManager.GetString("Discussion_Message_AutoSubscribeToolTip", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_Message_Deleted'.
+        /// </summary>
+        public static string Discussion_Message_Deleted_PropertyName {
+            get {
+                return "Discussion_Message_Deleted";
             }
         }
         
@@ -817,11 +1555,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_Message_PostCaption'.
+        /// </summary>
+        public static string Discussion_Message_PostCaption_PropertyName {
+            get {
+                return "Discussion_Message_PostCaption";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Please enter your post'.
         /// </summary>
         public static string Discussion_Message_PostCaption {
             get {
                 return ResourceManager.GetString("Discussion_Message_PostCaption", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_Message_ReplyCaption'.
+        /// </summary>
+        public static string Discussion_Message_ReplyCaption_PropertyName {
+            get {
+                return "Discussion_Message_ReplyCaption";
             }
         }
         
@@ -835,11 +1591,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_Message_ReportedSpam'.
+        /// </summary>
+        public static string Discussion_Message_ReportedSpam_PropertyName {
+            get {
+                return "Discussion_Message_ReportedSpam";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Reply has been reported as SPAM.'.
         /// </summary>
         public static string Discussion_Message_ReportedSpam {
             get {
                 return ResourceManager.GetString("Discussion_Message_ReportedSpam", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_Message_Views'.
+        /// </summary>
+        public static string Discussion_Message_Views_PropertyName {
+            get {
+                return "Discussion_Message_Views";
             }
         }
         
@@ -853,11 +1627,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_MessageCreatedDate'.
+        /// </summary>
+        public static string Discussion_MessageCreatedDate_PropertyName {
+            get {
+                return "Discussion_MessageCreatedDate";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Posted'.
         /// </summary>
         public static string Discussion_MessageCreatedDate {
             get {
                 return ResourceManager.GetString("Discussion_MessageCreatedDate", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_Messages_DeleteSpam'.
+        /// </summary>
+        public static string Discussion_Messages_DeleteSpam_PropertyName {
+            get {
+                return "Discussion_Messages_DeleteSpam";
             }
         }
         
@@ -871,11 +1663,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_Messages_DeleteUnApproved'.
+        /// </summary>
+        public static string Discussion_Messages_DeleteUnApproved_PropertyName {
+            get {
+                return "Discussion_Messages_DeleteUnApproved";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Delete unapproved ({0})'.
         /// </summary>
         public static string Discussion_Messages_DeleteUnApproved {
             get {
                 return ResourceManager.GetString("Discussion_Messages_DeleteUnApproved", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_ModeratorsTooltip'.
+        /// </summary>
+        public static string Discussion_ModeratorsTooltip_PropertyName {
+            get {
+                return "Discussion_ModeratorsTooltip";
             }
         }
         
@@ -889,11 +1699,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_MyTopics'.
+        /// </summary>
+        public static string Discussion_MyTopics_PropertyName {
+            get {
+                return "Discussion_MyTopics";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Topics you participated in'.
         /// </summary>
         public static string Discussion_MyTopics {
             get {
                 return ResourceManager.GetString("Discussion_MyTopics", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_MyTopicsToolTip'.
+        /// </summary>
+        public static string Discussion_MyTopicsToolTip_PropertyName {
+            get {
+                return "Discussion_MyTopicsToolTip";
             }
         }
         
@@ -907,11 +1735,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_NewBoardAdded'.
+        /// </summary>
+        public static string Discussion_NewBoardAdded_PropertyName {
+            get {
+                return "Discussion_NewBoardAdded";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'A new board has been added that you are subscribed on.'.
         /// </summary>
         public static string Discussion_NewBoardAdded {
             get {
                 return ResourceManager.GetString("Discussion_NewBoardAdded", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_NewBoardClickToSubscribe'.
+        /// </summary>
+        public static string Discussion_NewBoardClickToSubscribe_PropertyName {
+            get {
+                return "Discussion_NewBoardClickToSubscribe";
             }
         }
         
@@ -925,11 +1771,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_NewBoardCreated'.
+        /// </summary>
+        public static string Discussion_NewBoardCreated_PropertyName {
+            get {
+                return "Discussion_NewBoardCreated";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'New Discussion Board Created'.
         /// </summary>
         public static string Discussion_NewBoardCreated {
             get {
                 return ResourceManager.GetString("Discussion_NewBoardCreated", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_NewMessageAdded'.
+        /// </summary>
+        public static string Discussion_NewMessageAdded_PropertyName {
+            get {
+                return "Discussion_NewMessageAdded";
             }
         }
         
@@ -943,11 +1807,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_NewMessageClickToReply'.
+        /// </summary>
+        public static string Discussion_NewMessageClickToReply_PropertyName {
+            get {
+                return "Discussion_NewMessageClickToReply";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Click here to post a reply or unsubscribe from this topic.'.
         /// </summary>
         public static string Discussion_NewMessageClickToReply {
             get {
                 return ResourceManager.GetString("Discussion_NewMessageClickToReply", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_NewMessageCreated'.
+        /// </summary>
+        public static string Discussion_NewMessageCreated_PropertyName {
+            get {
+                return "Discussion_NewMessageCreated";
             }
         }
         
@@ -961,11 +1843,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_NewMessageNoReply'.
+        /// </summary>
+        public static string Discussion_NewMessageNoReply_PropertyName {
+            get {
+                return "Discussion_NewMessageNoReply";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Please, do not reply to this e-mail.'.
         /// </summary>
         public static string Discussion_NewMessageNoReply {
             get {
                 return ResourceManager.GetString("Discussion_NewMessageNoReply", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_NewTopicAdded'.
+        /// </summary>
+        public static string Discussion_NewTopicAdded_PropertyName {
+            get {
+                return "Discussion_NewTopicAdded";
             }
         }
         
@@ -979,11 +1879,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_NewTopicClickToReply'.
+        /// </summary>
+        public static string Discussion_NewTopicClickToReply_PropertyName {
+            get {
+                return "Discussion_NewTopicClickToReply";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Click on the topic title to post a reply or unsubscribe from this board.'.
         /// </summary>
         public static string Discussion_NewTopicClickToReply {
             get {
                 return ResourceManager.GetString("Discussion_NewTopicClickToReply", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_NewTopicCreated'.
+        /// </summary>
+        public static string Discussion_NewTopicCreated_PropertyName {
+            get {
+                return "Discussion_NewTopicCreated";
             }
         }
         
@@ -997,11 +1915,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_NewTopicNoReply'.
+        /// </summary>
+        public static string Discussion_NewTopicNoReply_PropertyName {
+            get {
+                return "Discussion_NewTopicNoReply";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Please, do not reply to this e-mail.'.
         /// </summary>
         public static string Discussion_NewTopicNoReply {
             get {
                 return ResourceManager.GetString("Discussion_NewTopicNoReply", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_PinItem'.
+        /// </summary>
+        public static string Discussion_PinItem_PropertyName {
+            get {
+                return "Discussion_PinItem";
             }
         }
         
@@ -1015,11 +1951,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_Post_ApprovalAlert'.
+        /// </summary>
+        public static string Discussion_Post_ApprovalAlert_PropertyName {
+            get {
+                return "Discussion_Post_ApprovalAlert";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Your post may require administrative approval before it is published. '.
         /// </summary>
         public static string Discussion_Post_ApprovalAlert {
             get {
                 return ResourceManager.GetString("Discussion_Post_ApprovalAlert", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_Posts_Empty'.
+        /// </summary>
+        public static string Discussion_Posts_Empty_PropertyName {
+            get {
+                return "Discussion_Posts_Empty";
             }
         }
         
@@ -1033,11 +1987,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_Reason'.
+        /// </summary>
+        public static string Discussion_Reason_PropertyName {
+            get {
+                return "Discussion_Reason";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Reason'.
         /// </summary>
         public static string Discussion_Reason {
             get {
                 return ResourceManager.GetString("Discussion_Reason", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_ReOpenBoardToolTip'.
+        /// </summary>
+        public static string Discussion_ReOpenBoardToolTip_PropertyName {
+            get {
+                return "Discussion_ReOpenBoardToolTip";
             }
         }
         
@@ -1051,11 +2023,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_ReOpenTopicToolTip'.
+        /// </summary>
+        public static string Discussion_ReOpenTopicToolTip_PropertyName {
+            get {
+                return "Discussion_ReOpenTopicToolTip";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Reopen the topic'.
         /// </summary>
         public static string Discussion_ReOpenTopicToolTip {
             get {
                 return ResourceManager.GetString("Discussion_ReOpenTopicToolTip", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_RepliesCount'.
+        /// </summary>
+        public static string Discussion_RepliesCount_PropertyName {
+            get {
+                return "Discussion_RepliesCount";
             }
         }
         
@@ -1069,11 +2059,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_ReportPost'.
+        /// </summary>
+        public static string Discussion_ReportPost_PropertyName {
+            get {
+                return "Discussion_ReportPost";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Report a post'.
         /// </summary>
         public static string Discussion_ReportPost {
             get {
                 return ResourceManager.GetString("Discussion_ReportPost", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_ReportPostReason'.
+        /// </summary>
+        public static string Discussion_ReportPostReason_PropertyName {
+            get {
+                return "Discussion_ReportPostReason";
             }
         }
         
@@ -1087,11 +2095,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_ReportPostToolTip'.
+        /// </summary>
+        public static string Discussion_ReportPostToolTip_PropertyName {
+            get {
+                return "Discussion_ReportPostToolTip";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Report a post to an administrator (e.g. Abusive content, SPAM)'.
         /// </summary>
         public static string Discussion_ReportPostToolTip {
             get {
                 return ResourceManager.GetString("Discussion_ReportPostToolTip", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_RequestDelete_InProcess'.
+        /// </summary>
+        public static string Discussion_RequestDelete_InProcess_PropertyName {
+            get {
+                return "Discussion_RequestDelete_InProcess";
             }
         }
         
@@ -1105,11 +2131,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_RequestDelete_InProcessToolTip'.
+        /// </summary>
+        public static string Discussion_RequestDelete_InProcessToolTip_PropertyName {
+            get {
+                return "Discussion_RequestDelete_InProcessToolTip";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Discussion board moderator needs to approve the delete request.'.
         /// </summary>
         public static string Discussion_RequestDelete_InProcessToolTip {
             get {
                 return ResourceManager.GetString("Discussion_RequestDelete_InProcessToolTip", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_RequestDelete_NotApproved'.
+        /// </summary>
+        public static string Discussion_RequestDelete_NotApproved_PropertyName {
+            get {
+                return "Discussion_RequestDelete_NotApproved";
             }
         }
         
@@ -1123,11 +2167,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_RequestDelete_NotApproved_ReasonNA'.
+        /// </summary>
+        public static string Discussion_RequestDelete_NotApproved_ReasonNA_PropertyName {
+            get {
+                return "Discussion_RequestDelete_NotApproved_ReasonNA";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Delete request has beed disapproved without a reason (e.g. disapproved from an e-mail message)'.
         /// </summary>
         public static string Discussion_RequestDelete_NotApproved_ReasonNA {
             get {
                 return ResourceManager.GetString("Discussion_RequestDelete_NotApproved_ReasonNA", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_RequestDelete_NotApprovedToolTip'.
+        /// </summary>
+        public static string Discussion_RequestDelete_NotApprovedToolTip_PropertyName {
+            get {
+                return "Discussion_RequestDelete_NotApprovedToolTip";
             }
         }
         
@@ -1141,11 +2203,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_RequestDeleteText'.
+        /// </summary>
+        public static string Discussion_RequestDeleteText_PropertyName {
+            get {
+                return "Discussion_RequestDeleteText";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'User has requested removal of this message (Please delete this message if this action is approved)'.
         /// </summary>
         public static string Discussion_RequestDeleteText {
             get {
                 return ResourceManager.GetString("Discussion_RequestDeleteText", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_Topic_Add_New'.
+        /// </summary>
+        public static string Discussion_Topic_Add_New_PropertyName {
+            get {
+                return "Discussion_Topic_Add_New";
             }
         }
         
@@ -1159,11 +2239,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_Topic_ApprovalAlert'.
+        /// </summary>
+        public static string Discussion_Topic_ApprovalAlert_PropertyName {
+            get {
+                return "Discussion_Topic_ApprovalAlert";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Your topic may require administrative approval before it is published. '.
         /// </summary>
         public static string Discussion_Topic_ApprovalAlert {
             get {
                 return ResourceManager.GetString("Discussion_Topic_ApprovalAlert", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_Topic_Approved'.
+        /// </summary>
+        public static string Discussion_Topic_Approved_PropertyName {
+            get {
+                return "Discussion_Topic_Approved";
             }
         }
         
@@ -1177,11 +2275,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_Topic_Deleted'.
+        /// </summary>
+        public static string Discussion_Topic_Deleted_PropertyName {
+            get {
+                return "Discussion_Topic_Deleted";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Topic has been deleted.'.
         /// </summary>
         public static string Discussion_Topic_Deleted {
             get {
                 return ResourceManager.GetString("Discussion_Topic_Deleted", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_Topic_Empty'.
+        /// </summary>
+        public static string Discussion_Topic_Empty_PropertyName {
+            get {
+                return "Discussion_Topic_Empty";
             }
         }
         
@@ -1195,11 +2311,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_Topic_Options'.
+        /// </summary>
+        public static string Discussion_Topic_Options_PropertyName {
+            get {
+                return "Discussion_Topic_Options";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Options'.
         /// </summary>
         public static string Discussion_Topic_Options {
             get {
                 return ResourceManager.GetString("Discussion_Topic_Options", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_Topic_Options_ToolTip'.
+        /// </summary>
+        public static string Discussion_Topic_Options_ToolTip_PropertyName {
+            get {
+                return "Discussion_Topic_Options_ToolTip";
             }
         }
         
@@ -1213,11 +2347,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_Topic_RelatedContent'.
+        /// </summary>
+        public static string Discussion_Topic_RelatedContent_PropertyName {
+            get {
+                return "Discussion_Topic_RelatedContent";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Related topics'.
         /// </summary>
         public static string Discussion_Topic_RelatedContent {
             get {
                 return ResourceManager.GetString("Discussion_Topic_RelatedContent", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_Topic_ReportedSpam'.
+        /// </summary>
+        public static string Discussion_Topic_ReportedSpam_PropertyName {
+            get {
+                return "Discussion_Topic_ReportedSpam";
             }
         }
         
@@ -1231,11 +2383,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_Topic_SortHotTopicsOnTop'.
+        /// </summary>
+        public static string Discussion_Topic_SortHotTopicsOnTop_PropertyName {
+            get {
+                return "Discussion_Topic_SortHotTopicsOnTop";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Sort: Hot topics on top'.
         /// </summary>
         public static string Discussion_Topic_SortHotTopicsOnTop {
             get {
                 return ResourceManager.GetString("Discussion_Topic_SortHotTopicsOnTop", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_Topic_SortNewTopicsOnTop'.
+        /// </summary>
+        public static string Discussion_Topic_SortNewTopicsOnTop_PropertyName {
+            get {
+                return "Discussion_Topic_SortNewTopicsOnTop";
             }
         }
         
@@ -1249,11 +2419,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_Topic_SortTopicsAlphabetically'.
+        /// </summary>
+        public static string Discussion_Topic_SortTopicsAlphabetically_PropertyName {
+            get {
+                return "Discussion_Topic_SortTopicsAlphabetically";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Sort: Topics alphabetically'.
         /// </summary>
         public static string Discussion_Topic_SortTopicsAlphabetically {
             get {
                 return ResourceManager.GetString("Discussion_Topic_SortTopicsAlphabetically", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_Topic_SortUpdatedTopicsOnTop'.
+        /// </summary>
+        public static string Discussion_Topic_SortUpdatedTopicsOnTop_PropertyName {
+            get {
+                return "Discussion_Topic_SortUpdatedTopicsOnTop";
             }
         }
         
@@ -1267,11 +2455,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_Topic_Title'.
+        /// </summary>
+        public static string Discussion_Topic_Title_PropertyName {
+            get {
+                return "Discussion_Topic_Title";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Title'.
         /// </summary>
         public static string Discussion_Topic_Title {
             get {
                 return ResourceManager.GetString("Discussion_Topic_Title", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_Topic_TopicAnswer'.
+        /// </summary>
+        public static string Discussion_Topic_TopicAnswer_PropertyName {
+            get {
+                return "Discussion_Topic_TopicAnswer";
             }
         }
         
@@ -1285,11 +2491,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_Topic_TopicAnswerDescription'.
+        /// </summary>
+        public static string Discussion_Topic_TopicAnswerDescription_PropertyName {
+            get {
+                return "Discussion_Topic_TopicAnswerDescription";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Topic is answered'.
         /// </summary>
         public static string Discussion_Topic_TopicAnswerDescription {
             get {
                 return ResourceManager.GetString("Discussion_Topic_TopicAnswerDescription", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_TopicAnswer'.
+        /// </summary>
+        public static string Discussion_TopicAnswer_PropertyName {
+            get {
+                return "Discussion_TopicAnswer";
             }
         }
         
@@ -1303,11 +2527,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_TopicAnswerDescription'.
+        /// </summary>
+        public static string Discussion_TopicAnswerDescription_PropertyName {
+            get {
+                return "Discussion_TopicAnswerDescription";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Message is market as an answer to this topic. Unmark it as an answer.'.
         /// </summary>
         public static string Discussion_TopicAnswerDescription {
             get {
                 return ResourceManager.GetString("Discussion_TopicAnswerDescription", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_TopicCount'.
+        /// </summary>
+        public static string Discussion_TopicCount_PropertyName {
+            get {
+                return "Discussion_TopicCount";
             }
         }
         
@@ -1321,11 +2563,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_TopicCreatedDate'.
+        /// </summary>
+        public static string Discussion_TopicCreatedDate_PropertyName {
+            get {
+                return "Discussion_TopicCreatedDate";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Created'.
         /// </summary>
         public static string Discussion_TopicCreatedDate {
             get {
                 return ResourceManager.GetString("Discussion_TopicCreatedDate", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_TopicDoesntExists'.
+        /// </summary>
+        public static string Discussion_TopicDoesntExists_PropertyName {
+            get {
+                return "Discussion_TopicDoesntExists";
             }
         }
         
@@ -1339,11 +2599,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_TopicLastPost'.
+        /// </summary>
+        public static string Discussion_TopicLastPost_PropertyName {
+            get {
+                return "Discussion_TopicLastPost";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Last post'.
         /// </summary>
         public static string Discussion_TopicLastPost {
             get {
                 return ResourceManager.GetString("Discussion_TopicLastPost", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_TopicLastPostAuthor'.
+        /// </summary>
+        public static string Discussion_TopicLastPostAuthor_PropertyName {
+            get {
+                return "Discussion_TopicLastPostAuthor";
             }
         }
         
@@ -1357,11 +2635,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_TopicNoRating'.
+        /// </summary>
+        public static string Discussion_TopicNoRating_PropertyName {
+            get {
+                return "Discussion_TopicNoRating";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'No votes yet'.
         /// </summary>
         public static string Discussion_TopicNoRating {
             get {
                 return ResourceManager.GetString("Discussion_TopicNoRating", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_TopicNoRatingToolTip'.
+        /// </summary>
+        public static string Discussion_TopicNoRatingToolTip_PropertyName {
+            get {
+                return "Discussion_TopicNoRatingToolTip";
             }
         }
         
@@ -1375,11 +2671,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_TopicPost_ApprovalAlert'.
+        /// </summary>
+        public static string Discussion_TopicPost_ApprovalAlert_PropertyName {
+            get {
+                return "Discussion_TopicPost_ApprovalAlert";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Your post may require administrative approval before it is published. '.
         /// </summary>
         public static string Discussion_TopicPost_ApprovalAlert {
             get {
                 return ResourceManager.GetString("Discussion_TopicPost_ApprovalAlert", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_TopicRating'.
+        /// </summary>
+        public static string Discussion_TopicRating_PropertyName {
+            get {
+                return "Discussion_TopicRating";
             }
         }
         
@@ -1393,11 +2707,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_TopicRatingToolTip'.
+        /// </summary>
+        public static string Discussion_TopicRatingToolTip_PropertyName {
+            get {
+                return "Discussion_TopicRatingToolTip";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Content is rated {0:f2} of {1} vote(s).'.
         /// </summary>
         public static string Discussion_TopicRatingToolTip {
             get {
                 return ResourceManager.GetString("Discussion_TopicRatingToolTip", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_TopicSubscribe'.
+        /// </summary>
+        public static string Discussion_TopicSubscribe_PropertyName {
+            get {
+                return "Discussion_TopicSubscribe";
             }
         }
         
@@ -1411,11 +2743,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_TopicSubscribeToolTip'.
+        /// </summary>
+        public static string Discussion_TopicSubscribeToolTip_PropertyName {
+            get {
+                return "Discussion_TopicSubscribeToolTip";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Subscribe to this topic'.
         /// </summary>
         public static string Discussion_TopicSubscribeToolTip {
             get {
                 return ResourceManager.GetString("Discussion_TopicSubscribeToolTip", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_TopicTags'.
+        /// </summary>
+        public static string Discussion_TopicTags_PropertyName {
+            get {
+                return "Discussion_TopicTags";
             }
         }
         
@@ -1429,11 +2779,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_TopicUnSubscribe'.
+        /// </summary>
+        public static string Discussion_TopicUnSubscribe_PropertyName {
+            get {
+                return "Discussion_TopicUnSubscribe";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Unsubscribe'.
         /// </summary>
         public static string Discussion_TopicUnSubscribe {
             get {
                 return ResourceManager.GetString("Discussion_TopicUnSubscribe", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_TopicUnSubscribeToolTip'.
+        /// </summary>
+        public static string Discussion_TopicUnSubscribeToolTip_PropertyName {
+            get {
+                return "Discussion_TopicUnSubscribeToolTip";
             }
         }
         
@@ -1447,11 +2815,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_UnPinItem'.
+        /// </summary>
+        public static string Discussion_UnPinItem_PropertyName {
+            get {
+                return "Discussion_UnPinItem";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Unpin item'.
         /// </summary>
         public static string Discussion_UnPinItem {
             get {
                 return ResourceManager.GetString("Discussion_UnPinItem", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_UserTotalPosts'.
+        /// </summary>
+        public static string Discussion_UserTotalPosts_PropertyName {
+            get {
+                return "Discussion_UserTotalPosts";
             }
         }
         
@@ -1465,11 +2851,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_ViewsCount'.
+        /// </summary>
+        public static string Discussion_ViewsCount_PropertyName {
+            get {
+                return "Discussion_ViewsCount";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'view(s).'.
         /// </summary>
         public static string Discussion_ViewsCount {
             get {
                 return ResourceManager.GetString("Discussion_ViewsCount", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_ViewsCountToolTip'.
+        /// </summary>
+        public static string Discussion_ViewsCountToolTip_PropertyName {
+            get {
+                return "Discussion_ViewsCountToolTip";
             }
         }
         
@@ -1483,11 +2887,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Events_AddedDiscussionBoard'.
+        /// </summary>
+        public static string Events_AddedDiscussionBoard_PropertyName {
+            get {
+                return "Events_AddedDiscussionBoard";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to '&lt;a href=&quot;{ProfileUrl}&quot;&gt;{UserName}&lt;/a&gt; has added a new discussion board  &lt;a href=&quot;{BoardUrl}&quot;&gt;{BoardName}&lt;/a&gt;'.
         /// </summary>
         public static string Events_AddedDiscussionBoard {
             get {
                 return ResourceManager.GetString("Events_AddedDiscussionBoard", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Events_AddedDiscussionTopic'.
+        /// </summary>
+        public static string Events_AddedDiscussionTopic_PropertyName {
+            get {
+                return "Events_AddedDiscussionTopic";
             }
         }
         
@@ -1501,11 +2923,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Events_AddedPhoto'.
+        /// </summary>
+        public static string Events_AddedPhoto_PropertyName {
+            get {
+                return "Events_AddedPhoto";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to '&lt;a href=&quot;{ProfileUrl}&quot;&gt;{UserName}&lt;/a&gt; has added a photo(s) to an album &lt;a href=&quot;{AlbumUrl}&quot;&gt;{AlbumName}&lt;/a&gt;'.
         /// </summary>
         public static string Events_AddedPhoto {
             get {
                 return ResourceManager.GetString("Events_AddedPhoto", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Events_BecameFriends'.
+        /// </summary>
+        public static string Events_BecameFriends_PropertyName {
+            get {
+                return "Events_BecameFriends";
             }
         }
         
@@ -1519,11 +2959,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Events_BlogPostPublished'.
+        /// </summary>
+        public static string Events_BlogPostPublished_PropertyName {
+            get {
+                return "Events_BlogPostPublished";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to '&lt;a href=&quot;{ProfileUrl}&quot;&gt;{UserName}&lt;/a&gt; published a blog post: &lt;a href=&quot;{BlogPostUrl}&quot;&gt;{BlogPostTitle}&lt;/a&gt;'.
         /// </summary>
         public static string Events_BlogPostPublished {
             get {
                 return ResourceManager.GetString("Events_BlogPostPublished", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Events_CreatedGroup'.
+        /// </summary>
+        public static string Events_CreatedGroup_PropertyName {
+            get {
+                return "Events_CreatedGroup";
             }
         }
         
@@ -1537,11 +2995,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Events_CreatedPhotoAlbum'.
+        /// </summary>
+        public static string Events_CreatedPhotoAlbum_PropertyName {
+            get {
+                return "Events_CreatedPhotoAlbum";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to '&lt;a href=&quot;{ProfileUrl}&quot;&gt;{UserName}&lt;/a&gt; created a photo album &lt;a href=&quot;{AlbumUrl}&quot;&gt;{AlbumName}&lt;/a&gt;'.
         /// </summary>
         public static string Events_CreatedPhotoAlbum {
             get {
                 return ResourceManager.GetString("Events_CreatedPhotoAlbum", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Events_JoinedGroup'.
+        /// </summary>
+        public static string Events_JoinedGroup_PropertyName {
+            get {
+                return "Events_JoinedGroup";
             }
         }
         
@@ -1555,11 +3031,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Events_SignedUp'.
+        /// </summary>
+        public static string Events_SignedUp_PropertyName {
+            get {
+                return "Events_SignedUp";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to '&lt;a href=&quot;{ProfileUrl}&quot;&gt;{UserName}&lt;/a&gt; has just signed up.'.
         /// </summary>
         public static string Events_SignedUp {
             get {
                 return ResourceManager.GetString("Events_SignedUp", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Events_UpdatedProfile'.
+        /// </summary>
+        public static string Events_UpdatedProfile_PropertyName {
+            get {
+                return "Events_UpdatedProfile";
             }
         }
         
@@ -1573,11 +3067,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Events_UpdatedStatus'.
+        /// </summary>
+        public static string Events_UpdatedStatus_PropertyName {
+            get {
+                return "Events_UpdatedStatus";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to '&lt;a href=&quot;{ProfileUrl}&quot;&gt;{UserName}&lt;/a&gt; has updated her/his status. New status is &apos;{MyStatus}&apos;'.
         /// </summary>
         public static string Events_UpdatedStatus {
             get {
                 return ResourceManager.GetString("Events_UpdatedStatus", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Events_UploadedFile'.
+        /// </summary>
+        public static string Events_UploadedFile_PropertyName {
+            get {
+                return "Events_UploadedFile";
             }
         }
         
@@ -1591,11 +3103,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Events_UserWallNoteAdded'.
+        /// </summary>
+        public static string Events_UserWallNoteAdded_PropertyName {
+            get {
+                return "Events_UserWallNoteAdded";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to '&lt;a href=&quot;{ProfileUrl}&quot;&gt;{UserName}&lt;/a&gt; has posted a note to &lt;a href=&quot;{OwnerProfileUrl}&quot;&gt;{OwnerUserName}&lt;/a&gt; wall. &lt;br /&gt;&lt;br/&gt; {WallNote}'.
         /// </summary>
         public static string Events_UserWallNoteAdded {
             get {
                 return ResourceManager.GetString("Events_UserWallNoteAdded", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Events_WallNoteAdded'.
+        /// </summary>
+        public static string Events_WallNoteAdded_PropertyName {
+            get {
+                return "Events_WallNoteAdded";
             }
         }
         
@@ -1609,11 +3139,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'FileGallery_AttachedFiles'.
+        /// </summary>
+        public static string FileGallery_AttachedFiles_PropertyName {
+            get {
+                return "FileGallery_AttachedFiles";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Attached files'.
         /// </summary>
         public static string FileGallery_AttachedFiles {
             get {
                 return ResourceManager.GetString("FileGallery_AttachedFiles", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'FileGallery_ConfirmDelete'.
+        /// </summary>
+        public static string FileGallery_ConfirmDelete_PropertyName {
+            get {
+                return "FileGallery_ConfirmDelete";
             }
         }
         
@@ -1627,11 +3175,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'FileView_Button_Comment'.
+        /// </summary>
+        public static string FileView_Button_Comment_PropertyName {
+            get {
+                return "FileView_Button_Comment";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Comment'.
         /// </summary>
         public static string FileView_Button_Comment {
             get {
                 return ResourceManager.GetString("FileView_Button_Comment", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'FileView_Button_Delete'.
+        /// </summary>
+        public static string FileView_Button_Delete_PropertyName {
+            get {
+                return "FileView_Button_Delete";
             }
         }
         
@@ -1645,11 +3211,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'FileView_ChangeThumbnail'.
+        /// </summary>
+        public static string FileView_ChangeThumbnail_PropertyName {
+            get {
+                return "FileView_ChangeThumbnail";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Change the thumbnail image'.
         /// </summary>
         public static string FileView_ChangeThumbnail {
             get {
                 return ResourceManager.GetString("FileView_ChangeThumbnail", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'FileView_ConfirmDelete'.
+        /// </summary>
+        public static string FileView_ConfirmDelete_PropertyName {
+            get {
+                return "FileView_ConfirmDelete";
             }
         }
         
@@ -1663,11 +3247,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'FileView_CreatedOn'.
+        /// </summary>
+        public static string FileView_CreatedOn_PropertyName {
+            get {
+                return "FileView_CreatedOn";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Created on {0}'.
         /// </summary>
         public static string FileView_CreatedOn {
             get {
                 return ResourceManager.GetString("FileView_CreatedOn", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'FileView_DescriptionDefaultText'.
+        /// </summary>
+        public static string FileView_DescriptionDefaultText_PropertyName {
+            get {
+                return "FileView_DescriptionDefaultText";
             }
         }
         
@@ -1681,11 +3283,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'FileView_DownloadVideo'.
+        /// </summary>
+        public static string FileView_DownloadVideo_PropertyName {
+            get {
+                return "FileView_DownloadVideo";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Click here to download'.
         /// </summary>
         public static string FileView_DownloadVideo {
             get {
                 return ResourceManager.GetString("FileView_DownloadVideo", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'FileView_RelatedContent'.
+        /// </summary>
+        public static string FileView_RelatedContent_PropertyName {
+            get {
+                return "FileView_RelatedContent";
             }
         }
         
@@ -1699,11 +3319,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'FileView_ReplaceExistingFile'.
+        /// </summary>
+        public static string FileView_ReplaceExistingFile_PropertyName {
+            get {
+                return "FileView_ReplaceExistingFile";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Replace existing file'.
         /// </summary>
         public static string FileView_ReplaceExistingFile {
             get {
                 return ResourceManager.GetString("FileView_ReplaceExistingFile", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'FileView_Tags'.
+        /// </summary>
+        public static string FileView_Tags_PropertyName {
+            get {
+                return "FileView_Tags";
             }
         }
         
@@ -1717,11 +3355,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Friends_ConfirmDelete'.
+        /// </summary>
+        public static string Friends_ConfirmDelete_PropertyName {
+            get {
+                return "Friends_ConfirmDelete";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'This person will be removed from your friend list. Are you sure?'.
         /// </summary>
         public static string Friends_ConfirmDelete {
             get {
                 return ResourceManager.GetString("Friends_ConfirmDelete", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Friends_DeleteFriend'.
+        /// </summary>
+        public static string Friends_DeleteFriend_PropertyName {
+            get {
+                return "Friends_DeleteFriend";
             }
         }
         
@@ -1735,11 +3391,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Friends_FriendListEmpty'.
+        /// </summary>
+        public static string Friends_FriendListEmpty_PropertyName {
+            get {
+                return "Friends_FriendListEmpty";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Friend list is currently empty.'.
         /// </summary>
         public static string Friends_FriendListEmpty {
             get {
                 return ResourceManager.GetString("Friends_FriendListEmpty", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Friends_RemoveFriend'.
+        /// </summary>
+        public static string Friends_RemoveFriend_PropertyName {
+            get {
+                return "Friends_RemoveFriend";
             }
         }
         
@@ -1753,11 +3427,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Friends_ViewProfile'.
+        /// </summary>
+        public static string Friends_ViewProfile_PropertyName {
+            get {
+                return "Friends_ViewProfile";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'View profile for {0}'.
         /// </summary>
         public static string Friends_ViewProfile {
             get {
                 return ResourceManager.GetString("Friends_ViewProfile", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'FriendSuggestionList_AlreadyConnected'.
+        /// </summary>
+        public static string FriendSuggestionList_AlreadyConnected_PropertyName {
+            get {
+                return "FriendSuggestionList_AlreadyConnected";
             }
         }
         
@@ -1771,11 +3463,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'FriendSuggestionList_AlreadySentInvitation'.
+        /// </summary>
+        public static string FriendSuggestionList_AlreadySentInvitation_PropertyName {
+            get {
+                return "FriendSuggestionList_AlreadySentInvitation";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'You have already invited the selected person to become your friend.'.
         /// </summary>
         public static string FriendSuggestionList_AlreadySentInvitation {
             get {
                 return ResourceManager.GetString("FriendSuggestionList_AlreadySentInvitation", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'FriendSuggestionList_ButtonConnect_Text'.
+        /// </summary>
+        public static string FriendSuggestionList_ButtonConnect_Text_PropertyName {
+            get {
+                return "FriendSuggestionList_ButtonConnect_Text";
             }
         }
         
@@ -1789,6 +3499,15 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'FriendSuggestionList_CancelRequest'.
+        /// </summary>
+        public static string FriendSuggestionList_CancelRequest_PropertyName {
+            get {
+                return "FriendSuggestionList_CancelRequest";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Cancel'.
         /// </summary>
         public static string FriendSuggestionList_CancelRequest {
@@ -1798,11 +3517,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'FriendSuggestionList_FriendListEmpty'.
+        /// </summary>
+        public static string FriendSuggestionList_FriendListEmpty_PropertyName {
+            get {
+                return "FriendSuggestionList_FriendListEmpty";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'People you may know list is currently empty.'.
         /// </summary>
         public static string FriendSuggestionList_FriendListEmpty {
             get {
                 return ResourceManager.GetString("FriendSuggestionList_FriendListEmpty", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'FriendSuggestionList_MailContent'.
+        /// </summary>
+        public static string FriendSuggestionList_MailContent_PropertyName {
+            get {
+                return "FriendSuggestionList_MailContent";
             }
         }
         
@@ -1827,11 +3564,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'FriendSuggestionList_MailSubject'.
+        /// </summary>
+        public static string FriendSuggestionList_MailSubject_PropertyName {
+            get {
+                return "FriendSuggestionList_MailSubject";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Invitation to join {UserName} network'.
         /// </summary>
         public static string FriendSuggestionList_MailSubject {
             get {
                 return ResourceManager.GetString("FriendSuggestionList_MailSubject", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'FriendSuggestionList_PersonalMessage'.
+        /// </summary>
+        public static string FriendSuggestionList_PersonalMessage_PropertyName {
+            get {
+                return "FriendSuggestionList_PersonalMessage";
             }
         }
         
@@ -1845,11 +3600,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'FriendSuggestionList_PersonYouSelected'.
+        /// </summary>
+        public static string FriendSuggestionList_PersonYouSelected_PropertyName {
+            get {
+                return "FriendSuggestionList_PersonYouSelected";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'The person you selected'.
         /// </summary>
         public static string FriendSuggestionList_PersonYouSelected {
             get {
                 return ResourceManager.GetString("FriendSuggestionList_PersonYouSelected", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'FriendSuggestionList_RequestSentMessage'.
+        /// </summary>
+        public static string FriendSuggestionList_RequestSentMessage_PropertyName {
+            get {
+                return "FriendSuggestionList_RequestSentMessage";
             }
         }
         
@@ -1863,11 +3636,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'FriendSuggestionList_SendRequest'.
+        /// </summary>
+        public static string FriendSuggestionList_SendRequest_PropertyName {
+            get {
+                return "FriendSuggestionList_SendRequest";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Send request'.
         /// </summary>
         public static string FriendSuggestionList_SendRequest {
             get {
                 return ResourceManager.GetString("FriendSuggestionList_SendRequest", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'FriendSuggestionList_TextBox_RequestMessage'.
+        /// </summary>
+        public static string FriendSuggestionList_TextBox_RequestMessage_PropertyName {
+            get {
+                return "FriendSuggestionList_TextBox_RequestMessage";
             }
         }
         
@@ -1881,11 +3672,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'FriendSuggestionList_ViewProfile'.
+        /// </summary>
+        public static string FriendSuggestionList_ViewProfile_PropertyName {
+            get {
+                return "FriendSuggestionList_ViewProfile";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'View profile for {0}'.
         /// </summary>
         public static string FriendSuggestionList_ViewProfile {
             get {
                 return ResourceManager.GetString("FriendSuggestionList_ViewProfile", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'FriendSuggestionList_WatermarkSearch_Text'.
+        /// </summary>
+        public static string FriendSuggestionList_WatermarkSearch_Text_PropertyName {
+            get {
+                return "FriendSuggestionList_WatermarkSearch_Text";
             }
         }
         
@@ -1899,11 +3708,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Global_ViewProfile'.
+        /// </summary>
+        public static string Global_ViewProfile_PropertyName {
+            get {
+                return "Global_ViewProfile";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'View profile for {0}'.
         /// </summary>
         public static string Global_ViewProfile {
             get {
                 return ResourceManager.GetString("Global_ViewProfile", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Groups_AllGroupsInCategoryTitleFormatString'.
+        /// </summary>
+        public static string Groups_AllGroupsInCategoryTitleFormatString_PropertyName {
+            get {
+                return "Groups_AllGroupsInCategoryTitleFormatString";
             }
         }
         
@@ -1917,11 +3744,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Groups_AllGroupsTitleFormatString'.
+        /// </summary>
+        public static string Groups_AllGroupsTitleFormatString_PropertyName {
+            get {
+                return "Groups_AllGroupsTitleFormatString";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'All groups'.
         /// </summary>
         public static string Groups_AllGroupsTitleFormatString {
             get {
                 return ResourceManager.GetString("Groups_AllGroupsTitleFormatString", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Groups_CannotPostNotes'.
+        /// </summary>
+        public static string Groups_CannotPostNotes_PropertyName {
+            get {
+                return "Groups_CannotPostNotes";
             }
         }
         
@@ -1935,11 +3780,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Groups_CannotSeePrivateResources'.
+        /// </summary>
+        public static string Groups_CannotSeePrivateResources_PropertyName {
+            get {
+                return "Groups_CannotSeePrivateResources";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'This is a private group, and only members can view group wall and other resources. Join now to get access to all group resources!'.
         /// </summary>
         public static string Groups_CannotSeePrivateResources {
             get {
                 return ResourceManager.GetString("Groups_CannotSeePrivateResources", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Groups_Category'.
+        /// </summary>
+        public static string Groups_Category_PropertyName {
+            get {
+                return "Groups_Category";
             }
         }
         
@@ -1953,11 +3816,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Groups_ConfirmDelete'.
+        /// </summary>
+        public static string Groups_ConfirmDelete_PropertyName {
+            get {
+                return "Groups_ConfirmDelete";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'This group and all of its resources (member list, discussions, files) will be deleted. Are you sure?'.
         /// </summary>
         public static string Groups_ConfirmDelete {
             get {
                 return ResourceManager.GetString("Groups_ConfirmDelete", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Groups_ConfirmJoinPrivate'.
+        /// </summary>
+        public static string Groups_ConfirmJoinPrivate_PropertyName {
+            get {
+                return "Groups_ConfirmJoinPrivate";
             }
         }
         
@@ -1971,11 +3852,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Groups_ConfirmJoinPublic'.
+        /// </summary>
+        public static string Groups_ConfirmJoinPublic_PropertyName {
+            get {
+                return "Groups_ConfirmJoinPublic";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'You are about to join a public group. Public groups allow users to access all resources immediatelly. Do you want to continue?'.
         /// </summary>
         public static string Groups_ConfirmJoinPublic {
             get {
                 return ResourceManager.GetString("Groups_ConfirmJoinPublic", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Groups_ConfirmLeave'.
+        /// </summary>
+        public static string Groups_ConfirmLeave_PropertyName {
+            get {
+                return "Groups_ConfirmLeave";
             }
         }
         
@@ -1989,11 +3888,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Groups_Delete'.
+        /// </summary>
+        public static string Groups_Delete_PropertyName {
+            get {
+                return "Groups_Delete";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Delete'.
         /// </summary>
         public static string Groups_Delete {
             get {
                 return ResourceManager.GetString("Groups_Delete", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Groups_DeleteMember'.
+        /// </summary>
+        public static string Groups_DeleteMember_PropertyName {
+            get {
+                return "Groups_DeleteMember";
             }
         }
         
@@ -2007,11 +3924,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Groups_Description'.
+        /// </summary>
+        public static string Groups_Description_PropertyName {
+            get {
+                return "Groups_Description";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Description:'.
         /// </summary>
         public static string Groups_Description {
             get {
                 return ResourceManager.GetString("Groups_Description", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Groups_Edit'.
+        /// </summary>
+        public static string Groups_Edit_PropertyName {
+            get {
+                return "Groups_Edit";
             }
         }
         
@@ -2025,11 +3960,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Groups_GroupEdit_Admins'.
+        /// </summary>
+        public static string Groups_GroupEdit_Admins_PropertyName {
+            get {
+                return "Groups_GroupEdit_Admins";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Group administrators'.
         /// </summary>
         public static string Groups_GroupEdit_Admins {
             get {
                 return ResourceManager.GetString("Groups_GroupEdit_Admins", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Groups_GroupEdit_Categories'.
+        /// </summary>
+        public static string Groups_GroupEdit_Categories_PropertyName {
+            get {
+                return "Groups_GroupEdit_Categories";
             }
         }
         
@@ -2043,11 +3996,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Groups_GroupEdit_CategoryNote'.
+        /// </summary>
+        public static string Groups_GroupEdit_CategoryNote_PropertyName {
+            get {
+                return "Groups_GroupEdit_CategoryNote";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Note: If you choose language specific category, the group will be visibile only for that language'.
         /// </summary>
         public static string Groups_GroupEdit_CategoryNote {
             get {
                 return ResourceManager.GetString("Groups_GroupEdit_CategoryNote", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Groups_GroupEdit_Description'.
+        /// </summary>
+        public static string Groups_GroupEdit_Description_PropertyName {
+            get {
+                return "Groups_GroupEdit_Description";
             }
         }
         
@@ -2061,11 +4032,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Groups_GroupEdit_ErrorSave'.
+        /// </summary>
+        public static string Groups_GroupEdit_ErrorSave_PropertyName {
+            get {
+                return "Groups_GroupEdit_ErrorSave";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'An error has occured while trying to save this group. Please check all values and try again.'.
         /// </summary>
         public static string Groups_GroupEdit_ErrorSave {
             get {
                 return ResourceManager.GetString("Groups_GroupEdit_ErrorSave", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Groups_GroupEdit_Name'.
+        /// </summary>
+        public static string Groups_GroupEdit_Name_PropertyName {
+            get {
+                return "Groups_GroupEdit_Name";
             }
         }
         
@@ -2079,11 +4068,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Groups_GroupEdit_NameRequired'.
+        /// </summary>
+        public static string Groups_GroupEdit_NameRequired_PropertyName {
+            get {
+                return "Groups_GroupEdit_NameRequired";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Group name is required.'.
         /// </summary>
         public static string Groups_GroupEdit_NameRequired {
             get {
                 return ResourceManager.GetString("Groups_GroupEdit_NameRequired", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Groups_GroupEdit_Picture'.
+        /// </summary>
+        public static string Groups_GroupEdit_Picture_PropertyName {
+            get {
+                return "Groups_GroupEdit_Picture";
             }
         }
         
@@ -2097,11 +4104,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Groups_GroupEdit_Privacy'.
+        /// </summary>
+        public static string Groups_GroupEdit_Privacy_PropertyName {
+            get {
+                return "Groups_GroupEdit_Privacy";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Open group?'.
         /// </summary>
         public static string Groups_GroupEdit_Privacy {
             get {
                 return ResourceManager.GetString("Groups_GroupEdit_Privacy", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Groups_GroupEdit_PrivacyLegend'.
+        /// </summary>
+        public static string Groups_GroupEdit_PrivacyLegend_PropertyName {
+            get {
+                return "Groups_GroupEdit_PrivacyLegend";
             }
         }
         
@@ -2116,11 +4141,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Groups_GroupEdit_UserAdmin_TipText'.
+        /// </summary>
+        public static string Groups_GroupEdit_UserAdmin_TipText_PropertyName {
+            get {
+                return "Groups_GroupEdit_UserAdmin_TipText";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Tip: start typing the first name, last name, or the username of the user(s) that will be this group administrator(s). Separate entries with commas. Note that you can pick only the users that are currently members of this group.'.
         /// </summary>
         public static string Groups_GroupEdit_UserAdmin_TipText {
             get {
                 return ResourceManager.GetString("Groups_GroupEdit_UserAdmin_TipText", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Groups_GroupInfo_Category'.
+        /// </summary>
+        public static string Groups_GroupInfo_Category_PropertyName {
+            get {
+                return "Groups_GroupInfo_Category";
             }
         }
         
@@ -2134,11 +4177,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Groups_GroupInfo_Description'.
+        /// </summary>
+        public static string Groups_GroupInfo_Description_PropertyName {
+            get {
+                return "Groups_GroupInfo_Description";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Description:'.
         /// </summary>
         public static string Groups_GroupInfo_Description {
             get {
                 return ResourceManager.GetString("Groups_GroupInfo_Description", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Groups_GroupInfo_Name'.
+        /// </summary>
+        public static string Groups_GroupInfo_Name_PropertyName {
+            get {
+                return "Groups_GroupInfo_Name";
             }
         }
         
@@ -2152,11 +4213,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Groups_GroupInfo_OpenGroup'.
+        /// </summary>
+        public static string Groups_GroupInfo_OpenGroup_PropertyName {
+            get {
+                return "Groups_GroupInfo_OpenGroup";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Open group'.
         /// </summary>
         public static string Groups_GroupInfo_OpenGroup {
             get {
                 return ResourceManager.GetString("Groups_GroupInfo_OpenGroup", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Groups_GroupInfo_PrivacyLevel'.
+        /// </summary>
+        public static string Groups_GroupInfo_PrivacyLevel_PropertyName {
+            get {
+                return "Groups_GroupInfo_PrivacyLevel";
             }
         }
         
@@ -2170,11 +4249,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Groups_GroupInfo_PrivateGroup'.
+        /// </summary>
+        public static string Groups_GroupInfo_PrivateGroup_PropertyName {
+            get {
+                return "Groups_GroupInfo_PrivateGroup";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Private group'.
         /// </summary>
         public static string Groups_GroupInfo_PrivateGroup {
             get {
                 return ResourceManager.GetString("Groups_GroupInfo_PrivateGroup", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Groups_GroupInfo_RequestWaiting'.
+        /// </summary>
+        public static string Groups_GroupInfo_RequestWaiting_PropertyName {
+            get {
+                return "Groups_GroupInfo_RequestWaiting";
             }
         }
         
@@ -2188,11 +4285,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Groups_GroupList_AddNew'.
+        /// </summary>
+        public static string Groups_GroupList_AddNew_PropertyName {
+            get {
+                return "Groups_GroupList_AddNew";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Add new group'.
         /// </summary>
         public static string Groups_GroupList_AddNew {
             get {
                 return ResourceManager.GetString("Groups_GroupList_AddNew", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Groups_GroupList_AllGroups'.
+        /// </summary>
+        public static string Groups_GroupList_AllGroups_PropertyName {
+            get {
+                return "Groups_GroupList_AllGroups";
             }
         }
         
@@ -2206,11 +4321,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Groups_GroupList_Category'.
+        /// </summary>
+        public static string Groups_GroupList_Category_PropertyName {
+            get {
+                return "Groups_GroupList_Category";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Category:'.
         /// </summary>
         public static string Groups_GroupList_Category {
             get {
                 return ResourceManager.GetString("Groups_GroupList_Category", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Groups_GroupList_MemberCount'.
+        /// </summary>
+        public static string Groups_GroupList_MemberCount_PropertyName {
+            get {
+                return "Groups_GroupList_MemberCount";
             }
         }
         
@@ -2224,11 +4357,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Groups_GroupList_MyGroups'.
+        /// </summary>
+        public static string Groups_GroupList_MyGroups_PropertyName {
+            get {
+                return "Groups_GroupList_MyGroups";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'My Groups'.
         /// </summary>
         public static string Groups_GroupList_MyGroups {
             get {
                 return ResourceManager.GetString("Groups_GroupList_MyGroups", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Groups_GroupView_LabelDiscussion'.
+        /// </summary>
+        public static string Groups_GroupView_LabelDiscussion_PropertyName {
+            get {
+                return "Groups_GroupView_LabelDiscussion";
             }
         }
         
@@ -2242,11 +4393,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Groups_GroupView_LabelPhotos'.
+        /// </summary>
+        public static string Groups_GroupView_LabelPhotos_PropertyName {
+            get {
+                return "Groups_GroupView_LabelPhotos";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Photos'.
         /// </summary>
         public static string Groups_GroupView_LabelPhotos {
             get {
                 return ResourceManager.GetString("Groups_GroupView_LabelPhotos", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Groups_GroupView_LabelWall'.
+        /// </summary>
+        public static string Groups_GroupView_LabelWall_PropertyName {
+            get {
+                return "Groups_GroupView_LabelWall";
             }
         }
         
@@ -2260,11 +4429,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Groups_InvitationList_AddingUser'.
+        /// </summary>
+        public static string Groups_InvitationList_AddingUser_PropertyName {
+            get {
+                return "Groups_InvitationList_AddingUser";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'The selected user will now be added to this group.'.
         /// </summary>
         public static string Groups_InvitationList_AddingUser {
             get {
                 return ResourceManager.GetString("Groups_InvitationList_AddingUser", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Groups_InvitationList_ApproveInvitation'.
+        /// </summary>
+        public static string Groups_InvitationList_ApproveInvitation_PropertyName {
+            get {
+                return "Groups_InvitationList_ApproveInvitation";
             }
         }
         
@@ -2278,11 +4465,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Groups_InvitationList_ConfirmDelete'.
+        /// </summary>
+        public static string Groups_InvitationList_ConfirmDelete_PropertyName {
+            get {
+                return "Groups_InvitationList_ConfirmDelete";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'This request will be removed from the list. You will not be able to add this person to the group until the request is resent. Are you sure?'.
         /// </summary>
         public static string Groups_InvitationList_ConfirmDelete {
             get {
                 return ResourceManager.GetString("Groups_InvitationList_ConfirmDelete", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Groups_InvitationList_DeleteInvitation'.
+        /// </summary>
+        public static string Groups_InvitationList_DeleteInvitation_PropertyName {
+            get {
+                return "Groups_InvitationList_DeleteInvitation";
             }
         }
         
@@ -2296,11 +4501,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Groups_Join'.
+        /// </summary>
+        public static string Groups_Join_PropertyName {
+            get {
+                return "Groups_Join";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Join this group'.
         /// </summary>
         public static string Groups_Join {
             get {
                 return ResourceManager.GetString("Groups_Join", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Groups_Leave'.
+        /// </summary>
+        public static string Groups_Leave_PropertyName {
+            get {
+                return "Groups_Leave";
             }
         }
         
@@ -2314,11 +4537,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Groups_LoginToJoin'.
+        /// </summary>
+        public static string Groups_LoginToJoin_PropertyName {
+            get {
+                return "Groups_LoginToJoin";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Log in or register to join this group'.
         /// </summary>
         public static string Groups_LoginToJoin {
             get {
                 return ResourceManager.GetString("Groups_LoginToJoin", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Groups_MemberListEmpty'.
+        /// </summary>
+        public static string Groups_MemberListEmpty_PropertyName {
+            get {
+                return "Groups_MemberListEmpty";
             }
         }
         
@@ -2332,11 +4573,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Groups_MyGroupsTitleFormatString'.
+        /// </summary>
+        public static string Groups_MyGroupsTitleFormatString_PropertyName {
+            get {
+                return "Groups_MyGroupsTitleFormatString";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'My groups'.
         /// </summary>
         public static string Groups_MyGroupsTitleFormatString {
             get {
                 return ResourceManager.GetString("Groups_MyGroupsTitleFormatString", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Groups_Name'.
+        /// </summary>
+        public static string Groups_Name_PropertyName {
+            get {
+                return "Groups_Name";
             }
         }
         
@@ -2350,11 +4609,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Groups_NoDataWarning'.
+        /// </summary>
+        public static string Groups_NoDataWarning_PropertyName {
+            get {
+                return "Groups_NoDataWarning";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'No groups were found for the required criteria.&lt;br /&gt;'.
         /// </summary>
         public static string Groups_NoDataWarning {
             get {
                 return ResourceManager.GetString("Groups_NoDataWarning", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Groups_NoGroupsShowingAllGroupsFormatString'.
+        /// </summary>
+        public static string Groups_NoGroupsShowingAllGroupsFormatString_PropertyName {
+            get {
+                return "Groups_NoGroupsShowingAllGroupsFormatString";
             }
         }
         
@@ -2368,11 +4645,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Groups_PeopleSearch_AddProblem'.
+        /// </summary>
+        public static string Groups_PeopleSearch_AddProblem_PropertyName {
+            get {
+                return "Groups_PeopleSearch_AddProblem";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'An error occured while trying to add the user {0} to this group.'.
         /// </summary>
         public static string Groups_PeopleSearch_AddProblem {
             get {
                 return ResourceManager.GetString("Groups_PeopleSearch_AddProblem", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Groups_PeopleSearch_AddSuccess'.
+        /// </summary>
+        public static string Groups_PeopleSearch_AddSuccess_PropertyName {
+            get {
+                return "Groups_PeopleSearch_AddSuccess";
             }
         }
         
@@ -2386,11 +4681,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Groups_PeopleSearch_AlreadyMember'.
+        /// </summary>
+        public static string Groups_PeopleSearch_AlreadyMember_PropertyName {
+            get {
+                return "Groups_PeopleSearch_AlreadyMember";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'User {0} is already a member of thie group.'.
         /// </summary>
         public static string Groups_PeopleSearch_AlreadyMember {
             get {
                 return ResourceManager.GetString("Groups_PeopleSearch_AlreadyMember", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Groups_PeopleSearch_Button_Add'.
+        /// </summary>
+        public static string Groups_PeopleSearch_Button_Add_PropertyName {
+            get {
+                return "Groups_PeopleSearch_Button_Add";
             }
         }
         
@@ -2404,6 +4717,15 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Groups_PeopleSearch_Button_Send'.
+        /// </summary>
+        public static string Groups_PeopleSearch_Button_Send_PropertyName {
+            get {
+                return "Groups_PeopleSearch_Button_Send";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Send invitation'.
         /// </summary>
         public static string Groups_PeopleSearch_Button_Send {
@@ -2413,11 +4735,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Groups_PeopleSearch_Button_ViewProfile'.
+        /// </summary>
+        public static string Groups_PeopleSearch_Button_ViewProfile_PropertyName {
+            get {
+                return "Groups_PeopleSearch_Button_ViewProfile";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'View profile'.
         /// </summary>
         public static string Groups_PeopleSearch_Button_ViewProfile {
             get {
                 return ResourceManager.GetString("Groups_PeopleSearch_Button_ViewProfile", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Groups_PeopleSearch_ConfirmationMailContent'.
+        /// </summary>
+        public static string Groups_PeopleSearch_ConfirmationMailContent_PropertyName {
+            get {
+                return "Groups_PeopleSearch_ConfirmationMailContent";
             }
         }
         
@@ -2437,11 +4777,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Groups_PeopleSearch_ConfirmationMailSubject'.
+        /// </summary>
+        public static string Groups_PeopleSearch_ConfirmationMailSubject_PropertyName {
+            get {
+                return "Groups_PeopleSearch_ConfirmationMailSubject";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to '{UserName} invites you to join the group {GroupName}'.
         /// </summary>
         public static string Groups_PeopleSearch_ConfirmationMailSubject {
             get {
                 return ResourceManager.GetString("Groups_PeopleSearch_ConfirmationMailSubject", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Groups_PeopleSearch_PersonalMessage'.
+        /// </summary>
+        public static string Groups_PeopleSearch_PersonalMessage_PropertyName {
+            get {
+                return "Groups_PeopleSearch_PersonalMessage";
             }
         }
         
@@ -2455,11 +4813,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Groups_PeopleSearch_TipText'.
+        /// </summary>
+        public static string Groups_PeopleSearch_TipText_PropertyName {
+            get {
+                return "Groups_PeopleSearch_TipText";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Tip: this will search people&apos;s first names, last names, and user names.'.
         /// </summary>
         public static string Groups_PeopleSearch_TipText {
             get {
                 return ResourceManager.GetString("Groups_PeopleSearch_TipText", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Groups_Search'.
+        /// </summary>
+        public static string Groups_Search_PropertyName {
+            get {
+                return "Groups_Search";
             }
         }
         
@@ -2473,11 +4849,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Groups_Search_Tip'.
+        /// </summary>
+        public static string Groups_Search_Tip_PropertyName {
+            get {
+                return "Groups_Search_Tip";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to '(Tip: To get the list of all groups leave the search box as is and click the search button)'.
         /// </summary>
         public static string Groups_Search_Tip {
             get {
                 return ResourceManager.GetString("Groups_Search_Tip", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Groups_SearchGroupsTitleFormatString'.
+        /// </summary>
+        public static string Groups_SearchGroupsTitleFormatString_PropertyName {
+            get {
+                return "Groups_SearchGroupsTitleFormatString";
             }
         }
         
@@ -2491,11 +4885,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Groups_View'.
+        /// </summary>
+        public static string Groups_View_PropertyName {
+            get {
+                return "Groups_View";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'View group {0}'.
         /// </summary>
         public static string Groups_View {
             get {
                 return ResourceManager.GetString("Groups_View", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'InvitationList_AddingFollower'.
+        /// </summary>
+        public static string InvitationList_AddingFollower_PropertyName {
+            get {
+                return "InvitationList_AddingFollower";
             }
         }
         
@@ -2509,11 +4921,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'InvitationList_AddingUser'.
+        /// </summary>
+        public static string InvitationList_AddingUser_PropertyName {
+            get {
+                return "InvitationList_AddingUser";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'The selected user will now be added to your list of friends.'.
         /// </summary>
         public static string InvitationList_AddingUser {
             get {
                 return ResourceManager.GetString("InvitationList_AddingUser", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'InvitationList_Approve'.
+        /// </summary>
+        public static string InvitationList_Approve_PropertyName {
+            get {
+                return "InvitationList_Approve";
             }
         }
         
@@ -2527,11 +4957,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'InvitationList_ApproveInvitation'.
+        /// </summary>
+        public static string InvitationList_ApproveInvitation_PropertyName {
+            get {
+                return "InvitationList_ApproveInvitation";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Approve invitation for {0}'.
         /// </summary>
         public static string InvitationList_ApproveInvitation {
             get {
                 return ResourceManager.GetString("InvitationList_ApproveInvitation", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'InvitationList_ConfirmDelete'.
+        /// </summary>
+        public static string InvitationList_ConfirmDelete_PropertyName {
+            get {
+                return "InvitationList_ConfirmDelete";
             }
         }
         
@@ -2545,11 +4993,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'InvitationList_DeleteInvitation'.
+        /// </summary>
+        public static string InvitationList_DeleteInvitation_PropertyName {
+            get {
+                return "InvitationList_DeleteInvitation";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Remove invitation for {0} from your invitation list'.
         /// </summary>
         public static string InvitationList_DeleteInvitation {
             get {
                 return ResourceManager.GetString("InvitationList_DeleteInvitation", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'InvitationList_ListEmpty'.
+        /// </summary>
+        public static string InvitationList_ListEmpty_PropertyName {
+            get {
+                return "InvitationList_ListEmpty";
             }
         }
         
@@ -2563,11 +5029,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Messaging_Back'.
+        /// </summary>
+        public static string Messaging_Back_PropertyName {
+            get {
+                return "Messaging_Back";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Back'.
         /// </summary>
         public static string Messaging_Back {
             get {
                 return ResourceManager.GetString("Messaging_Back", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Messaging_Cancel'.
+        /// </summary>
+        public static string Messaging_Cancel_PropertyName {
+            get {
+                return "Messaging_Cancel";
             }
         }
         
@@ -2581,11 +5065,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Messaging_CreateMessage_BodyRequired'.
+        /// </summary>
+        public static string Messaging_CreateMessage_BodyRequired_PropertyName {
+            get {
+                return "Messaging_CreateMessage_BodyRequired";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Message Body is required.'.
         /// </summary>
         public static string Messaging_CreateMessage_BodyRequired {
             get {
                 return ResourceManager.GetString("Messaging_CreateMessage_BodyRequired", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Messaging_CreateMessage_ErrorCannotSave'.
+        /// </summary>
+        public static string Messaging_CreateMessage_ErrorCannotSave_PropertyName {
+            get {
+                return "Messaging_CreateMessage_ErrorCannotSave";
             }
         }
         
@@ -2599,11 +5101,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Messaging_CreateMessage_ErrorSendGroup'.
+        /// </summary>
+        public static string Messaging_CreateMessage_ErrorSendGroup_PropertyName {
+            get {
+                return "Messaging_CreateMessage_ErrorSendGroup";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to '&lt;br /&gt;An error has occured while trying to send the message to the group members: {0}.'.
         /// </summary>
         public static string Messaging_CreateMessage_ErrorSendGroup {
             get {
                 return ResourceManager.GetString("Messaging_CreateMessage_ErrorSendGroup", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Messaging_CreateMessage_ErrorSendMessageList'.
+        /// </summary>
+        public static string Messaging_CreateMessage_ErrorSendMessageList_PropertyName {
+            get {
+                return "Messaging_CreateMessage_ErrorSendMessageList";
             }
         }
         
@@ -2617,11 +5137,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Messaging_CreateMessage_ErrorSendRecipient'.
+        /// </summary>
+        public static string Messaging_CreateMessage_ErrorSendRecipient_PropertyName {
+            get {
+                return "Messaging_CreateMessage_ErrorSendRecipient";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to '&lt;br /&gt;An error has occured while trying to send the message to the following recipient: {0}.'.
         /// </summary>
         public static string Messaging_CreateMessage_ErrorSendRecipient {
             get {
                 return ResourceManager.GetString("Messaging_CreateMessage_ErrorSendRecipient", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Messaging_CreateMessage_Message'.
+        /// </summary>
+        public static string Messaging_CreateMessage_Message_PropertyName {
+            get {
+                return "Messaging_CreateMessage_Message";
             }
         }
         
@@ -2635,11 +5173,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Messaging_CreateMessage_MessagingGroup'.
+        /// </summary>
+        public static string Messaging_CreateMessage_MessagingGroup_PropertyName {
+            get {
+                return "Messaging_CreateMessage_MessagingGroup";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'messaging group'.
         /// </summary>
         public static string Messaging_CreateMessage_MessagingGroup {
             get {
                 return ResourceManager.GetString("Messaging_CreateMessage_MessagingGroup", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Messaging_CreateMessage_MessagingList'.
+        /// </summary>
+        public static string Messaging_CreateMessage_MessagingList_PropertyName {
+            get {
+                return "Messaging_CreateMessage_MessagingList";
             }
         }
         
@@ -2653,11 +5209,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Messaging_CreateMessage_NoRecipients'.
+        /// </summary>
+        public static string Messaging_CreateMessage_NoRecipients_PropertyName {
+            get {
+                return "Messaging_CreateMessage_NoRecipients";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'The recipient list is empty!'.
         /// </summary>
         public static string Messaging_CreateMessage_NoRecipients {
             get {
                 return ResourceManager.GetString("Messaging_CreateMessage_NoRecipients", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Messaging_CreateMessage_Recipeints'.
+        /// </summary>
+        public static string Messaging_CreateMessage_Recipeints_PropertyName {
+            get {
+                return "Messaging_CreateMessage_Recipeints";
             }
         }
         
@@ -2671,11 +5245,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Messaging_CreateMessage_Send'.
+        /// </summary>
+        public static string Messaging_CreateMessage_Send_PropertyName {
+            get {
+                return "Messaging_CreateMessage_Send";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Send'.
         /// </summary>
         public static string Messaging_CreateMessage_Send {
             get {
                 return ResourceManager.GetString("Messaging_CreateMessage_Send", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Messaging_CreateMessage_SendMailCopy'.
+        /// </summary>
+        public static string Messaging_CreateMessage_SendMailCopy_PropertyName {
+            get {
+                return "Messaging_CreateMessage_SendMailCopy";
             }
         }
         
@@ -2689,11 +5281,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Messaging_CreateMessage_Subject'.
+        /// </summary>
+        public static string Messaging_CreateMessage_Subject_PropertyName {
+            get {
+                return "Messaging_CreateMessage_Subject";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Subject:'.
         /// </summary>
         public static string Messaging_CreateMessage_Subject {
             get {
                 return ResourceManager.GetString("Messaging_CreateMessage_Subject", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Messaging_CreateMessage_SubjectRequired'.
+        /// </summary>
+        public static string Messaging_CreateMessage_SubjectRequired_PropertyName {
+            get {
+                return "Messaging_CreateMessage_SubjectRequired";
             }
         }
         
@@ -2707,11 +5317,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Messaging_CreateMessage_Upload'.
+        /// </summary>
+        public static string Messaging_CreateMessage_Upload_PropertyName {
+            get {
+                return "Messaging_CreateMessage_Upload";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Attachments:'.
         /// </summary>
         public static string Messaging_CreateMessage_Upload {
             get {
                 return ResourceManager.GetString("Messaging_CreateMessage_Upload", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Messaging_ListAdmin_AddList'.
+        /// </summary>
+        public static string Messaging_ListAdmin_AddList_PropertyName {
+            get {
+                return "Messaging_ListAdmin_AddList";
             }
         }
         
@@ -2725,11 +5353,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Messaging_ListAdmin_AddNew'.
+        /// </summary>
+        public static string Messaging_ListAdmin_AddNew_PropertyName {
+            get {
+                return "Messaging_ListAdmin_AddNew";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Add new'.
         /// </summary>
         public static string Messaging_ListAdmin_AddNew {
             get {
                 return ResourceManager.GetString("Messaging_ListAdmin_AddNew", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Messaging_ListAdmin_DeleteConfirmation'.
+        /// </summary>
+        public static string Messaging_ListAdmin_DeleteConfirmation_PropertyName {
+            get {
+                return "Messaging_ListAdmin_DeleteConfirmation";
             }
         }
         
@@ -2743,11 +5389,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Messaging_ListAdmin_HeaderText'.
+        /// </summary>
+        public static string Messaging_ListAdmin_HeaderText_PropertyName {
+            get {
+                return "Messaging_ListAdmin_HeaderText";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Friend list management'.
         /// </summary>
         public static string Messaging_ListAdmin_HeaderText {
             get {
                 return ResourceManager.GetString("Messaging_ListAdmin_HeaderText", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Messaging_ListAdmin_ListMembers'.
+        /// </summary>
+        public static string Messaging_ListAdmin_ListMembers_PropertyName {
+            get {
+                return "Messaging_ListAdmin_ListMembers";
             }
         }
         
@@ -2761,11 +5425,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Messaging_ListAdmin_Name'.
+        /// </summary>
+        public static string Messaging_ListAdmin_Name_PropertyName {
+            get {
+                return "Messaging_ListAdmin_Name";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Name:'.
         /// </summary>
         public static string Messaging_ListAdmin_Name {
             get {
                 return ResourceManager.GetString("Messaging_ListAdmin_Name", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Messaging_ListAdmin_PageTitle'.
+        /// </summary>
+        public static string Messaging_ListAdmin_PageTitle_PropertyName {
+            get {
+                return "Messaging_ListAdmin_PageTitle";
             }
         }
         
@@ -2779,11 +5461,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Messaging_ListAdmin_Save'.
+        /// </summary>
+        public static string Messaging_ListAdmin_Save_PropertyName {
+            get {
+                return "Messaging_ListAdmin_Save";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'OK'.
         /// </summary>
         public static string Messaging_ListAdmin_Save {
             get {
                 return ResourceManager.GetString("Messaging_ListAdmin_Save", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Messaging_ListAdmin_SubHeaderText'.
+        /// </summary>
+        public static string Messaging_ListAdmin_SubHeaderText_PropertyName {
+            get {
+                return "Messaging_ListAdmin_SubHeaderText";
             }
         }
         
@@ -2797,11 +5497,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Messaging_MessageDetails'.
+        /// </summary>
+        public static string Messaging_MessageDetails_PropertyName {
+            get {
+                return "Messaging_MessageDetails";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Message details'.
         /// </summary>
         public static string Messaging_MessageDetails {
             get {
                 return ResourceManager.GetString("Messaging_MessageDetails", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Messaging_MessageDetails_ErrorCannotSave'.
+        /// </summary>
+        public static string Messaging_MessageDetails_ErrorCannotSave_PropertyName {
+            get {
+                return "Messaging_MessageDetails_ErrorCannotSave";
             }
         }
         
@@ -2815,11 +5533,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Messaging_MessageDetails_ErrorSendReply'.
+        /// </summary>
+        public static string Messaging_MessageDetails_ErrorSendReply_PropertyName {
+            get {
+                return "Messaging_MessageDetails_ErrorSendReply";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to '&lt;br /&gt;An error has occured while trying to send the reply to all recipients.'.
         /// </summary>
         public static string Messaging_MessageDetails_ErrorSendReply {
             get {
                 return ResourceManager.GetString("Messaging_MessageDetails_ErrorSendReply", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Messaging_MessageDetails_Reply'.
+        /// </summary>
+        public static string Messaging_MessageDetails_Reply_PropertyName {
+            get {
+                return "Messaging_MessageDetails_Reply";
             }
         }
         
@@ -2833,11 +5569,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Messaging_MessageDetails_Send'.
+        /// </summary>
+        public static string Messaging_MessageDetails_Send_PropertyName {
+            get {
+                return "Messaging_MessageDetails_Send";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Send'.
         /// </summary>
         public static string Messaging_MessageDetails_Send {
             get {
                 return ResourceManager.GetString("Messaging_MessageDetails_Send", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Messaging_MessageDetails_SendMailCopy'.
+        /// </summary>
+        public static string Messaging_MessageDetails_SendMailCopy_PropertyName {
+            get {
+                return "Messaging_MessageDetails_SendMailCopy";
             }
         }
         
@@ -2851,11 +5605,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Messaging_MessageDetails_Upload'.
+        /// </summary>
+        public static string Messaging_MessageDetails_Upload_PropertyName {
+            get {
+                return "Messaging_MessageDetails_Upload";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Attachments:'.
         /// </summary>
         public static string Messaging_MessageDetails_Upload {
             get {
                 return ResourceManager.GetString("Messaging_MessageDetails_Upload", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Messaging_MessageList_Collapse_ToolTip'.
+        /// </summary>
+        public static string Messaging_MessageList_Collapse_ToolTip_PropertyName {
+            get {
+                return "Messaging_MessageList_Collapse_ToolTip";
             }
         }
         
@@ -2869,11 +5641,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Messaging_MessageList_ColumnDate'.
+        /// </summary>
+        public static string Messaging_MessageList_ColumnDate_PropertyName {
+            get {
+                return "Messaging_MessageList_ColumnDate";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Date'.
         /// </summary>
         public static string Messaging_MessageList_ColumnDate {
             get {
                 return ResourceManager.GetString("Messaging_MessageList_ColumnDate", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Messaging_MessageList_ColumnFrom'.
+        /// </summary>
+        public static string Messaging_MessageList_ColumnFrom_PropertyName {
+            get {
+                return "Messaging_MessageList_ColumnFrom";
             }
         }
         
@@ -2887,11 +5677,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Messaging_MessageList_ColumnSubject'.
+        /// </summary>
+        public static string Messaging_MessageList_ColumnSubject_PropertyName {
+            get {
+                return "Messaging_MessageList_ColumnSubject";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Subject'.
         /// </summary>
         public static string Messaging_MessageList_ColumnSubject {
             get {
                 return ResourceManager.GetString("Messaging_MessageList_ColumnSubject", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Messaging_MessageList_ColumnTo'.
+        /// </summary>
+        public static string Messaging_MessageList_ColumnTo_PropertyName {
+            get {
+                return "Messaging_MessageList_ColumnTo";
             }
         }
         
@@ -2905,11 +5713,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Messaging_MessageList_DragToGroupOrReorder'.
+        /// </summary>
+        public static string Messaging_MessageList_DragToGroupOrReorder_PropertyName {
+            get {
+                return "Messaging_MessageList_DragToGroupOrReorder";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Drag to group'.
         /// </summary>
         public static string Messaging_MessageList_DragToGroupOrReorder {
             get {
                 return ResourceManager.GetString("Messaging_MessageList_DragToGroupOrReorder", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Messaging_MessageList_DragToResize'.
+        /// </summary>
+        public static string Messaging_MessageList_DragToResize_PropertyName {
+            get {
+                return "Messaging_MessageList_DragToResize";
             }
         }
         
@@ -2923,11 +5749,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Messaging_MessageList_DropHereToReorder'.
+        /// </summary>
+        public static string Messaging_MessageList_DropHereToReorder_PropertyName {
+            get {
+                return "Messaging_MessageList_DropHereToReorder";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Drop here to reorder'.
         /// </summary>
         public static string Messaging_MessageList_DropHereToReorder {
             get {
                 return ResourceManager.GetString("Messaging_MessageList_DropHereToReorder", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Messaging_MessageList_Expand_Tooltip'.
+        /// </summary>
+        public static string Messaging_MessageList_Expand_Tooltip_PropertyName {
+            get {
+                return "Messaging_MessageList_Expand_Tooltip";
             }
         }
         
@@ -2941,11 +5785,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Messaging_MessageList_Filter'.
+        /// </summary>
+        public static string Messaging_MessageList_Filter_PropertyName {
+            get {
+                return "Messaging_MessageList_Filter";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Search for:'.
         /// </summary>
         public static string Messaging_MessageList_Filter {
             get {
                 return ResourceManager.GetString("Messaging_MessageList_Filter", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Messaging_MessageList_GroupContinuedFormatString'.
+        /// </summary>
+        public static string Messaging_MessageList_GroupContinuedFormatString_PropertyName {
+            get {
+                return "Messaging_MessageList_GroupContinuedFormatString";
             }
         }
         
@@ -2959,11 +5821,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Messaging_MessageList_GroupContinuesFormatString'.
+        /// </summary>
+        public static string Messaging_MessageList_GroupContinuesFormatString_PropertyName {
+            get {
+                return "Messaging_MessageList_GroupContinuesFormatString";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'The group continues on the next page.'.
         /// </summary>
         public static string Messaging_MessageList_GroupContinuesFormatString {
             get {
                 return ResourceManager.GetString("Messaging_MessageList_GroupContinuesFormatString", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Messaging_MessageList_GroupPanelText'.
+        /// </summary>
+        public static string Messaging_MessageList_GroupPanelText_PropertyName {
+            get {
+                return "Messaging_MessageList_GroupPanelText";
             }
         }
         
@@ -2977,11 +5857,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Messaging_MessageList_Loading'.
+        /// </summary>
+        public static string Messaging_MessageList_Loading_PropertyName {
+            get {
+                return "Messaging_MessageList_Loading";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Loading'.
         /// </summary>
         public static string Messaging_MessageList_Loading {
             get {
                 return ResourceManager.GetString("Messaging_MessageList_Loading", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Messaging_MessageList_NextPage'.
+        /// </summary>
+        public static string Messaging_MessageList_NextPage_PropertyName {
+            get {
+                return "Messaging_MessageList_NextPage";
             }
         }
         
@@ -2995,11 +5893,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Messaging_MessageList_NextPages'.
+        /// </summary>
+        public static string Messaging_MessageList_NextPages_PropertyName {
+            get {
+                return "Messaging_MessageList_NextPages";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Next pages'.
         /// </summary>
         public static string Messaging_MessageList_NextPages {
             get {
                 return ResourceManager.GetString("Messaging_MessageList_NextPages", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Messaging_MessageList_NoRecords'.
+        /// </summary>
+        public static string Messaging_MessageList_NoRecords_PropertyName {
+            get {
+                return "Messaging_MessageList_NoRecords";
             }
         }
         
@@ -3013,11 +5929,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Messaging_MessageList_OnSuffix'.
+        /// </summary>
+        public static string Messaging_MessageList_OnSuffix_PropertyName {
+            get {
+                return "Messaging_MessageList_OnSuffix";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to ' on: '.
         /// </summary>
         public static string Messaging_MessageList_OnSuffix {
             get {
                 return ResourceManager.GetString("Messaging_MessageList_OnSuffix", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Messaging_MessageList_PagerTextFormat'.
+        /// </summary>
+        public static string Messaging_MessageList_PagerTextFormat_PropertyName {
+            get {
+                return "Messaging_MessageList_PagerTextFormat";
             }
         }
         
@@ -3031,11 +5965,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Messaging_MessageList_PagerTooltip'.
+        /// </summary>
+        public static string Messaging_MessageList_PagerTooltip_PropertyName {
+            get {
+                return "Messaging_MessageList_PagerTooltip";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Page {0} of {1}'.
         /// </summary>
         public static string Messaging_MessageList_PagerTooltip {
             get {
                 return ResourceManager.GetString("Messaging_MessageList_PagerTooltip", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Messaging_MessageList_PrevPage'.
+        /// </summary>
+        public static string Messaging_MessageList_PrevPage_PropertyName {
+            get {
+                return "Messaging_MessageList_PrevPage";
             }
         }
         
@@ -3049,11 +6001,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Messaging_MessageList_PrevPages'.
+        /// </summary>
+        public static string Messaging_MessageList_PrevPages_PropertyName {
+            get {
+                return "Messaging_MessageList_PrevPages";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Previous pages'.
         /// </summary>
         public static string Messaging_MessageList_PrevPages {
             get {
                 return ResourceManager.GetString("Messaging_MessageList_PrevPages", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Messaging_MessageList_Ready'.
+        /// </summary>
+        public static string Messaging_MessageList_Ready_PropertyName {
+            get {
+                return "Messaging_MessageList_Ready";
             }
         }
         
@@ -3067,11 +6037,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Messaging_MessageList_Received'.
+        /// </summary>
+        public static string Messaging_MessageList_Received_PropertyName {
+            get {
+                return "Messaging_MessageList_Received";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Received'.
         /// </summary>
         public static string Messaging_MessageList_Received {
             get {
                 return ResourceManager.GetString("Messaging_MessageList_Received", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Messaging_MessageList_Search_ToolTip'.
+        /// </summary>
+        public static string Messaging_MessageList_Search_ToolTip_PropertyName {
+            get {
+                return "Messaging_MessageList_Search_ToolTip";
             }
         }
         
@@ -3085,11 +6073,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Messaging_MessageList_Sent'.
+        /// </summary>
+        public static string Messaging_MessageList_Sent_PropertyName {
+            get {
+                return "Messaging_MessageList_Sent";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Sent'.
         /// </summary>
         public static string Messaging_MessageList_Sent {
             get {
                 return ResourceManager.GetString("Messaging_MessageList_Sent", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Messaging_MessageList_ShowAll_ToolTip'.
+        /// </summary>
+        public static string Messaging_MessageList_ShowAll_ToolTip_PropertyName {
+            get {
+                return "Messaging_MessageList_ShowAll_ToolTip";
             }
         }
         
@@ -3103,11 +6109,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Messaging_MessageList_Sort'.
+        /// </summary>
+        public static string Messaging_MessageList_Sort_PropertyName {
+            get {
+                return "Messaging_MessageList_Sort";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Sort'.
         /// </summary>
         public static string Messaging_MessageList_Sort {
             get {
                 return ResourceManager.GetString("Messaging_MessageList_Sort", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Messaging_MessageList_SortedAsc'.
+        /// </summary>
+        public static string Messaging_MessageList_SortedAsc_PropertyName {
+            get {
+                return "Messaging_MessageList_SortedAsc";
             }
         }
         
@@ -3121,11 +6145,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Messaging_MessageList_SortedDesc'.
+        /// </summary>
+        public static string Messaging_MessageList_SortedDesc_PropertyName {
+            get {
+                return "Messaging_MessageList_SortedDesc";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Sorted in descending order'.
         /// </summary>
         public static string Messaging_MessageList_SortedDesc {
             get {
                 return ResourceManager.GetString("Messaging_MessageList_SortedDesc", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Messaging_MessageList_View'.
+        /// </summary>
+        public static string Messaging_MessageList_View_PropertyName {
+            get {
+                return "Messaging_MessageList_View";
             }
         }
         
@@ -3139,11 +6181,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Messaging_MessageSent'.
+        /// </summary>
+        public static string Messaging_MessageSent_PropertyName {
+            get {
+                return "Messaging_MessageSent";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Your message was successfully sent!'.
         /// </summary>
         public static string Messaging_MessageSent {
             get {
                 return ResourceManager.GetString("Messaging_MessageSent", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Messaging_NewMessage'.
+        /// </summary>
+        public static string Messaging_NewMessage_PropertyName {
+            get {
+                return "Messaging_NewMessage";
             }
         }
         
@@ -3157,11 +6217,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Messaging_Received'.
+        /// </summary>
+        public static string Messaging_Received_PropertyName {
+            get {
+                return "Messaging_Received";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to '&lt;span&gt;Received&lt;/span&gt;'.
         /// </summary>
         public static string Messaging_Received {
             get {
                 return ResourceManager.GetString("Messaging_Received", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Messaging_Sent'.
+        /// </summary>
+        public static string Messaging_Sent_PropertyName {
+            get {
+                return "Messaging_Sent";
             }
         }
         
@@ -3175,11 +6253,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'PeopleSearch_AddFriendConfirmation'.
+        /// </summary>
+        public static string PeopleSearch_AddFriendConfirmation_PropertyName {
+            get {
+                return "PeopleSearch_AddFriendConfirmation";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'User {0} has been successfully added to your list.'.
         /// </summary>
         public static string PeopleSearch_AddFriendConfirmation {
             get {
                 return ResourceManager.GetString("PeopleSearch_AddFriendConfirmation", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'PeopleSearch_AddProblem'.
+        /// </summary>
+        public static string PeopleSearch_AddProblem_PropertyName {
+            get {
+                return "PeopleSearch_AddProblem";
             }
         }
         
@@ -3193,11 +6289,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'PeopleSearch_AddSuccess'.
+        /// </summary>
+        public static string PeopleSearch_AddSuccess_PropertyName {
+            get {
+                return "PeopleSearch_AddSuccess";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'You have successfully added {0} to your list of friends.'.
         /// </summary>
         public static string PeopleSearch_AddSuccess {
             get {
                 return ResourceManager.GetString("PeopleSearch_AddSuccess", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'PeopleSearch_AlreadyConnected'.
+        /// </summary>
+        public static string PeopleSearch_AlreadyConnected_PropertyName {
+            get {
+                return "PeopleSearch_AlreadyConnected";
             }
         }
         
@@ -3211,11 +6325,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'PeopleSearch_AlreadySentInvitation'.
+        /// </summary>
+        public static string PeopleSearch_AlreadySentInvitation_PropertyName {
+            get {
+                return "PeopleSearch_AlreadySentInvitation";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'You have already invited this user or have him or her on your friend list.'.
         /// </summary>
         public static string PeopleSearch_AlreadySentInvitation {
             get {
                 return ResourceManager.GetString("PeopleSearch_AlreadySentInvitation", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'PeopleSearch_BlockProblem'.
+        /// </summary>
+        public static string PeopleSearch_BlockProblem_PropertyName {
+            get {
+                return "PeopleSearch_BlockProblem";
             }
         }
         
@@ -3229,11 +6361,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'PeopleSearch_Button_Add'.
+        /// </summary>
+        public static string PeopleSearch_Button_Add_PropertyName {
+            get {
+                return "PeopleSearch_Button_Add";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Add as a friend'.
         /// </summary>
         public static string PeopleSearch_Button_Add {
             get {
                 return ResourceManager.GetString("PeopleSearch_Button_Add", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'PeopleSearch_Button_Block'.
+        /// </summary>
+        public static string PeopleSearch_Button_Block_PropertyName {
+            get {
+                return "PeopleSearch_Button_Block";
             }
         }
         
@@ -3247,11 +6397,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'PeopleSearch_Button_Send'.
+        /// </summary>
+        public static string PeopleSearch_Button_Send_PropertyName {
+            get {
+                return "PeopleSearch_Button_Send";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Send'.
         /// </summary>
         public static string PeopleSearch_Button_Send {
             get {
                 return ResourceManager.GetString("PeopleSearch_Button_Send", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'PeopleSearch_Button_UnBlock'.
+        /// </summary>
+        public static string PeopleSearch_Button_UnBlock_PropertyName {
+            get {
+                return "PeopleSearch_Button_UnBlock";
             }
         }
         
@@ -3265,11 +6433,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'PeopleSearch_Button_ViewProfile'.
+        /// </summary>
+        public static string PeopleSearch_Button_ViewProfile_PropertyName {
+            get {
+                return "PeopleSearch_Button_ViewProfile";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'View profile'.
         /// </summary>
         public static string PeopleSearch_Button_ViewProfile {
             get {
                 return ResourceManager.GetString("PeopleSearch_Button_ViewProfile", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'PeopleSearch_ConfirmationMailContent'.
+        /// </summary>
+        public static string PeopleSearch_ConfirmationMailContent_PropertyName {
+            get {
+                return "PeopleSearch_ConfirmationMailContent";
             }
         }
         
@@ -3294,11 +6480,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'PeopleSearch_ConfirmationMailSubject'.
+        /// </summary>
+        public static string PeopleSearch_ConfirmationMailSubject_PropertyName {
+            get {
+                return "PeopleSearch_ConfirmationMailSubject";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Confirmation request from {UserName}'.
         /// </summary>
         public static string PeopleSearch_ConfirmationMailSubject {
             get {
                 return ResourceManager.GetString("PeopleSearch_ConfirmationMailSubject", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'PeopleSearch_InvitationsReceived'.
+        /// </summary>
+        public static string PeopleSearch_InvitationsReceived_PropertyName {
+            get {
+                return "PeopleSearch_InvitationsReceived";
             }
         }
         
@@ -3312,11 +6516,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'PeopleSearch_InvitationsSent'.
+        /// </summary>
+        public static string PeopleSearch_InvitationsSent_PropertyName {
+            get {
+                return "PeopleSearch_InvitationsSent";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Sent invitations:'.
         /// </summary>
         public static string PeopleSearch_InvitationsSent {
             get {
                 return ResourceManager.GetString("PeopleSearch_InvitationsSent", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'PeopleSearch_InviteFriendConfirmation'.
+        /// </summary>
+        public static string PeopleSearch_InviteFriendConfirmation_PropertyName {
+            get {
+                return "PeopleSearch_InviteFriendConfirmation";
             }
         }
         
@@ -3330,11 +6552,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'PeopleSearch_MemberSince'.
+        /// </summary>
+        public static string PeopleSearch_MemberSince_PropertyName {
+            get {
+                return "PeopleSearch_MemberSince";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Member since:'.
         /// </summary>
         public static string PeopleSearch_MemberSince {
             get {
                 return ResourceManager.GetString("PeopleSearch_MemberSince", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'PeopleSearch_NoUsers'.
+        /// </summary>
+        public static string PeopleSearch_NoUsers_PropertyName {
+            get {
+                return "PeopleSearch_NoUsers";
             }
         }
         
@@ -3348,11 +6588,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'PeopleSearch_PersonalMessage'.
+        /// </summary>
+        public static string PeopleSearch_PersonalMessage_PropertyName {
+            get {
+                return "PeopleSearch_PersonalMessage";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'The person you selected will have to confirm your request. You may add a personal message:'.
         /// </summary>
         public static string PeopleSearch_PersonalMessage {
             get {
                 return ResourceManager.GetString("PeopleSearch_PersonalMessage", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'PeopleSearch_TipText'.
+        /// </summary>
+        public static string PeopleSearch_TipText_PropertyName {
+            get {
+                return "PeopleSearch_TipText";
             }
         }
         
@@ -3366,11 +6624,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'PhotoGallery_AlbumEditView_CreateAlbum'.
+        /// </summary>
+        public static string PhotoGallery_AlbumEditView_CreateAlbum_PropertyName {
+            get {
+                return "PhotoGallery_AlbumEditView_CreateAlbum";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Create a Photo Album'.
         /// </summary>
         public static string PhotoGallery_AlbumEditView_CreateAlbum {
             get {
                 return ResourceManager.GetString("PhotoGallery_AlbumEditView_CreateAlbum", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'PhotoGallery_AlbumEditView_Description'.
+        /// </summary>
+        public static string PhotoGallery_AlbumEditView_Description_PropertyName {
+            get {
+                return "PhotoGallery_AlbumEditView_Description";
             }
         }
         
@@ -3384,11 +6660,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'PhotoGallery_AlbumEditView_EditAlbum'.
+        /// </summary>
+        public static string PhotoGallery_AlbumEditView_EditAlbum_PropertyName {
+            get {
+                return "PhotoGallery_AlbumEditView_EditAlbum";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Update a Photo Album'.
         /// </summary>
         public static string PhotoGallery_AlbumEditView_EditAlbum {
             get {
                 return ResourceManager.GetString("PhotoGallery_AlbumEditView_EditAlbum", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'PhotoGallery_AlbumEditView_Name'.
+        /// </summary>
+        public static string PhotoGallery_AlbumEditView_Name_PropertyName {
+            get {
+                return "PhotoGallery_AlbumEditView_Name";
             }
         }
         
@@ -3402,11 +6696,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'PhotoGallery_AlbumEditView_NameRequired'.
+        /// </summary>
+        public static string PhotoGallery_AlbumEditView_NameRequired_PropertyName {
+            get {
+                return "PhotoGallery_AlbumEditView_NameRequired";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Album name is required.'.
         /// </summary>
         public static string PhotoGallery_AlbumEditView_NameRequired {
             get {
                 return ResourceManager.GetString("PhotoGallery_AlbumEditView_NameRequired", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'PhotoGallery_AlbumEditView_Privacy'.
+        /// </summary>
+        public static string PhotoGallery_AlbumEditView_Privacy_PropertyName {
+            get {
+                return "PhotoGallery_AlbumEditView_Privacy";
             }
         }
         
@@ -3420,11 +6732,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'PhotoGallery_AlbumList_Delete'.
+        /// </summary>
+        public static string PhotoGallery_AlbumList_Delete_PropertyName {
+            get {
+                return "PhotoGallery_AlbumList_Delete";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Delete Album'.
         /// </summary>
         public static string PhotoGallery_AlbumList_Delete {
             get {
                 return ResourceManager.GetString("PhotoGallery_AlbumList_Delete", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'PhotoGallery_AlbumList_DeleteConfirmation'.
+        /// </summary>
+        public static string PhotoGallery_AlbumList_DeleteConfirmation_PropertyName {
+            get {
+                return "PhotoGallery_AlbumList_DeleteConfirmation";
             }
         }
         
@@ -3438,11 +6768,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'PhotoGallery_AlbumList_Edit'.
+        /// </summary>
+        public static string PhotoGallery_AlbumList_Edit_PropertyName {
+            get {
+                return "PhotoGallery_AlbumList_Edit";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Edit Album'.
         /// </summary>
         public static string PhotoGallery_AlbumList_Edit {
             get {
                 return ResourceManager.GetString("PhotoGallery_AlbumList_Edit", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'PhotoGallery_AlbumList_PhotoCount'.
+        /// </summary>
+        public static string PhotoGallery_AlbumList_PhotoCount_PropertyName {
+            get {
+                return "PhotoGallery_AlbumList_PhotoCount";
             }
         }
         
@@ -3456,11 +6804,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'PhotoGallery_AlbumList_View'.
+        /// </summary>
+        public static string PhotoGallery_AlbumList_View_PropertyName {
+            get {
+                return "PhotoGallery_AlbumList_View";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'View Album'.
         /// </summary>
         public static string PhotoGallery_AlbumList_View {
             get {
                 return ResourceManager.GetString("PhotoGallery_AlbumList_View", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'PhotoGallery_AlbumView_Albums'.
+        /// </summary>
+        public static string PhotoGallery_AlbumView_Albums_PropertyName {
+            get {
+                return "PhotoGallery_AlbumView_Albums";
             }
         }
         
@@ -3474,11 +6840,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'PhotoGallery_AlbumView_CreateAlbum'.
+        /// </summary>
+        public static string PhotoGallery_AlbumView_CreateAlbum_PropertyName {
+            get {
+                return "PhotoGallery_AlbumView_CreateAlbum";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Create a Photo Album'.
         /// </summary>
         public static string PhotoGallery_AlbumView_CreateAlbum {
             get {
                 return ResourceManager.GetString("PhotoGallery_AlbumView_CreateAlbum", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'PhotoGallery_AlbumView_MyAlbums'.
+        /// </summary>
+        public static string PhotoGallery_AlbumView_MyAlbums_PropertyName {
+            get {
+                return "PhotoGallery_AlbumView_MyAlbums";
             }
         }
         
@@ -3492,11 +6876,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'PhotoGallery_AlbumView_NewAlbums'.
+        /// </summary>
+        public static string PhotoGallery_AlbumView_NewAlbums_PropertyName {
+            get {
+                return "PhotoGallery_AlbumView_NewAlbums";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'New albums'.
         /// </summary>
         public static string PhotoGallery_AlbumView_NewAlbums {
             get {
                 return ResourceManager.GetString("PhotoGallery_AlbumView_NewAlbums", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'PhotoGallery_BackToAlbumList'.
+        /// </summary>
+        public static string PhotoGallery_BackToAlbumList_PropertyName {
+            get {
+                return "PhotoGallery_BackToAlbumList";
             }
         }
         
@@ -3510,11 +6912,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'PhotoGallery_BackToPhotoList'.
+        /// </summary>
+        public static string PhotoGallery_BackToPhotoList_PropertyName {
+            get {
+                return "PhotoGallery_BackToPhotoList";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Back to photos'.
         /// </summary>
         public static string PhotoGallery_BackToPhotoList {
             get {
                 return ResourceManager.GetString("PhotoGallery_BackToPhotoList", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'PhotoGallery_FileDelete_Tooltip'.
+        /// </summary>
+        public static string PhotoGallery_FileDelete_Tooltip_PropertyName {
+            get {
+                return "PhotoGallery_FileDelete_Tooltip";
             }
         }
         
@@ -3528,11 +6948,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'PhotoGallery_FilePreview_Tooltip'.
+        /// </summary>
+        public static string PhotoGallery_FilePreview_Tooltip_PropertyName {
+            get {
+                return "PhotoGallery_FilePreview_Tooltip";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Click here to see file details and comments'.
         /// </summary>
         public static string PhotoGallery_FilePreview_Tooltip {
             get {
                 return ResourceManager.GetString("PhotoGallery_FilePreview_Tooltip", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'PhotoGallery_MyPhotos_ListEmpty'.
+        /// </summary>
+        public static string PhotoGallery_MyPhotos_ListEmpty_PropertyName {
+            get {
+                return "PhotoGallery_MyPhotos_ListEmpty";
             }
         }
         
@@ -3546,11 +6984,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'PhotoGallery_PhotoEditView_AlbumCover'.
+        /// </summary>
+        public static string PhotoGallery_PhotoEditView_AlbumCover_PropertyName {
+            get {
+                return "PhotoGallery_PhotoEditView_AlbumCover";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Use photo as Album Cover'.
         /// </summary>
         public static string PhotoGallery_PhotoEditView_AlbumCover {
             get {
                 return ResourceManager.GetString("PhotoGallery_PhotoEditView_AlbumCover", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'PhotoGallery_PhotoEditView_Description'.
+        /// </summary>
+        public static string PhotoGallery_PhotoEditView_Description_PropertyName {
+            get {
+                return "PhotoGallery_PhotoEditView_Description";
             }
         }
         
@@ -3564,11 +7020,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'PhotoGallery_PhotoEditView_EditPhoto'.
+        /// </summary>
+        public static string PhotoGallery_PhotoEditView_EditPhoto_PropertyName {
+            get {
+                return "PhotoGallery_PhotoEditView_EditPhoto";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Edit Photo'.
         /// </summary>
         public static string PhotoGallery_PhotoEditView_EditPhoto {
             get {
                 return ResourceManager.GetString("PhotoGallery_PhotoEditView_EditPhoto", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'PhotoGallery_PhotoEditView_Name'.
+        /// </summary>
+        public static string PhotoGallery_PhotoEditView_Name_PropertyName {
+            get {
+                return "PhotoGallery_PhotoEditView_Name";
             }
         }
         
@@ -3582,11 +7056,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'PhotoGallery_PhotoEditView_Privacy'.
+        /// </summary>
+        public static string PhotoGallery_PhotoEditView_Privacy_PropertyName {
+            get {
+                return "PhotoGallery_PhotoEditView_Privacy";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Privacy'.
         /// </summary>
         public static string PhotoGallery_PhotoEditView_Privacy {
             get {
                 return ResourceManager.GetString("PhotoGallery_PhotoEditView_Privacy", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'PhotoGallery_PhotoListView_AddMore'.
+        /// </summary>
+        public static string PhotoGallery_PhotoListView_AddMore_PropertyName {
+            get {
+                return "PhotoGallery_PhotoListView_AddMore";
             }
         }
         
@@ -3600,11 +7092,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'PhotoGallery_PhotoListView_Comments'.
+        /// </summary>
+        public static string PhotoGallery_PhotoListView_Comments_PropertyName {
+            get {
+                return "PhotoGallery_PhotoListView_Comments";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Leave a comment'.
         /// </summary>
         public static string PhotoGallery_PhotoListView_Comments {
             get {
                 return ResourceManager.GetString("PhotoGallery_PhotoListView_Comments", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'PhotoGallery_PhotoListView_Delete'.
+        /// </summary>
+        public static string PhotoGallery_PhotoListView_Delete_PropertyName {
+            get {
+                return "PhotoGallery_PhotoListView_Delete";
             }
         }
         
@@ -3618,11 +7128,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'PhotoGallery_PhotoListView_DeleteConfirmation'.
+        /// </summary>
+        public static string PhotoGallery_PhotoListView_DeleteConfirmation_PropertyName {
+            get {
+                return "PhotoGallery_PhotoListView_DeleteConfirmation";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Are you sure you want to delete the photo ?'.
         /// </summary>
         public static string PhotoGallery_PhotoListView_DeleteConfirmation {
             get {
                 return ResourceManager.GetString("PhotoGallery_PhotoListView_DeleteConfirmation", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'PhotoGallery_PhotoListView_Edit'.
+        /// </summary>
+        public static string PhotoGallery_PhotoListView_Edit_PropertyName {
+            get {
+                return "PhotoGallery_PhotoListView_Edit";
             }
         }
         
@@ -3636,11 +7164,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'PhotoGallery_PhotoListView_Organize'.
+        /// </summary>
+        public static string PhotoGallery_PhotoListView_Organize_PropertyName {
+            get {
+                return "PhotoGallery_PhotoListView_Organize";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Organize Photos'.
         /// </summary>
         public static string PhotoGallery_PhotoListView_Organize {
             get {
                 return ResourceManager.GetString("PhotoGallery_PhotoListView_Organize", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'PhotoGallery_PhotoListView_View'.
+        /// </summary>
+        public static string PhotoGallery_PhotoListView_View_PropertyName {
+            get {
+                return "PhotoGallery_PhotoListView_View";
             }
         }
         
@@ -3654,11 +7200,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'WallNotes_Button_Comment'.
+        /// </summary>
+        public static string WallNotes_Button_Comment_PropertyName {
+            get {
+                return "WallNotes_Button_Comment";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Comment'.
         /// </summary>
         public static string WallNotes_Button_Comment {
             get {
                 return ResourceManager.GetString("WallNotes_Button_Comment", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'WallNotes_Button_Delete'.
+        /// </summary>
+        public static string WallNotes_Button_Delete_PropertyName {
+            get {
+                return "WallNotes_Button_Delete";
             }
         }
         
@@ -3672,11 +7236,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'WallNotes_Button_Save'.
+        /// </summary>
+        public static string WallNotes_Button_Save_PropertyName {
+            get {
+                return "WallNotes_Button_Save";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Post'.
         /// </summary>
         public static string WallNotes_Button_Save {
             get {
                 return ResourceManager.GetString("WallNotes_Button_Save", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'WallNotes_Button_Upload'.
+        /// </summary>
+        public static string WallNotes_Button_Upload_PropertyName {
+            get {
+                return "WallNotes_Button_Upload";
             }
         }
         
@@ -3690,11 +7272,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'WallNotes_ConfirmDelete'.
+        /// </summary>
+        public static string WallNotes_ConfirmDelete_PropertyName {
+            get {
+                return "WallNotes_ConfirmDelete";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'This note will be deleted. Are you sure?'.
         /// </summary>
         public static string WallNotes_ConfirmDelete {
             get {
                 return ResourceManager.GetString("WallNotes_ConfirmDelete", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'WallNotes_NewCommentAdded'.
+        /// </summary>
+        public static string WallNotes_NewCommentAdded_PropertyName {
+            get {
+                return "WallNotes_NewCommentAdded";
             }
         }
         
@@ -3708,11 +7308,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'WallNotes_NewCommentClickToReply'.
+        /// </summary>
+        public static string WallNotes_NewCommentClickToReply_PropertyName {
+            get {
+                return "WallNotes_NewCommentClickToReply";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Click here to post a reply.'.
         /// </summary>
         public static string WallNotes_NewCommentClickToReply {
             get {
                 return ResourceManager.GetString("WallNotes_NewCommentClickToReply", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'WallNotes_NewNoteAdded'.
+        /// </summary>
+        public static string WallNotes_NewNoteAdded_PropertyName {
+            get {
+                return "WallNotes_NewNoteAdded";
             }
         }
         
@@ -3726,11 +7344,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'WallNotes_NoData'.
+        /// </summary>
+        public static string WallNotes_NoData_PropertyName {
+            get {
+                return "WallNotes_NoData";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Currently there are no messages on the wall.'.
         /// </summary>
         public static string WallNotes_NoData {
             get {
                 return ResourceManager.GetString("WallNotes_NoData", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'WallNotes_NotificationSubjectNote'.
+        /// </summary>
+        public static string WallNotes_NotificationSubjectNote_PropertyName {
+            get {
+                return "WallNotes_NotificationSubjectNote";
             }
         }
         
@@ -3744,11 +7380,29 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'WallNotes_UploadButtonText'.
+        /// </summary>
+        public static string WallNotes_UploadButtonText_PropertyName {
+            get {
+                return "WallNotes_UploadButtonText";
+            }
+        }
+        
+        /// <summary>
         /// Looks up a localized string similar to 'Upload'.
         /// </summary>
         public static string WallNotes_UploadButtonText {
             get {
                 return ResourceManager.GetString("WallNotes_UploadButtonText", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'WallNotes_WatermarkText'.
+        /// </summary>
+        public static string WallNotes_WatermarkText_PropertyName {
+            get {
+                return "WallNotes_WatermarkText";
             }
         }
         
