@@ -1201,7 +1201,7 @@ Srdačno,
     <value>Zakači poruku</value>
   </data>
   <data name="Discussion_UnPinItem" xml:space="preserve">
-    <value>Odkači poruku</value>
+    <value>Otkači poruku</value>
   </data>
   <data name="Discussion_Topic_SortHotTopicsOnTop" xml:space="preserve">
     <value>Poredak: Vruće teme na vrh</value>
@@ -1273,5 +1273,11 @@ MonoX Team</value>
   </data>
   <data name="Discussion_DiscussionBoardList" xml:space="preserve">
     <value>Lista Rasprava</value>
+  </data>
+  <data name="Discussion_Topic_BoardEdit" xml:space="preserve">
+    <value>Izmjeni</value>
+  </data>
+  <data name="Discussion_Message_Edit" xml:space="preserve">
+    <value>Izmjeni</value>
   </data>
 </root>

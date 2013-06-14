@@ -882,7 +882,7 @@ Best regards,
     <value>Unmark as Answer</value>
   </data>
   <data name="Discussion_TopicAnswerDescription" xml:space="preserve">
-    <value>Message is market as an answer to this topic. Unmark it as an answer.</value>
+    <value>Message is marked as an answer to this topic. Unmark it as an answer.</value>
   </data>
   <data name="Discussion_Topic_TopicAnswer" xml:space="preserve">
     <value>Answered</value>
@@ -1368,5 +1368,11 @@ MonoX Team</value>
   </data>
   <data name="Discussion_NewBoardCreated" xml:space="preserve">
     <value>New Discussion Board Created</value>
+  </data>
+  <data name="Discussion_Topic_BoardEdit" xml:space="preserve">
+    <value>Edit</value>
+  </data>
+  <data name="Discussion_Message_Edit" xml:space="preserve">
+    <value>Edit</value>
   </data>
 </root>

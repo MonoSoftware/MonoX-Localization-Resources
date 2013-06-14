@@ -2615,4 +2615,13 @@ included in the keyword list).</value>
   <data name="UserManager_sortFailedPasswordAttempts" xml:space="preserve">
     <value>Failed password attempts</value>
   </data>
+  <data name="NewsletterManager_validateEmail" xml:space="preserve">
+    <value>Invalid data entered in E-mail field!</value>
+  </data>
+  <data name="PortalSettings_jQueryCSSReferencePath" xml:space="preserve">
+    <value>jQuery CSS reference path</value>
+  </data>
+  <data name="PortalSettings_MonoXSettingsjQueryCSSReferencePath" xml:space="preserve">
+    <value>jQuery CSS reference path. Change it to use other jQuery versions.</value>
+  </data>
 </root>

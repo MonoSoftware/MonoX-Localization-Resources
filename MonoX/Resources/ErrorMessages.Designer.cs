@@ -205,6 +205,42 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'ErrorPage_SubTitle'.
+        /// </summary>
+        public static string ErrorPage_SubTitle_PropertyName {
+            get {
+                return "ErrorPage_SubTitle";
+            }
+        }
+        
+        /// <summary>
+        /// Looks up a localized string similar to 'An error has occured in the application.'.
+        /// </summary>
+        public static string ErrorPage_SubTitle {
+            get {
+                return ResourceManager.GetString("ErrorPage_SubTitle", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'ErrorPage_Title'.
+        /// </summary>
+        public static string ErrorPage_Title_PropertyName {
+            get {
+                return "ErrorPage_Title";
+            }
+        }
+        
+        /// <summary>
+        /// Looks up a localized string similar to 'Error'.
+        /// </summary>
+        public static string ErrorPage_Title {
+            get {
+                return ResourceManager.GetString("ErrorPage_Title", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
         /// Gets the strongly typed name for property 'ImageTypeRequired'.
         /// </summary>
         public static string ImageTypeRequired_PropertyName {
@@ -637,6 +673,22 @@ namespace MonoSoftware.MonoX.Resources {
         /// <returns>The EntityIdRequired property value.</returns>
         public static string EntityIdRequiredFormat() {
             return EntityIdRequired;
+        }
+        
+        /// <summary>
+        /// The stub formatting method returning the ErrorPage_SubTitle property value.
+        /// </summary>
+        /// <returns>The ErrorPage_SubTitle property value.</returns>
+        public static string ErrorPage_SubTitleFormat() {
+            return ErrorPage_SubTitle;
+        }
+        
+        /// <summary>
+        /// The stub formatting method returning the ErrorPage_Title property value.
+        /// </summary>
+        /// <returns>The ErrorPage_Title property value.</returns>
+        public static string ErrorPage_TitleFormat() {
+            return ErrorPage_Title;
         }
         
         /// <summary>

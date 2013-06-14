@@ -1555,6 +1555,24 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_Message_Edit'.
+        /// </summary>
+        public static string Discussion_Message_Edit_PropertyName {
+            get {
+                return "Discussion_Message_Edit";
+            }
+        }
+        
+        /// <summary>
+        /// Looks up a localized string similar to 'Edit'.
+        /// </summary>
+        public static string Discussion_Message_Edit {
+            get {
+                return ResourceManager.GetString("Discussion_Message_Edit", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
         /// Gets the strongly typed name for property 'Discussion_Message_PostCaption'.
         /// </summary>
         public static string Discussion_Message_PostCaption_PropertyName {
@@ -2271,6 +2289,24 @@ namespace MonoSoftware.MonoX.Resources {
         public static string Discussion_Topic_Approved {
             get {
                 return ResourceManager.GetString("Discussion_Topic_Approved", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Discussion_Topic_BoardEdit'.
+        /// </summary>
+        public static string Discussion_Topic_BoardEdit_PropertyName {
+            get {
+                return "Discussion_Topic_BoardEdit";
+            }
+        }
+        
+        /// <summary>
+        /// Looks up a localized string similar to 'Edit'.
+        /// </summary>
+        public static string Discussion_Topic_BoardEdit {
+            get {
+                return ResourceManager.GetString("Discussion_Topic_BoardEdit", _resourceCulture);
             }
         }
         
@@ -8083,6 +8119,14 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// The stub formatting method returning the Discussion_Message_Edit property value.
+        /// </summary>
+        /// <returns>The Discussion_Message_Edit property value.</returns>
+        public static string Discussion_Message_EditFormat() {
+            return Discussion_Message_Edit;
+        }
+        
+        /// <summary>
         /// The stub formatting method returning the Discussion_Message_PostCaption property value.
         /// </summary>
         /// <returns>The Discussion_Message_PostCaption property value.</returns>
@@ -8403,6 +8447,14 @@ namespace MonoSoftware.MonoX.Resources {
         /// <returns>The Discussion_Topic_Approved property value.</returns>
         public static string Discussion_Topic_ApprovedFormat() {
             return Discussion_Topic_Approved;
+        }
+        
+        /// <summary>
+        /// The stub formatting method returning the Discussion_Topic_BoardEdit property value.
+        /// </summary>
+        /// <returns>The Discussion_Topic_BoardEdit property value.</returns>
+        public static string Discussion_Topic_BoardEditFormat() {
+            return Discussion_Topic_BoardEdit;
         }
         
         /// <summary>

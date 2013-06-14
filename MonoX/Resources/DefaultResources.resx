@@ -1043,4 +1043,28 @@ Your {1} team</value>
   <data name="ContactForm_SubjectRequired" xml:space="preserve">
     <value>Please enter a value for Subject.</value>
   </data>
+  <data name="Button_Change" xml:space="preserve">
+    <value>Proceed</value>
+  </data>
+  <data name="PasswordRecovery_ChangeNote" xml:space="preserve">
+    <value>Change/Reset your password by clicking on the Proceed button.</value>
+  </data>
+  <data name="SocialDisconnect_EmptyButtonList" xml:space="preserve">
+    <value>You are not connected to any of the social networks.</value>
+  </data>
+  <data name="SocialDisconnect_FacebookButtonText" xml:space="preserve">
+    <value>Disconnect from Facebook</value>
+  </data>
+  <data name="SocialDisconnect_GoogleButtonText" xml:space="preserve">
+    <value>Disconnect from Google</value>
+  </data>
+  <data name="SocialDisconnect_LinkedInButtonText" xml:space="preserve">
+    <value>Disconnect from LinkedIn</value>
+  </data>
+  <data name="SocialDisconnect_Title" xml:space="preserve">
+    <value>Social Account Management</value>
+  </data>
+  <data name="SocialDisconnect_TwitterButtonText" xml:space="preserve">
+    <value>Disconnect from Twitter</value>
+  </data>
 </root>
