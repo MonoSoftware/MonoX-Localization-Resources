@@ -148,10 +148,10 @@
     <value>An unknown error occured. The account could not be created, please try again later. If the problem persists, please contact us.</value>
   </data>
   <data name="Membership_DuplicateEmail" xml:space="preserve">
-    <value>An user with this e-mail address already exists.</value>
+    <value>User with this e-mail address already exists.</value>
   </data>
   <data name="Membership_DuplicateUserName" xml:space="preserve">
-    <value>An user with this user name already exists.</value>
+    <value>User with this user name already exists.</value>
   </data>
   <data name="Membership_InvalidPassword" xml:space="preserve">
     <value>The password you provided is invalid. It must be at least {0} character(s) long{1}.</value>
@@ -160,7 +160,7 @@
     <value> and contain at least {0} non-alphanumeric character(s).</value>
   </data>
   <data name="Membership_Update_UnknownError" xml:space="preserve">
-    <value>An unknown error occured. The account could not be updated, please try again later. If the problem persists, please contact us.</value>
+    <value>Unknown error occured. The account could not be updated, please try again later. If the problem persists, please contact us.</value>
   </data>
   <data name="PageNotFound" xml:space="preserve">
     <value>Page not found</value>
