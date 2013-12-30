@@ -387,4 +387,13 @@
   <data name="OtherArticlesByAuthor" xml:space="preserve">
     <value>Other articles by:</value>
   </data>
+  <data name="Unpublished" xml:space="preserve">
+    <value>Unpublished</value>
+  </data>
+  <data name="Spam" xml:space="preserve">
+    <value>Spam</value>
+  </data>
+  <data name="Unapproved" xml:space="preserve">
+    <value>Unapproved</value>
+  </data>
 </root>

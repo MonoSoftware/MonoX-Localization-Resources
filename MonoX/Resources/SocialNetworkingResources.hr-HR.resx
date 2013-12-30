@@ -1280,4 +1280,16 @@ MonoX Team</value>
   <data name="Discussion_Message_Edit" xml:space="preserve">
     <value>Izmjeni</value>
   </data>
+  <data name="Discussion_Message_Spam" xml:space="preserve">
+    <value>Spam</value>
+  </data>
+  <data name="Discussion_Topic_Spam" xml:space="preserve">
+    <value>Spam</value>
+  </data>
+  <data name="Discussion_Message_Unapproved" xml:space="preserve">
+    <value>Neodobreno</value>
+  </data>
+  <data name="Discussion_Topic_Unapproved" xml:space="preserve">
+    <value>Neodobreno</value>
+  </data>
 </root>

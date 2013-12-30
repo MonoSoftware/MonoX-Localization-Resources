@@ -297,6 +297,7 @@
       <Generator>ResXFileCodeGeneratorProviderModel</Generator>
       <LastGenOutput>InstallerResources.Designer.cs</LastGenOutput>
       <CustomToolNamespace>MonoSoftware.MonoX.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="MonoX\Resources\InstallerResources.tr-TR.resx" />
     <EmbeddedResource Include="MonoX\Resources\JavascriptMessages.da-DK.resx">

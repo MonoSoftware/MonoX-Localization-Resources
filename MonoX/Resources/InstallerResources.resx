@@ -328,7 +328,7 @@
     <value>Web site &gt;</value>
   </data>
   <data name="InstallComplete_Note" xml:space="preserve">
-    <value>Please note: Worker process (Account: {0}) needs to have write permissions on the web.config file in order to write all settings and complete the installation process.</value>
+    <value>&lt;strong&gt;Please note:&lt;/strong&gt; Worker process (Account: {0}) needs to have write permissions on the web.config file in order to write all settings and complete the installation process.</value>
   </data>
   <data name="InstallComplete_Note2" xml:space="preserve">
     <value>Once you've finished click </value>
@@ -352,7 +352,7 @@
     <value>Custom</value>
   </data>
   <data name="Master_btnNext" xml:space="preserve">
-    <value>Next &gt;</value>
+    <value>Next</value>
   </data>
   <data name="Master_btnPrevious" xml:space="preserve">
     <value>&lt; Previous</value>

@@ -893,4 +893,10 @@ Un saluto,
   <data name="Discussion_TopicTags" xml:space="preserve">
     <value>Topic tags</value>
   </data>
+  <data name="Discussion_Message_Spam" xml:space="preserve">
+    <value>Spam</value>
+  </data>
+  <data name="Discussion_Topic_Spam" xml:space="preserve">
+    <value>Spam</value>
+  </data>
 </root>
