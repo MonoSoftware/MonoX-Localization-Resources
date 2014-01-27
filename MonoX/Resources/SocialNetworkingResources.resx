@@ -819,10 +819,10 @@ Best regards,
     <value>Posted</value>
   </data>
   <data name="Discussion_RepliesCount" xml:space="preserve">
-    <value>post(s).</value>
+    <value>post(s)</value>
   </data>
   <data name="Discussion_TopicCount" xml:space="preserve">
-    <value>topic(s).</value>
+    <value>topic(s)</value>
   </data>
   <data name="Discussion_TopicCreatedDate" xml:space="preserve">
     <value>Created</value>
@@ -837,7 +837,7 @@ Best regards,
     <value>Your post may require administrative approval before it is published. </value>
   </data>
   <data name="Discussion_ViewsCount" xml:space="preserve">
-    <value>view(s).</value>
+    <value>view(s)</value>
   </data>
   <data name="Discussion_ViewsCountToolTip" xml:space="preserve">
     <value>Topic viewed {0} times</value>
@@ -1386,5 +1386,17 @@ MonoX Team</value>
   </data>
   <data name="Discussion_Topic_Unapproved" xml:space="preserve">
     <value>Unapproved</value>
+  </data>
+  <data name="Comments_Validator_ErrorMessage" xml:space="preserve">
+    <value>Please enter your comment</value>
+  </data>
+  <data name="Messaging_ListAdmin_NameRequired" xml:space="preserve">
+    <value>Please enter a value for 'Name'</value>
+  </data>
+  <data name="BlockedUserList_FriendListNoMatchFormat" xml:space="preserve">
+    <value>No matches found for '{0}'.</value>
+  </data>
+  <data name="Discussion_Attachments" xml:space="preserve">
+    <value>Attachments:</value>
   </data>
 </root>

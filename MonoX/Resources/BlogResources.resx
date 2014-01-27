@@ -396,4 +396,7 @@
   <data name="Unapproved" xml:space="preserve">
     <value>Unapproved</value>
   </data>
+  <data name="Edit_ErrorMessage_AlreadyExits" xml:space="preserve">
+    <value>Blog with similar title already exists.</value>
+  </data>
 </root>

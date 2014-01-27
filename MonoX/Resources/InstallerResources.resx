@@ -139,7 +139,7 @@
     <value>Choose the database where you would like to install MonoX.</value>
   </data>
   <data name="DatabaseInfo_NextText" xml:space="preserve">
-    <value>Finish &gt;</value>
+    <value>Finish</value>
   </data>
   <data name="DatabaseInfo_PageTitle" xml:space="preserve">
     <value>Database setup</value>
@@ -325,7 +325,7 @@
     <value>here</value>
   </data>
   <data name="InstallComplete_NextText" xml:space="preserve">
-    <value>Web site &gt;</value>
+    <value>Web site</value>
   </data>
   <data name="InstallComplete_Note" xml:space="preserve">
     <value>&lt;strong&gt;Please note:&lt;/strong&gt; Worker process (Account: {0}) needs to have write permissions on the web.config file in order to write all settings and complete the installation process.</value>
@@ -355,7 +355,7 @@
     <value>Next</value>
   </data>
   <data name="Master_btnPrevious" xml:space="preserve">
-    <value>&lt; Previous</value>
+    <value>Previous</value>
   </data>
   <data name="Master_EmptyHeaderTitle" xml:space="preserve">
     <value>Empty header title</value>
@@ -391,7 +391,7 @@
     <value>Multi application environment</value>
   </data>
   <data name="NewApplication_NextText" xml:space="preserve">
-    <value>Finish &gt;</value>
+    <value>Finish</value>
   </data>
   <data name="NewApplication_PageTitle" xml:space="preserve">
     <value>New application installation</value>
@@ -445,7 +445,7 @@
     <value>Advanced Settings</value>
   </data>
   <data name="AdvancedSettings_NextText" xml:space="preserve">
-    <value>Finish &gt;</value>
+    <value>Finish</value>
   </data>
   <data name="Default_linkMSNet40" xml:space="preserve">
     <value>Get help installing .NET framework (4.0)</value>
@@ -512,5 +512,14 @@
   </data>
   <data name="DatabaseInfo_ImportDataNote" xml:space="preserve">
     <value>Note: If you select the above option installer will import demo data into your MonoX installation.</value>
+  </data>
+  <data name="NewApplication_requiredNewApp" xml:space="preserve">
+    <value>Please enter new application name</value>
+  </data>
+  <data name="SQLInfo_labDatabaseName" xml:space="preserve">
+    <value>Database name: </value>
+  </data>
+  <data name="NewApplication_requiredCloneAppName" xml:space="preserve">
+    <value>Please select application to clone.</value>
   </data>
 </root>

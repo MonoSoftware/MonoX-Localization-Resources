@@ -169,7 +169,7 @@
     <value>Next</value>
   </data>
   <data name="NoPreference" xml:space="preserve">
-    <value>No preference</value>
+    <value>Please select</value>
   </data>
   <data name="Of" xml:space="preserve">
     <value>Of</value>
@@ -296,5 +296,8 @@
   </data>
   <data name="NoActionPermissions" xml:space="preserve">
     <value>You don't have permissions for this action.</value>
+  </data>
+  <data name="ValidationSummary_HeaderText" xml:space="preserve">
+    <value>The following issues have to be resolved before you can proceed:</value>
   </data>
 </root>

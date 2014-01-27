@@ -267,4 +267,10 @@
   <data name="UserAvatart_InvalidImageSize" xml:space="preserve">
     <value>Desired image dimensions you have uploaded are too small.</value>
   </data>
+  <data name="EditProfile_PasswordLengthErrorMessageFormat" xml:space="preserve">
+    <value>The length of parameter "Password" needs to be greater or equal to '{0}'</value>
+  </data>
+  <data name="EditProfile_PasswordLengthText" xml:space="preserve">
+    <value>!</value>
+  </data>
 </root>

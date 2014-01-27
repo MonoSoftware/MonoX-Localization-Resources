@@ -1067,4 +1067,10 @@ Your {1} team</value>
   <data name="SocialDisconnect_TwitterButtonText" xml:space="preserve">
     <value>Disconnect from Twitter</value>
   </data>
+  <data name="LoginSocial_EmailInvalid" xml:space="preserve">
+    <value>Please enter a valid E-mail address.</value>
+  </data>
+  <data name="UserPicker_ErrorMessage" xml:space="preserve">
+    <value>Please select a user or a group of users</value>
+  </data>
 </root>
