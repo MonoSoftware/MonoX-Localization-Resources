@@ -649,7 +649,7 @@
     <value>Create banner ads and manage your campaigns here.</value>
   </data>
   <data name="Default_Amazon" xml:space="preserve">
-    <value>Use Amazon Simple Storage Service (S3) - highly scalable, reliable, fast, inexpensive data storage infrastructure - to store portal files. </value>
+    <value>Use Amazon Simple Storage Service (S3)</value>
   </data>
   <data name="Default_Blog" xml:space="preserve">
     <value>Create and publish blog posts; assign posts to roles, categories and tags.</value>
@@ -2614,6 +2614,18 @@ included in the keyword list).</value>
   </data>
   <data name="UserManager_sortFailedPasswordAttempts" xml:space="preserve">
     <value>Failed password attempts</value>
+  </data>
+  <data name="AdminHeader_lnkAzure" xml:space="preserve">
+    <value>Azure</value>
+  </data>
+  <data name="Default_Azure" xml:space="preserve">
+    <value>Use Azure Blob Storage</value>
+  </data>
+  <data name="Default_lnkCloud" xml:space="preserve">
+    <value>CLOUD</value>
+  </data>
+  <data name="FileAdminAzure_PageTitle" xml:space="preserve">
+    <value>Azure blob storage administration</value>
   </data>
   <data name="NewsletterManager_validateEmail" xml:space="preserve">
     <value>Invalid data entered in E-mail field!</value>

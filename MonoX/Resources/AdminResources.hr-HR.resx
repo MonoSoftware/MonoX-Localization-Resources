@@ -649,7 +649,7 @@
     <value>Upravljanje pojedinačnim reklamama i skupnim reklamnim kampanjama.</value>
   </data>
   <data name="Default_Amazon" xml:space="preserve">
-    <value>Koristite Amazon Simple Storage Service (S3) - skalabilnu, pouzdanu, brzu i jeftinu infrastrukturu za pohranu podataka.</value>
+    <value>Koristite Amazon Simple Storage Service (S3)</value>
   </data>
   <data name="Default_Blog" xml:space="preserve">
     <value>Kreiranje i objavljivanje blog postova; definiranje uloga, kategorija i tagova, itd.</value>
@@ -2590,6 +2590,18 @@ included in the keyword list).</value>
   </data>
   <data name="UserManager_sortFailedPasswordAttempts" xml:space="preserve">
     <value>Broj pokušaja za lozinku</value>
+  </data>
+  <data name="AdminHeader_lnkAzure" xml:space="preserve">
+    <value>Azure</value>
+  </data>
+  <data name="Default_Azure" xml:space="preserve">
+    <value>Koristite Azure Blob Storage</value>
+  </data>
+  <data name="Default_lnkCloud" xml:space="preserve">
+    <value>OBLAK</value>
+  </data>
+  <data name="FileAdminAzure_PageTitle" xml:space="preserve">
+    <value>Azure blob storage administracija</value>
   </data>
   <data name="PortalSettings_jQueryCSSReferencePath" xml:space="preserve">
     <value>jQuery CSS putanja</value>
