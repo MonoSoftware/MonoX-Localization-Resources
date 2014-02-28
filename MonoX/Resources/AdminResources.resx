@@ -2654,4 +2654,7 @@ included in the keyword list).</value>
   <data name="NewsCategoryManager_AlertPrompt" xml:space="preserve">
     <value>News Category Manager</value>
   </data>
+  <data name="PortalSettings_RequiredMessageFormat" xml:space="preserve">
+    <value>"{0}" is required.</value>
+  </data>
 </root>

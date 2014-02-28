@@ -159,6 +159,9 @@
   <data name="SearchFilterCaption" xml:space="preserve">
     <value>Search in:</value>
   </data>
+  <data name="SearchResultsTemplateError" xml:space="preserve">
+    <value>Search results were not rendered correctly.</value>
+  </data>
   <data name="UserProfileProviderTitle" xml:space="preserve">
     <value>User profiles</value>
   </data>
