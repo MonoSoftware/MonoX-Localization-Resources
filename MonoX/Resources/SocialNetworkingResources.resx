@@ -1399,4 +1399,10 @@ MonoX Team</value>
   <data name="Discussion_Attachments" xml:space="preserve">
     <value>Attachments:</value>
   </data>
+  <data name="BlockedUserList_Clear" xml:space="preserve">
+    <value>Clear</value>
+  </data>
+  <data name="BlockedUserList_Filter" xml:space="preserve">
+    <value>Filter</value>
+  </data>
 </root>
