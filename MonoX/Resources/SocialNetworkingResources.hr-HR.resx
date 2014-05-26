@@ -220,8 +220,8 @@
     <value>Otvorena grupa?</value>
   </data>
   <data name="Groups_GroupEdit_PrivacyLegend" xml:space="preserve">
-    <value>Svi korisnici se mogu priključiti&lt;i&gt;otvorenim grupama&lt;/i&gt; i pozvati ostale korisnike. Sve informacije unutar otvorenih grupa su javne.&lt;br /&gt;
-Adminisatratori &lt;i&gt;zatvorenih grupa&lt;/i&gt; moraju odobriti zahtjev za pridruživanjem. Svi mogu vidjeti opise grupa, ali samo članovi mogu vidjeti njihov sadržaj.</value>
+    <value>Svi korisnici se mogu priključiti &lt;i&gt;otvorenim grupama&lt;/i&gt; i pozvati ostale korisnike. Sve informacije unutar otvorenih grupa su javne.&lt;br /&gt;
+Administratori &lt;i&gt;zatvorenih grupa&lt;/i&gt; moraju odobriti zahtjev za pridruživanjem. Svi mogu vidjeti opise grupa, ali samo članovi mogu vidjeti njihov sadržaj.</value>
   </data>
   <data name="Groups_GroupList_AddNew" xml:space="preserve">
     <value>Dodaj novu grupu</value>
