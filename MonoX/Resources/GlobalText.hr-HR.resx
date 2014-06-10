@@ -291,4 +291,7 @@
   <data name="NoActionPermissions" xml:space="preserve">
     <value>Nemate dopuštenje za ovu radnju.</value>
   </data>
+  <data name="ValidationSummary_HeaderText" xml:space="preserve">
+    <value>Sljedeći problemi trebaju biti riješeni kako biste mogli nastaviti:</value>
+  </data>
 </root>
