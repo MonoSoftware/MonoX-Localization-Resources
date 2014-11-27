@@ -2657,4 +2657,142 @@ included in the keyword list).</value>
   <data name="PortalSettings_RequiredMessageFormat" xml:space="preserve">
     <value>"{0}" is required.</value>
   </data>
+  <data name="AdminHeader_Analytics" xml:space="preserve">
+    <value>Analytics</value>
+  </data>
+  <data name="Analytics_Albums_Title" xml:space="preserve">
+    <value>Albums Created</value>
+  </data>
+  <data name="Analytics_Albums_Total" xml:space="preserve">
+    <value>Albums Total</value>
+  </data>
+  <data name="Analytics_BlogPosts_Title" xml:space="preserve">
+    <value>Blog Articles Created</value>
+  </data>
+  <data name="Analytics_BlogPosts_Total" xml:space="preserve">
+    <value>Total Blog Articles</value>
+  </data>
+  <data name="Analytics_Comments_Title" xml:space="preserve">
+    <value>New Comments</value>
+  </data>
+  <data name="Analytics_Comments_WallNotesTitle" xml:space="preserve">
+    <value>New Wall Posts</value>
+  </data>
+  <data name="Analytics_Dashboard_BrowserStatistics" xml:space="preserve">
+    <value>Browser Statistics</value>
+  </data>
+  <data name="Analytics_Dashboard_ViewMore" xml:space="preserve">
+    <value>View More</value>
+  </data>
+  <data name="Analytics_DateRange_LastMonth" xml:space="preserve">
+    <value>Last Month</value>
+  </data>
+  <data name="Analytics_DateRange_LastWeek" xml:space="preserve">
+    <value>Last Week</value>
+  </data>
+  <data name="Analytics_DateRange_LastYear" xml:space="preserve">
+    <value>Last Year</value>
+  </data>
+  <data name="Analytics_DateRange_ThisMonth" xml:space="preserve">
+    <value>This Month</value>
+  </data>
+  <data name="Analytics_DateRange_ThisWeek" xml:space="preserve">
+    <value>This Week</value>
+  </data>
+  <data name="Analytics_DateRange_ThisYear" xml:space="preserve">
+    <value>This Year</value>
+  </data>
+  <data name="Analytics_DateRange_Today" xml:space="preserve">
+    <value>Today</value>
+  </data>
+  <data name="Analytics_DateRange_Yesterday" xml:space="preserve">
+    <value>Yesterday</value>
+  </data>
+  <data name="Analytics_Events_Title" xml:space="preserve">
+    <value>Calendar Events Created</value>
+  </data>
+  <data name="Analytics_Events_Total" xml:space="preserve">
+    <value>Calendar Events Total</value>
+  </data>
+  <data name="Analytics_Groups_Title" xml:space="preserve">
+    <value>Groups Created</value>
+  </data>
+  <data name="Analytics_Groups_Total" xml:space="preserve">
+    <value>Groups Total</value>
+  </data>
+  <data name="Analytics_Messages_Title" xml:space="preserve">
+    <value>Private Messages Created</value>
+  </data>
+  <data name="Analytics_Messages_Total" xml:space="preserve">
+    <value>Total Private Messages</value>
+  </data>
+  <data name="Analytics_News_Title" xml:space="preserve">
+    <value>Newsletters Created</value>
+  </data>
+  <data name="Analytics_News_Total" xml:space="preserve">
+    <value>Total Newsletters</value>
+  </data>
+  <data name="Analytics_Photos_Title" xml:space="preserve">
+    <value>Photos Created</value>
+  </data>
+  <data name="Analytics_Photos_Total" xml:space="preserve">
+    <value>Total Photos</value>
+  </data>
+  <data name="Analytics_Posts_BoardsTotal" xml:space="preserve">
+    <value>Boards Total</value>
+  </data>
+  <data name="Analytics_Posts_MessagesTitle" xml:space="preserve">
+    <value>New Discussion Messages</value>
+  </data>
+  <data name="Analytics_Posts_NewBoards" xml:space="preserve">
+    <value>New Boards Created This Month</value>
+  </data>
+  <data name="Analytics_Posts_PostsTotal" xml:space="preserve">
+    <value>Posts Total</value>
+  </data>
+  <data name="Analytics_Posts_TopicsTitle" xml:space="preserve">
+    <value>New Discussion Topics</value>
+  </data>
+  <data name="Analytics_Posts_TopicsTotal" xml:space="preserve">
+    <value>Topics Total</value>
+  </data>
+  <data name="Analytics_Purge_Delete" xml:space="preserve">
+    <value>Delete</value>
+  </data>
+  <data name="Analytics_Purge_DeleteAll" xml:space="preserve">
+    <value>Delete All</value>
+  </data>
+  <data name="Analytics_Purge_DeleteLabel" xml:space="preserve">
+    <value>Delete entries older than</value>
+  </data>
+  <data name="Analytics_Purge_Months" xml:space="preserve">
+    <value>Month(s)</value>
+  </data>
+  <data name="Analytics_Statistics" xml:space="preserve">
+    <value>Statistics</value>
+  </data>
+  <data name="Analytics_StatisticsDiscussion" xml:space="preserve">
+    <value>Discussion statistics (including group discussions)</value>
+  </data>
+  <data name="Analytics_Title" xml:space="preserve">
+    <value>Analytics</value>
+  </data>
+  <data name="Analytics_Users_Discussions" xml:space="preserve">
+    <value>Discussions Per User</value>
+  </data>
+  <data name="Analytics_Users_LoggedInTitle" xml:space="preserve">
+    <value>User Activity (Logged In)</value>
+  </data>
+  <data name="Analytics_Users_Photos" xml:space="preserve">
+    <value>Photos Per User</value>
+  </data>
+  <data name="Analytics_Users_Posts" xml:space="preserve">
+    <value>Posts Per User</value>
+  </data>
+  <data name="Analytics_Users_RegisteredTitle" xml:space="preserve">
+    <value>Users Registered</value>
+  </data>
+  <data name="Analytics_Users_Total" xml:space="preserve">
+    <value>Currently Active Users / Total Users</value>
+  </data>
 </root>

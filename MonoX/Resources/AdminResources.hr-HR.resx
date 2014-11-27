@@ -2609,4 +2609,136 @@ included in the keyword list).</value>
   <data name="PortalSettings_MonoXSettingsjQueryCSSReferencePath" xml:space="preserve">
     <value>jQuery CSS putanja. Promijenite da biste koristili druge jQuery verzije.</value>
   </data>
+  <data name="Analytics_Albums_Title" xml:space="preserve">
+    <value>Kreirani Albumi</value>
+  </data>
+  <data name="Analytics_Albums_Total" xml:space="preserve">
+    <value>Ukupno Albuma</value>
+  </data>
+  <data name="Analytics_BlogPosts_Title" xml:space="preserve">
+    <value>Novi Članci Na Blogu</value>
+  </data>
+  <data name="Analytics_BlogPosts_Total" xml:space="preserve">
+    <value>Ukupno Članaka Na Blogu</value>
+  </data>
+  <data name="Analytics_Comments_Title" xml:space="preserve">
+    <value>Novi Komentari</value>
+  </data>
+  <data name="Analytics_Comments_WallNotesTitle" xml:space="preserve">
+    <value>Novi Komentari Na Zidu</value>
+  </data>
+  <data name="Analytics_Dashboard_BrowserStatistics" xml:space="preserve">
+    <value>Statistika Web Preglednika</value>
+  </data>
+  <data name="Analytics_Dashboard_ViewMore" xml:space="preserve">
+    <value>Više</value>
+  </data>
+  <data name="Analytics_DateRange_LastMonth" xml:space="preserve">
+    <value>Prošli Mjesec</value>
+  </data>
+  <data name="Analytics_DateRange_LastWeek" xml:space="preserve">
+    <value>Prošli Tjedan</value>
+  </data>
+  <data name="Analytics_DateRange_LastYear" xml:space="preserve">
+    <value>Prošla Godina</value>
+  </data>
+  <data name="Analytics_DateRange_ThisMonth" xml:space="preserve">
+    <value>Trenutni Mjesec</value>
+  </data>
+  <data name="Analytics_DateRange_ThisWeek" xml:space="preserve">
+    <value>Trenutni Tjedan</value>
+  </data>
+  <data name="Analytics_DateRange_ThisYear" xml:space="preserve">
+    <value>Trenutna Godina</value>
+  </data>
+  <data name="Analytics_DateRange_Today" xml:space="preserve">
+    <value>Danas</value>
+  </data>
+  <data name="Analytics_DateRange_Yesterday" xml:space="preserve">
+    <value>Jučer</value>
+  </data>
+  <data name="Analytics_Events_Title" xml:space="preserve">
+    <value>Eventi Kreirani</value>
+  </data>
+  <data name="Analytics_Events_Total" xml:space="preserve">
+    <value>Novi Eventi Na Kalendaru</value>
+  </data>
+  <data name="Analytics_Groups_Title" xml:space="preserve">
+    <value>Kreirane Grupe</value>
+  </data>
+  <data name="Analytics_Groups_Total" xml:space="preserve">
+    <value>Ukupno Grupa</value>
+  </data>
+  <data name="Analytics_Messages_Title" xml:space="preserve">
+    <value>Nove Privatne Poruke</value>
+  </data>
+  <data name="Analytics_Messages_Total" xml:space="preserve">
+    <value>Ukupno Privatnih Poruka</value>
+  </data>
+  <data name="Analytics_News_Title" xml:space="preserve">
+    <value>Kreirane Obavijesti</value>
+  </data>
+  <data name="Analytics_News_Total" xml:space="preserve">
+    <value>Ukupno Obavijesti</value>
+  </data>
+  <data name="Analytics_Photos_Title" xml:space="preserve">
+    <value>Slike Kreirane</value>
+  </data>
+  <data name="Analytics_Photos_Total" xml:space="preserve">
+    <value>Ukupno Slika</value>
+  </data>
+  <data name="Analytics_Posts_BoardsTotal" xml:space="preserve">
+    <value>Ukupno Rasprava</value>
+  </data>
+  <data name="Analytics_Posts_MessagesTitle" xml:space="preserve">
+    <value>Nove Poruke Na Raspravama</value>
+  </data>
+  <data name="Analytics_Posts_NewBoards" xml:space="preserve">
+    <value>Nove Rasprave Za Trenutni Mjesec</value>
+  </data>
+  <data name="Analytics_Posts_PostsTotal" xml:space="preserve">
+    <value>Ukupno Poruka</value>
+  </data>
+  <data name="Analytics_Posts_TopicsTitle" xml:space="preserve">
+    <value>Nove Teme Na Raspravama</value>
+  </data>
+  <data name="Analytics_Posts_TopicsTotal" xml:space="preserve">
+    <value>Ukupno Tema</value>
+  </data>
+  <data name="Analytics_Purge_Delete" xml:space="preserve">
+    <value>Obriši</value>
+  </data>
+  <data name="Analytics_Purge_DeleteAll" xml:space="preserve">
+    <value>Obriši Sve</value>
+  </data>
+  <data name="Analytics_Purge_DeleteLabel" xml:space="preserve">
+    <value>Obriši unose starije od</value>
+  </data>
+  <data name="Analytics_Purge_Months" xml:space="preserve">
+    <value>Mjeseci(ca)</value>
+  </data>
+  <data name="Analytics_Statistics" xml:space="preserve">
+    <value>Statistika</value>
+  </data>
+  <data name="Analytics_StatisticsDiscussion" xml:space="preserve">
+    <value>Statistika Rasprava (uključujuči rasprave na grupama)</value>
+  </data>
+  <data name="Analytics_Users_Discussions" xml:space="preserve">
+    <value>Rasprava Po Korisniku</value>
+  </data>
+  <data name="Analytics_Users_LoggedInTitle" xml:space="preserve">
+    <value>Aktivni Korisnici (Ulogirani)</value>
+  </data>
+  <data name="Analytics_Users_Photos" xml:space="preserve">
+    <value>Slika Po Korisniku</value>
+  </data>
+  <data name="Analytics_Users_Posts" xml:space="preserve">
+    <value>Poruka Po Danu</value>
+  </data>
+  <data name="Analytics_Users_RegisteredTitle" xml:space="preserve">
+    <value>Novi Korisnici</value>
+  </data>
+  <data name="Analytics_Users_Total" xml:space="preserve">
+    <value>Trenutno Aktivni Korisnici / Ukupno Korisnika</value>
+  </data>
 </root>
