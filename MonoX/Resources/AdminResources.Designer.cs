@@ -1843,6 +1843,222 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'Analytics_Menu_Albums'.
+        /// </summary>
+        public static string Analytics_Menu_Albums_PropertyName {
+            get {
+                return "Analytics_Menu_Albums";
+            }
+        }
+        
+        /// <summary>
+        /// Looks up a localized string similar to 'Albums'.
+        /// </summary>
+        public static string Analytics_Menu_Albums {
+            get {
+                return ResourceManager.GetString("Analytics_Menu_Albums", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Analytics_Menu_BlogPosts'.
+        /// </summary>
+        public static string Analytics_Menu_BlogPosts_PropertyName {
+            get {
+                return "Analytics_Menu_BlogPosts";
+            }
+        }
+        
+        /// <summary>
+        /// Looks up a localized string similar to 'Blog Posts'.
+        /// </summary>
+        public static string Analytics_Menu_BlogPosts {
+            get {
+                return ResourceManager.GetString("Analytics_Menu_BlogPosts", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Analytics_Menu_Comments'.
+        /// </summary>
+        public static string Analytics_Menu_Comments_PropertyName {
+            get {
+                return "Analytics_Menu_Comments";
+            }
+        }
+        
+        /// <summary>
+        /// Looks up a localized string similar to 'Comments'.
+        /// </summary>
+        public static string Analytics_Menu_Comments {
+            get {
+                return ResourceManager.GetString("Analytics_Menu_Comments", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Analytics_Menu_Dashboard'.
+        /// </summary>
+        public static string Analytics_Menu_Dashboard_PropertyName {
+            get {
+                return "Analytics_Menu_Dashboard";
+            }
+        }
+        
+        /// <summary>
+        /// Looks up a localized string similar to 'Dashboard'.
+        /// </summary>
+        public static string Analytics_Menu_Dashboard {
+            get {
+                return ResourceManager.GetString("Analytics_Menu_Dashboard", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Analytics_Menu_Events'.
+        /// </summary>
+        public static string Analytics_Menu_Events_PropertyName {
+            get {
+                return "Analytics_Menu_Events";
+            }
+        }
+        
+        /// <summary>
+        /// Looks up a localized string similar to 'Events'.
+        /// </summary>
+        public static string Analytics_Menu_Events {
+            get {
+                return ResourceManager.GetString("Analytics_Menu_Events", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Analytics_Menu_Groups'.
+        /// </summary>
+        public static string Analytics_Menu_Groups_PropertyName {
+            get {
+                return "Analytics_Menu_Groups";
+            }
+        }
+        
+        /// <summary>
+        /// Looks up a localized string similar to 'Groups'.
+        /// </summary>
+        public static string Analytics_Menu_Groups {
+            get {
+                return ResourceManager.GetString("Analytics_Menu_Groups", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Analytics_Menu_Messages'.
+        /// </summary>
+        public static string Analytics_Menu_Messages_PropertyName {
+            get {
+                return "Analytics_Menu_Messages";
+            }
+        }
+        
+        /// <summary>
+        /// Looks up a localized string similar to 'Messages'.
+        /// </summary>
+        public static string Analytics_Menu_Messages {
+            get {
+                return ResourceManager.GetString("Analytics_Menu_Messages", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Analytics_Menu_News'.
+        /// </summary>
+        public static string Analytics_Menu_News_PropertyName {
+            get {
+                return "Analytics_Menu_News";
+            }
+        }
+        
+        /// <summary>
+        /// Looks up a localized string similar to 'News'.
+        /// </summary>
+        public static string Analytics_Menu_News {
+            get {
+                return ResourceManager.GetString("Analytics_Menu_News", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Analytics_Menu_Photos'.
+        /// </summary>
+        public static string Analytics_Menu_Photos_PropertyName {
+            get {
+                return "Analytics_Menu_Photos";
+            }
+        }
+        
+        /// <summary>
+        /// Looks up a localized string similar to 'Photos'.
+        /// </summary>
+        public static string Analytics_Menu_Photos {
+            get {
+                return ResourceManager.GetString("Analytics_Menu_Photos", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Analytics_Menu_Posts'.
+        /// </summary>
+        public static string Analytics_Menu_Posts_PropertyName {
+            get {
+                return "Analytics_Menu_Posts";
+            }
+        }
+        
+        /// <summary>
+        /// Looks up a localized string similar to 'Posts'.
+        /// </summary>
+        public static string Analytics_Menu_Posts {
+            get {
+                return ResourceManager.GetString("Analytics_Menu_Posts", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Analytics_Menu_Purge'.
+        /// </summary>
+        public static string Analytics_Menu_Purge_PropertyName {
+            get {
+                return "Analytics_Menu_Purge";
+            }
+        }
+        
+        /// <summary>
+        /// Looks up a localized string similar to 'Purge'.
+        /// </summary>
+        public static string Analytics_Menu_Purge {
+            get {
+                return ResourceManager.GetString("Analytics_Menu_Purge", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'Analytics_Menu_Users'.
+        /// </summary>
+        public static string Analytics_Menu_Users_PropertyName {
+            get {
+                return "Analytics_Menu_Users";
+            }
+        }
+        
+        /// <summary>
+        /// Looks up a localized string similar to 'Users'.
+        /// </summary>
+        public static string Analytics_Menu_Users {
+            get {
+                return ResourceManager.GetString("Analytics_Menu_Users", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
         /// Gets the strongly typed name for property 'Analytics_Messages_Title'.
         /// </summary>
         public static string Analytics_Messages_Title_PropertyName {
@@ -16784,6 +17000,102 @@ namespace MonoSoftware.MonoX.Resources {
         /// <returns>The Analytics_Groups_Total property value.</returns>
         public static string Analytics_Groups_TotalFormat() {
             return Analytics_Groups_Total;
+        }
+        
+        /// <summary>
+        /// The stub formatting method returning the Analytics_Menu_Albums property value.
+        /// </summary>
+        /// <returns>The Analytics_Menu_Albums property value.</returns>
+        public static string Analytics_Menu_AlbumsFormat() {
+            return Analytics_Menu_Albums;
+        }
+        
+        /// <summary>
+        /// The stub formatting method returning the Analytics_Menu_BlogPosts property value.
+        /// </summary>
+        /// <returns>The Analytics_Menu_BlogPosts property value.</returns>
+        public static string Analytics_Menu_BlogPostsFormat() {
+            return Analytics_Menu_BlogPosts;
+        }
+        
+        /// <summary>
+        /// The stub formatting method returning the Analytics_Menu_Comments property value.
+        /// </summary>
+        /// <returns>The Analytics_Menu_Comments property value.</returns>
+        public static string Analytics_Menu_CommentsFormat() {
+            return Analytics_Menu_Comments;
+        }
+        
+        /// <summary>
+        /// The stub formatting method returning the Analytics_Menu_Dashboard property value.
+        /// </summary>
+        /// <returns>The Analytics_Menu_Dashboard property value.</returns>
+        public static string Analytics_Menu_DashboardFormat() {
+            return Analytics_Menu_Dashboard;
+        }
+        
+        /// <summary>
+        /// The stub formatting method returning the Analytics_Menu_Events property value.
+        /// </summary>
+        /// <returns>The Analytics_Menu_Events property value.</returns>
+        public static string Analytics_Menu_EventsFormat() {
+            return Analytics_Menu_Events;
+        }
+        
+        /// <summary>
+        /// The stub formatting method returning the Analytics_Menu_Groups property value.
+        /// </summary>
+        /// <returns>The Analytics_Menu_Groups property value.</returns>
+        public static string Analytics_Menu_GroupsFormat() {
+            return Analytics_Menu_Groups;
+        }
+        
+        /// <summary>
+        /// The stub formatting method returning the Analytics_Menu_Messages property value.
+        /// </summary>
+        /// <returns>The Analytics_Menu_Messages property value.</returns>
+        public static string Analytics_Menu_MessagesFormat() {
+            return Analytics_Menu_Messages;
+        }
+        
+        /// <summary>
+        /// The stub formatting method returning the Analytics_Menu_News property value.
+        /// </summary>
+        /// <returns>The Analytics_Menu_News property value.</returns>
+        public static string Analytics_Menu_NewsFormat() {
+            return Analytics_Menu_News;
+        }
+        
+        /// <summary>
+        /// The stub formatting method returning the Analytics_Menu_Photos property value.
+        /// </summary>
+        /// <returns>The Analytics_Menu_Photos property value.</returns>
+        public static string Analytics_Menu_PhotosFormat() {
+            return Analytics_Menu_Photos;
+        }
+        
+        /// <summary>
+        /// The stub formatting method returning the Analytics_Menu_Posts property value.
+        /// </summary>
+        /// <returns>The Analytics_Menu_Posts property value.</returns>
+        public static string Analytics_Menu_PostsFormat() {
+            return Analytics_Menu_Posts;
+        }
+        
+        /// <summary>
+        /// The stub formatting method returning the Analytics_Menu_Purge property value.
+        /// </summary>
+        /// <returns>The Analytics_Menu_Purge property value.</returns>
+        public static string Analytics_Menu_PurgeFormat() {
+            return Analytics_Menu_Purge;
+        }
+        
+        /// <summary>
+        /// The stub formatting method returning the Analytics_Menu_Users property value.
+        /// </summary>
+        /// <returns>The Analytics_Menu_Users property value.</returns>
+        public static string Analytics_Menu_UsersFormat() {
+            return Analytics_Menu_Users;
         }
         
         /// <summary>

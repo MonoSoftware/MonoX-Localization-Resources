@@ -2795,4 +2795,40 @@ included in the keyword list).</value>
   <data name="Analytics_Users_Total" xml:space="preserve">
     <value>Currently Active Users / Total Users</value>
   </data>
+  <data name="Analytics_Menu_Albums" xml:space="preserve">
+    <value>Albums</value>
+  </data>
+  <data name="Analytics_Menu_BlogPosts" xml:space="preserve">
+    <value>Blog Posts</value>
+  </data>
+  <data name="Analytics_Menu_Comments" xml:space="preserve">
+    <value>Comments</value>
+  </data>
+  <data name="Analytics_Menu_Dashboard" xml:space="preserve">
+    <value>Dashboard</value>
+  </data>
+  <data name="Analytics_Menu_Events" xml:space="preserve">
+    <value>Events</value>
+  </data>
+  <data name="Analytics_Menu_Groups" xml:space="preserve">
+    <value>Groups</value>
+  </data>
+  <data name="Analytics_Menu_Messages" xml:space="preserve">
+    <value>Messages</value>
+  </data>
+  <data name="Analytics_Menu_News" xml:space="preserve">
+    <value>News</value>
+  </data>
+  <data name="Analytics_Menu_Photos" xml:space="preserve">
+    <value>Photos</value>
+  </data>
+  <data name="Analytics_Menu_Posts" xml:space="preserve">
+    <value>Posts</value>
+  </data>
+  <data name="Analytics_Menu_Purge" xml:space="preserve">
+    <value>Purge</value>
+  </data>
+  <data name="Analytics_Menu_Users" xml:space="preserve">
+    <value>Users</value>
+  </data>
 </root>

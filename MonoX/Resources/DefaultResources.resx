@@ -1073,4 +1073,10 @@ Your {1} team</value>
   <data name="UserPicker_ErrorMessage" xml:space="preserve">
     <value>Please select a user or a group of users</value>
   </data>
+  <data name="RecentPhotos_Title" xml:space="preserve">
+    <value>Recent Photos</value>
+  </data>
+  <data name="RecentPhotos_ViewAllAlbums" xml:space="preserve">
+    <value>View All Albums</value>
+  </data>
 </root>
