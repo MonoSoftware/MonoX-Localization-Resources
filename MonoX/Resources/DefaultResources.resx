@@ -1079,4 +1079,10 @@ Your {1} team</value>
   <data name="RecentPhotos_ViewAllAlbums" xml:space="preserve">
     <value>View All Albums</value>
   </data>
+  <data name="HTML5Upload_UploadFilesText" xml:space="preserve">
+    <value>Or drag &amp; drop them on this area.</value>
+  </data>
+  <data name="HTML5Upload_UploadFilesTitle" xml:space="preserve">
+    <value>Upload files...</value>
+  </data>
 </root>

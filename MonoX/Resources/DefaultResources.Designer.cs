@@ -2082,6 +2082,42 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'HTML5Upload_UploadFilesText'.
+        /// </summary>
+        public static string HTML5Upload_UploadFilesText_PropertyName {
+            get {
+                return "HTML5Upload_UploadFilesText";
+            }
+        }
+        
+        /// <summary>
+        /// Looks up a localized string similar to 'Or drag &amp; drop them on this area.'.
+        /// </summary>
+        public static string HTML5Upload_UploadFilesText {
+            get {
+                return ResourceManager.GetString("HTML5Upload_UploadFilesText", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Gets the strongly typed name for property 'HTML5Upload_UploadFilesTitle'.
+        /// </summary>
+        public static string HTML5Upload_UploadFilesTitle_PropertyName {
+            get {
+                return "HTML5Upload_UploadFilesTitle";
+            }
+        }
+        
+        /// <summary>
+        /// Looks up a localized string similar to 'Upload files...'.
+        /// </summary>
+        public static string HTML5Upload_UploadFilesTitle {
+            get {
+                return ResourceManager.GetString("HTML5Upload_UploadFilesTitle", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
         /// Gets the strongly typed name for property 'HtmlEditor_DefaultText'.
         /// </summary>
         public static string HtmlEditor_DefaultText_PropertyName {
@@ -6583,6 +6619,22 @@ namespace MonoSoftware.MonoX.Resources {
         /// <returns>The GoogleMaps_DefaultLocation property value.</returns>
         public static string GoogleMaps_DefaultLocationFormat() {
             return GoogleMaps_DefaultLocation;
+        }
+        
+        /// <summary>
+        /// The stub formatting method returning the HTML5Upload_UploadFilesText property value.
+        /// </summary>
+        /// <returns>The HTML5Upload_UploadFilesText property value.</returns>
+        public static string HTML5Upload_UploadFilesTextFormat() {
+            return HTML5Upload_UploadFilesText;
+        }
+        
+        /// <summary>
+        /// The stub formatting method returning the HTML5Upload_UploadFilesTitle property value.
+        /// </summary>
+        /// <returns>The HTML5Upload_UploadFilesTitle property value.</returns>
+        public static string HTML5Upload_UploadFilesTitleFormat() {
+            return HTML5Upload_UploadFilesTitle;
         }
         
         /// <summary>
