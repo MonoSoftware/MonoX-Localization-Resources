@@ -1405,4 +1405,7 @@ MonoX Team</value>
   <data name="BlockedUserList_Filter" xml:space="preserve">
     <value>Filter</value>
   </data>
+  <data name="Messaging_MessageDetails_ReplyIsRequired" xml:space="preserve">
+    <value>Reply message is required.</value>
+  </data>
 </root>
