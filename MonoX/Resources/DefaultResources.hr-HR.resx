@@ -977,4 +977,7 @@ Vaš {1} tim</value>
   <data name="SocialDisconnect_TwitterButtonText" xml:space="preserve">
     <value>Prekini vezu s Twitter</value>
   </data>
+  <data name="CropImage_Rotate" xml:space="preserve">
+    <value>Zarotiraj</value>
+  </data>
 </root>

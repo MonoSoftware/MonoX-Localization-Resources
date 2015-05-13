@@ -1085,4 +1085,7 @@ Your {1} team</value>
   <data name="HTML5Upload_UploadFilesTitle" xml:space="preserve">
     <value>Upload files...</value>
   </data>
+  <data name="CropImage_Rotate" xml:space="preserve">
+    <value>Rotate</value>
+  </data>
 </root>
