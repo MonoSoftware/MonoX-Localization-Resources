@@ -1408,4 +1408,7 @@ MonoX Team</value>
   <data name="Messaging_MessageDetails_ReplyIsRequired" xml:space="preserve">
     <value>Reply message is required.</value>
   </data>
+  <data name="PhotoGallery_FileEdit_Tooltip" xml:space="preserve">
+    <value>Click here to edit file details and comments</value>
+  </data>
 </root>

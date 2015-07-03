@@ -7182,6 +7182,24 @@ namespace MonoSoftware.MonoX.Resources {
         }
         
         /// <summary>
+        /// Gets the strongly typed name for property 'PhotoGallery_FileEdit_Tooltip'.
+        /// </summary>
+        public static string PhotoGallery_FileEdit_Tooltip_PropertyName {
+            get {
+                return "PhotoGallery_FileEdit_Tooltip";
+            }
+        }
+        
+        /// <summary>
+        /// Looks up a localized string similar to 'Click here to edit file details and comments'.
+        /// </summary>
+        public static string PhotoGallery_FileEdit_Tooltip {
+            get {
+                return ResourceManager.GetString("PhotoGallery_FileEdit_Tooltip", _resourceCulture);
+            }
+        }
+        
+        /// <summary>
         /// Gets the strongly typed name for property 'PhotoGallery_FilePreview_Tooltip'.
         /// </summary>
         public static string PhotoGallery_FilePreview_Tooltip_PropertyName {
@@ -10686,6 +10704,14 @@ namespace MonoSoftware.MonoX.Resources {
         /// <returns>The PhotoGallery_FileDelete_Tooltip property value.</returns>
         public static string PhotoGallery_FileDelete_TooltipFormat() {
             return PhotoGallery_FileDelete_Tooltip;
+        }
+        
+        /// <summary>
+        /// The stub formatting method returning the PhotoGallery_FileEdit_Tooltip property value.
+        /// </summary>
+        /// <returns>The PhotoGallery_FileEdit_Tooltip property value.</returns>
+        public static string PhotoGallery_FileEdit_TooltipFormat() {
+            return PhotoGallery_FileEdit_Tooltip;
         }
         
         /// <summary>
