@@ -1411,4 +1411,7 @@ MonoX Team</value>
   <data name="PhotoGallery_FileEdit_Tooltip" xml:space="preserve">
     <value>Click here to edit file details and comments</value>
   </data>
+  <data name="PeopleSearch_RequestMessage_Validator_ErrorMessage" xml:space="preserve">
+    <value>Message too long!</value>
+  </data>
 </root>
