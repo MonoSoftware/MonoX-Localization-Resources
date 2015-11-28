@@ -980,4 +980,7 @@ Vaš {1} tim</value>
   <data name="CropImage_Rotate" xml:space="preserve">
     <value>Zarotiraj</value>
   </data>
+  <data name="UserPicker_ErrorMessage" xml:space="preserve">
+    <value>Molimo izaberite jednog ili više korisnika</value>
+  </data>
 </root>
